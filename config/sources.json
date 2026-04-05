@@ -1,0 +1,56 @@
+[
+  {
+    "name": "OpenAI News",
+    "type": "html",
+    "url": "https://openai.com/news/",
+    "base_url": "https://openai.com",
+    "include_patterns": ["/index/", "/news/"],
+    "exclude_patterns": ["/news/", "/news/research/", "/news/product/", "/news/safety/", "/news/company/"],
+    "limit": 12
+  },
+  {
+    "name": "Anthropic News",
+    "type": "html",
+    "url": "https://www.anthropic.com/news",
+    "base_url": "https://www.anthropic.com",
+    "include_patterns": ["/news/"],
+    "exclude_patterns": ["/news"],
+    "limit": 12
+  },
+  {
+    "name": "Google DeepMind Blog",
+    "type": "html",
+    "url": "https://deepmind.google/blog/",
+    "base_url": "https://deepmind.google",
+    "include_patterns": ["/blog/"],
+    "exclude_patterns": ["/blog/"],
+    "limit": 12
+  },
+  {
+    "name": "Google Research Blog",
+    "type": "html",
+    "url": "https://research.google/blog/",
+    "base_url": "https://research.google",
+    "include_patterns": ["/blog/"],
+    "exclude_patterns": ["/blog/"],
+    "limit": 12
+  },
+  {
+    "name": "Hugging Face Blog",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "limit": 12
+  },
+  {
+    "name": "MIT Technology Review AI",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "limit": 12
+  },
+  {
+    "name": "TechCrunch AI",
+    "type": "rss",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "limit": 12
+  }
+]
