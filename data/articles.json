@@ -1,5 +1,68 @@
 [
   {
+    "id": "fca815093c4ceecaaeaa",
+    "source": "TechCrunch AI",
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
+    "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+    "published": "2026-04-14T00:23:33+00:00",
+    "fetched_at": "2026-04-14T04:12:16+00:00"
+  },
+  {
+    "id": "093ed9f85f45a2cd7261",
+    "source": "TechCrunch AI",
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent",
+    "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+    "published": "2026-04-13T19:05:19+00:00",
+    "fetched_at": "2026-04-14T04:12:16+00:00"
+  },
+  {
+    "id": "8d52c396746475b52d54",
+    "source": "TechCrunch AI",
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+    "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+    "published": "2026-04-13T18:55:37+00:00",
+    "fetched_at": "2026-04-14T04:12:16+00:00"
+  },
+  {
+    "id": "ee48d2cc2d59edf0b030",
+    "source": "MIT Technology Review AI",
+    "title": "Why opinion on AI is so divided",
+    "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after&#8230;",
+    "published": "2026-04-13T15:48:28+00:00",
+    "fetched_at": "2026-04-14T04:12:15+00:00"
+  },
+  {
+    "id": "40a9f99f2f702290b87e",
+    "source": "TechCrunch AI",
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
+    "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+    "published": "2026-04-13T15:22:29+00:00",
+    "fetched_at": "2026-04-14T04:12:16+00:00"
+  },
+  {
+    "id": "6e2f2618618ca1367751",
+    "source": "MIT Technology Review AI",
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts",
+    "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise.&#160;&#8230;",
+    "published": "2026-04-13T13:00:00+00:00",
+    "fetched_at": "2026-04-14T04:12:15+00:00"
+  },
+  {
+    "id": "fcb36e63f0df491323a6",
+    "source": "TechCrunch AI",
+    "title": "The largest orbital compute cluster is open for business",
+    "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business",
+    "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+    "published": "2026-04-13T07:01:00+00:00",
+    "fetched_at": "2026-04-14T04:12:16+00:00"
+  },
+  {
     "id": "f733c869f5fe0fc642bb",
     "source": "TechCrunch AI",
     "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
@@ -826,6 +889,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "a4aded498b787e7e08ac",
+    "source": "Google Research Blog",
+    "title": "April 13, 2026 Towards developing future-ready skills with generative AI Education Innovation · Generative AI",
+    "url": "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-14T04:12:15+00:00"
   },
   {
     "id": "28d468e0422ad345d29e",
