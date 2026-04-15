@@ -1,5 +1,86 @@
 [
   {
+    "id": "32034ac62db037e49fde",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+    "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts",
+    "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+    "published": "2026-04-15T02:31:04+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "f468b966e2e77d8df966",
+    "source": "TechCrunch AI",
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos",
+    "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "published": "2026-04-14T18:09:12+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "b9b9c986fb94f446e7d3",
+    "source": "MIT Technology Review AI",
+    "title": "Redefining the future of software engineering",
+    "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering",
+    "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such&#8230;",
+    "published": "2026-04-14T18:00:00+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "0194248495a40f0b64c1",
+    "source": "TechCrunch AI",
+    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain",
+    "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+    "published": "2026-04-14T17:13:03+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "57505ca63df475f97ad0",
+    "source": "TechCrunch AI",
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+    "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+    "published": "2026-04-14T17:00:00+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "7ac61210c2114167bc3e",
+    "source": "TechCrunch AI",
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder",
+    "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+    "published": "2026-04-14T15:30:49+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "34110fc9b64202ad5e89",
+    "source": "TechCrunch AI",
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india",
+    "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+    "published": "2026-04-14T14:48:34+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "b62523d236e1ef6e2192",
+    "source": "TechCrunch AI",
+    "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+    "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice",
+    "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+    "published": "2026-04-14T14:22:44+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
+    "id": "f3314bccebf773b74145",
+    "source": "MIT Technology Review AI",
+    "title": "Coming soon: 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now",
+    "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list&#8230;",
+    "published": "2026-04-14T11:00:00+00:00",
+    "fetched_at": "2026-04-15T04:11:26+00:00"
+  },
+  {
     "id": "fca815093c4ceecaaeaa",
     "source": "TechCrunch AI",
     "title": "OpenAI has bought AI personal finance startup Hiro",
@@ -889,6 +970,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5132cf6f2c92594fe141",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-15T04:11:25+00:00"
+  },
+  {
+    "id": "cf7adf320581ca91d9a4",
+    "source": "Anthropic News",
+    "title": "Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors",
+    "url": "https://www.anthropic.com/news/narasimhan-board",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-15T04:11:25+00:00"
   },
   {
     "id": "a4aded498b787e7e08ac",
