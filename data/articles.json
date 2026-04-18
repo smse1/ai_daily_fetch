@@ -1,5 +1,86 @@
 [
   {
+    "id": "9f01e835a36559ffbd13",
+    "source": "TechCrunch AI",
+    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder",
+    "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "published": "2026-04-17T22:34:02+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "51b5c0a4d85aedfcaf29",
+    "source": "TechCrunch AI",
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests",
+    "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+    "published": "2026-04-17T20:38:17+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "7fe9de59fc145298e0c4",
+    "source": "TechCrunch AI",
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges",
+    "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+    "published": "2026-04-17T19:17:26+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "8bd9fa66546ab8a19185",
+    "source": "TechCrunch AI",
+    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+    "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think",
+    "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+    "published": "2026-04-17T18:42:45+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "df55370c463f4332842b",
+    "source": "Hugging Face Blog",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "summary": "",
+    "published": "2026-04-17T16:17:55+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "03992d9583194de4c0d0",
+    "source": "TechCrunch AI",
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap",
+    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+    "published": "2026-04-17T15:57:40+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "63eec4b26cd5114ab2e4",
+    "source": "TechCrunch AI",
+    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+    "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
+    "published": "2026-04-17T15:00:00+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "848939b1099dc003d372",
+    "source": "TechCrunch AI",
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere",
+    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+    "published": "2026-04-17T13:00:00+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
+    "id": "8949fa189b6faf240207",
+    "source": "MIT Technology Review AI",
+    "title": "How robots learn: A brief, contemporary history",
+    "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history",
+    "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the robot of science fiction—one&#8230;",
+    "published": "2026-04-17T10:00:00+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
+  },
+  {
     "id": "ce85d2875dc228099e3e",
     "source": "TechCrunch AI",
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -133,6 +214,15 @@
     "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&#8230;",
     "published": "2026-04-16T12:00:00+00:00",
     "fetched_at": "2026-04-17T04:14:58+00:00"
+  },
+  {
+    "id": "f5dcc9f57b18fc491d49",
+    "source": "Hugging Face Blog",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "url": "https://huggingface.co/blog/ecom-rlve",
+    "summary": "",
+    "published": "2026-04-16T00:00:00+00:00",
+    "fetched_at": "2026-04-18T03:50:39+00:00"
   },
   {
     "id": "316243ed0306c7276a4e",
@@ -1258,6 +1348,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "3fe5a2c81adcf208aae2",
+    "source": "Anthropic News",
+    "title": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-18T03:50:38+00:00"
+  },
+  {
+    "id": "aa70fe47b882ee9a3c7a",
+    "source": "Anthropic News",
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-18T03:50:38+00:00"
   },
   {
     "id": "e481ace3e5e59751c408",
