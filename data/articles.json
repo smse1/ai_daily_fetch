@@ -1,5 +1,41 @@
 [
   {
+    "id": "72e5099f8027a95812a9",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s existential questions",
+    "url": "https://techcrunch.com/2026/04/19/openais-existential-questions",
+    "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+    "published": "2026-04-19T21:24:06+00:00",
+    "fetched_at": "2026-04-20T04:23:03+00:00"
+  },
+  {
+    "id": "83b187fa8460cece7f43",
+    "source": "TechCrunch AI",
+    "title": "The 12-month window",
+    "url": "https://techcrunch.com/2026/04/19/the-12-month-window",
+    "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+    "published": "2026-04-19T19:30:00+00:00",
+    "fetched_at": "2026-04-20T04:23:03+00:00"
+  },
+  {
+    "id": "0c956ff21160e905bd6c",
+    "source": "TechCrunch AI",
+    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+    "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures",
+    "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+    "published": "2026-04-19T16:30:00+00:00",
+    "fetched_at": "2026-04-20T04:23:03+00:00"
+  },
+  {
+    "id": "729a8f9f1fdcc72da9cd",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+    "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era",
+    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+    "published": "2026-04-19T16:01:00+00:00",
+    "fetched_at": "2026-04-20T04:23:03+00:00"
+  },
+  {
     "id": "e2e4c70bf795862f0006",
     "source": "TechCrunch AI",
     "title": "Tesla brings its robotaxi service to Dallas and Houston",
