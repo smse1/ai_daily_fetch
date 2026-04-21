@@ -1,5 +1,68 @@
 [
   {
+    "id": "0e4c27eee13fdde9e6d4",
+    "source": "Hugging Face Blog",
+    "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+    "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+    "summary": "",
+    "published": "2026-04-21T00:40:10+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "eab1f523a8d1a2def617",
+    "source": "TechCrunch AI",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return",
+    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "published": "2026-04-20T23:10:27+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "ae1b44933e66b95893f2",
+    "source": "TechCrunch AI",
+    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries",
+    "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+    "published": "2026-04-20T22:00:00+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "1062f03edd21633a3f89",
+    "source": "TechCrunch AI",
+    "title": "It’s not just one thing — it’s another thing",
+    "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons",
+    "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+    "published": "2026-04-20T19:37:07+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "1b55f716fa067daa8022",
+    "source": "TechCrunch AI",
+    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+    "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud",
+    "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+    "published": "2026-04-20T16:06:21+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "b953480dceef2b56a948",
+    "source": "TechCrunch AI",
+    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+    "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai",
+    "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+    "published": "2026-04-20T15:30:19+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
+    "id": "9a5f8e628af4f9fd521e",
+    "source": "MIT Technology Review AI",
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues",
+    "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with&#8230;",
+    "published": "2026-04-20T09:00:00+00:00",
+    "fetched_at": "2026-04-21T04:14:45+00:00"
+  },
+  {
     "id": "72e5099f8027a95812a9",
     "source": "TechCrunch AI",
     "title": "OpenAI’s existential questions",
