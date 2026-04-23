@@ -1,5 +1,131 @@
 [
   {
+    "id": "3021cb5e59e424ef703a",
+    "source": "TechCrunch AI",
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going",
+    "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+    "published": "2026-04-22T23:56:52+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "4858a600ea62442ae5b1",
+    "source": "TechCrunch AI",
+    "title": "Google updates Workspace to make AI your new office intern",
+    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern",
+    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "published": "2026-04-22T22:44:26+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "dded7da750002a2765ae",
+    "source": "TechCrunch AI",
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+    "published": "2026-04-22T22:25:53+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "4e31fd3d6344d5559655",
+    "source": "TechCrunch AI",
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer",
+    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "published": "2026-04-22T19:51:51+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "c258515d06bca7c26373",
+    "source": "TechCrunch AI",
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia",
+    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "published": "2026-04-22T18:39:27+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "b96a78810c2db12b716b",
+    "source": "TechCrunch AI",
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace",
+    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "published": "2026-04-22T17:30:00+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "4dfd735a910ea76d80b4",
+    "source": "TechCrunch AI",
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises",
+    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+    "published": "2026-04-22T16:58:27+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "6b0743b3125483908cfa",
+    "source": "TechCrunch AI",
+    "title": "AI Overviews are coming to your Gmail at work",
+    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work",
+    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "published": "2026-04-22T16:46:10+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "9e0585d412450483ed80",
+    "source": "Hugging Face Blog",
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "url": "https://huggingface.co/blog/nvidia/gemma4",
+    "summary": "",
+    "published": "2026-04-22T15:40:50+00:00",
+    "fetched_at": "2026-04-23T04:15:32+00:00"
+  },
+  {
+    "id": "815d552fd13f151ca073",
+    "source": "TechCrunch AI",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "published": "2026-04-22T14:22:10+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "6198839e450d9bad3444",
+    "source": "TechCrunch AI",
+    "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter",
+    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "published": "2026-04-22T13:00:00+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "54de1d262ef143966eef",
+    "source": "TechCrunch AI",
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal",
+    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "published": "2026-04-22T12:00:00+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "fd6ba8eeffd7750d049b",
+    "source": "TechCrunch AI",
+    "title": "Google Maps is about to get a big dose of AI",
+    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai",
+    "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
+    "published": "2026-04-22T12:00:00+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
+    "id": "59beb549ed32ebaaa089",
+    "source": "MIT Technology Review AI",
+    "title": "AI needs a strong data fabric to deliver business value",
+    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value",
+    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes&#8230;",
+    "published": "2026-04-22T10:05:06+00:00",
+    "fetched_at": "2026-04-23T04:15:33+00:00"
+  },
+  {
     "id": "2d4f4f8ec5fbbd34f5fb",
     "source": "TechCrunch AI",
     "title": "Meta will record employees’ keystrokes and use it to train its AI models",
@@ -1699,6 +1825,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "e75115a4425f0d8b0f50",
+    "source": "Google Research Blog",
+    "title": "April 22, 2026 It's all about the angle: Your photos, re-composed Generative AI · Photography",
+    "url": "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-23T04:15:32+00:00"
+  },
+  {
+    "id": "813d385e05b53d3602b4",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-23T04:15:32+00:00"
   },
   {
     "id": "76fff1e32a918ee16e3d",
