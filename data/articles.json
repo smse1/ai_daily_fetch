@@ -1,5 +1,95 @@
 [
   {
+    "id": "4b506d9f15d2b7250110",
+    "source": "TechCrunch AI",
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship",
+    "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+    "published": "2026-04-29T00:40:16+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "43158050285768167940",
+    "source": "TechCrunch AI",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "published": "2026-04-28T19:48:02+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "888beb9b2017bbe449af",
+    "source": "TechCrunch AI",
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "published": "2026-04-28T18:49:54+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "88ae558de598702a61e9",
+    "source": "TechCrunch AI",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "published": "2026-04-28T18:15:00+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "079ff1c0a036a339bf57",
+    "source": "TechCrunch AI",
+    "title": "Lovable launches its vibe-coding app on iOS and Android",
+    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android",
+    "summary": "The app allows developers to vibe code web apps and websites on the go.",
+    "published": "2026-04-28T16:09:30+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "07c93f0217a081301008",
+    "source": "Hugging Face Blog",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "summary": "",
+    "published": "2026-04-28T15:58:57+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "2dd40d49c55ba1655661",
+    "source": "TechCrunch AI",
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers",
+    "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "published": "2026-04-28T13:54:06+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "4a7ca2a759fc08744755",
+    "source": "TechCrunch AI",
+    "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+    "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables",
+    "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+    "published": "2026-04-28T13:19:34+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "048620b80ebc5b3f51e1",
+    "source": "TechCrunch AI",
+    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer",
+    "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+    "published": "2026-04-28T13:00:00+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "225ab47b21a3f255d644",
+    "source": "TechCrunch AI",
+    "title": "Otter’s new feature lets users search across their enterprise tools",
+    "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools",
+    "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+    "published": "2026-04-28T12:00:00+00:00",
+    "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
     "id": "d3de75b46be88ce2bf26",
     "source": "Hugging Face Blog",
     "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
@@ -2185,6 +2275,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "ebd4e28956517bbe8507",
+    "source": "Anthropic News",
+    "title": "Apr 28, 2026 Announcements Claude for Creative Work",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-29T04:33:22+00:00"
   },
   {
     "id": "59686d915753e42db9b1",
