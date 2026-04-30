@@ -1,5 +1,131 @@
 [
   {
+    "id": "ddeb283c520572d07f65",
+    "source": "TechCrunch AI",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "published": "2026-04-30T03:58:22+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "3cc083b6763b33d346d0",
+    "source": "TechCrunch AI",
+    "title": "Amazon’s cloud business is surging — and so is its capital spending",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending",
+    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "published": "2026-04-30T00:14:23+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "3a49f825b59d2116e811",
+    "source": "TechCrunch AI",
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b",
+    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "published": "2026-04-30T00:07:15+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "2f2b766eaadfb983cd9a",
+    "source": "TechCrunch AI",
+    "title": "On the stand, Elon Musk can’t escape his own tweets",
+    "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets",
+    "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+    "published": "2026-04-29T23:58:36+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "405e051adb27989cf1d9",
+    "source": "TechCrunch AI",
+    "title": "Meta is still burning money on AR/VR",
+    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr",
+    "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+    "published": "2026-04-29T23:58:26+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "d66544945235c450b67e",
+    "source": "TechCrunch AI",
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "published": "2026-04-29T23:55:23+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "716ef606aadbfb747f7d",
+    "source": "TechCrunch AI",
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it",
+    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+    "published": "2026-04-29T23:02:23+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "6d148d634f9b98baf85c",
+    "source": "TechCrunch AI",
+    "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+    "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained",
+    "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+    "published": "2026-04-29T22:20:48+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "89429148ec31a97acbeb",
+    "source": "TechCrunch AI",
+    "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+    "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one",
+    "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+    "published": "2026-04-29T20:59:00+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "9462d94b631ab7a99b48",
+    "source": "TechCrunch AI",
+    "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+    "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models",
+    "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI. The technology goes way beyond [&#8230;]",
+    "published": "2026-04-29T18:59:44+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "ef9ae03cc14da5afb3a3",
+    "source": "TechCrunch AI",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise",
+    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "published": "2026-04-29T18:33:05+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "7f8766774a5a7b431773",
+    "source": "Hugging Face Blog",
+    "title": "AI evals are becoming the new compute bottleneck",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "summary": "",
+    "published": "2026-04-29T16:45:09+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "469ebd9bbc327a3ed1a2",
+    "source": "TechCrunch AI",
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality",
+    "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+    "published": "2026-04-29T16:42:33+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "318106332072ff848664",
+    "source": "Hugging Face Blog",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "summary": "",
+    "published": "2026-04-29T15:01:48+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
     "id": "4b506d9f15d2b7250110",
     "source": "TechCrunch AI",
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
@@ -7,6 +133,15 @@
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
     "published": "2026-04-29T00:40:16+00:00",
     "fetched_at": "2026-04-29T04:33:23+00:00"
+  },
+  {
+    "id": "c81c9ea9200b7463056d",
+    "source": "Hugging Face Blog",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "summary": "",
+    "published": "2026-04-29T00:00:00+00:00",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
   },
   {
     "id": "43158050285768167940",
@@ -2275,6 +2410,87 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "88a3de1fc2880061b2d9",
+    "source": "Google Research Blog",
+    "title": "April 29, 2026 Four ways Google Research scientists have been using Empirical Research Assistance Data Mining & Modeling · General Science · Generative AI · Machine Intelligence",
+    "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:16+00:00"
+  },
+  {
+    "id": "1c27770724eb4c93bdbf",
+    "source": "OpenAI News",
+    "title": "Our commitment to community safety Safety Apr 28, 2026",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "53080072435238a5aecb",
+    "source": "OpenAI News",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS Product Apr 28, 2026",
+    "url": "https://openai.com/index/openai-on-aws",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "f7fce90549e7dc37a83b",
+    "source": "OpenAI News",
+    "title": "The next phase of the Microsoft OpenAI partnership Company Apr 27, 2026",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "54f9d17a2f335f9e6ceb",
+    "source": "OpenAI News",
+    "title": "An open-source spec for orchestration: Symphony Engineering Apr 27, 2026",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "4b3cde44cb29ad830b22",
+    "source": "OpenAI News",
+    "title": "Our principles Company Apr 26, 2026",
+    "url": "https://openai.com/index/our-principles",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "7e785f7d54d9fdcd078d",
+    "source": "OpenAI News",
+    "title": "GPT-5.5 System Card Safety Apr 23, 2026",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "263d84bffb5f7123c71a",
+    "source": "OpenAI News",
+    "title": "Introducing GPT-5.5 Product Apr 23, 2026",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
+  },
+  {
+    "id": "46449719b7ed318f8124",
+    "source": "OpenAI News",
+    "title": "GPT-5.5 Bio Bug Bounty Safety Apr 23, 2026",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-04-30T04:36:09+00:00"
   },
   {
     "id": "ebd4e28956517bbe8507",
