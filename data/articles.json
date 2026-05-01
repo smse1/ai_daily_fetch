@@ -1,5 +1,122 @@
 [
   {
+    "id": "933a5c00c079a464fc2e",
+    "source": "TechCrunch AI",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet",
+    "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "published": "2026-05-01T02:00:00+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "05a8546108e16a271282",
+    "source": "TechCrunch AI",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks",
+    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "published": "2026-04-30T23:07:56+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "68174bf4d2f988773682",
+    "source": "TechCrunch AI",
+    "title": "Apple was surprised by AI-driven demand for Macs",
+    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs",
+    "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+    "published": "2026-04-30T22:12:52+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "aea279c422606746b3ae",
+    "source": "TechCrunch AI",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter",
+    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+    "published": "2026-04-30T20:14:47+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "b8197fc2c4c58920f1ea",
+    "source": "TechCrunch AI",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too",
+    "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+    "published": "2026-04-30T19:27:41+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "5b82755ae502e8429eaa",
+    "source": "TechCrunch AI",
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico",
+    "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "published": "2026-04-30T18:20:03+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "d251892008c7cb247a7e",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models",
+    "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+    "published": "2026-04-30T18:03:57+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "b4f5f5aca16ee3e375ed",
+    "source": "TechCrunch AI",
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder",
+    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+    "published": "2026-04-30T17:53:53+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "16fa2ff716db88e62628",
+    "source": "TechCrunch AI",
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles",
+    "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+    "published": "2026-04-30T17:46:54+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "52a91ae419622ddaed35",
+    "source": "TechCrunch AI",
+    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping",
+    "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+    "published": "2026-04-30T17:15:19+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "a5810b9cd54cd607ebe2",
+    "source": "TechCrunch AI",
+    "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+    "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers",
+    "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+    "published": "2026-04-30T16:06:49+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "a853ef00f1e1d58eb7ad",
+    "source": "MIT Technology Review AI",
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms",
+    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico&#8230;",
+    "published": "2026-04-30T15:59:41+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
+    "id": "0c4dc19201bc0ad63c62",
+    "source": "TechCrunch AI",
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai",
+    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+    "published": "2026-04-30T15:14:55+00:00",
+    "fetched_at": "2026-05-01T04:52:59+00:00"
+  },
+  {
     "id": "ddeb283c520572d07f65",
     "source": "TechCrunch AI",
     "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
@@ -2410,6 +2527,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "806420f3db8f85c5905c",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/ai-co-clinician",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-01T04:52:58+00:00"
+  },
+  {
+    "id": "729a3f65551d67c850ac",
+    "source": "OpenAI News",
+    "title": "Introducing Advanced Account Security Product Apr 30, 2026",
+    "url": "https://openai.com/index/advanced-account-security",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-01T04:52:55+00:00"
   },
   {
     "id": "88a3de1fc2880061b2d9",
