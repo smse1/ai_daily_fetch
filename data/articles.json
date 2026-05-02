@@ -1,5 +1,86 @@
 [
   {
+    "id": "eb71f4f9af3997378e4d",
+    "source": "TechCrunch AI",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell",
+    "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+    "published": "2026-05-01T23:06:50+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "31d489ea345fc5db64a5",
+    "source": "TechCrunch AI",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions",
+    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "published": "2026-05-01T22:13:27+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "ac7dd127065d21a14303",
+    "source": "MIT Technology Review AI",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat through&#8230;",
+    "published": "2026-05-01T22:08:19+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "df6e844875ef24dfe53d",
+    "source": "TechCrunch AI",
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you",
+    "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+    "published": "2026-05-01T17:44:29+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "c0087d06ef7259173fc2",
+    "source": "TechCrunch AI",
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks",
+    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "published": "2026-05-01T16:02:36+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "66cca8b91a3e6fb610e1",
+    "source": "MIT Technology Review AI",
+    "title": "Cyber-Insecurity in the AI Era",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after&#8230;",
+    "published": "2026-05-01T15:54:01+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "547374e7139c2b2a4199",
+    "source": "MIT Technology Review AI",
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data&#8230;",
+    "published": "2026-05-01T15:31:09+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "e8f29b2f3ee374588a93",
+    "source": "TechCrunch AI",
+    "title": "Musk v. Altman is just getting started",
+    "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started",
+    "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+    "published": "2026-05-01T14:00:00+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
+    "id": "21c696148648a7cd42f7",
+    "source": "MIT Technology Review AI",
+    "title": "A new US phone network for Christians aims to block porn and gender-related content",
+    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content",
+    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter&#8230;",
+    "published": "2026-05-01T09:00:00+00:00",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
+  },
+  {
     "id": "933a5c00c079a464fc2e",
     "source": "TechCrunch AI",
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -2527,6 +2608,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "8c7472d155da92826d68",
+    "source": "Google Research Blog",
+    "title": "May 1, 2026 Catalyzing scientific impact through global partnerships and open resources Data Mining & Modeling · General Science · Health & Bioscience · Open Source Models & Datasets",
+    "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-02T04:20:57+00:00"
   },
   {
     "id": "806420f3db8f85c5905c",
