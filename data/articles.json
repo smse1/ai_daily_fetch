@@ -1,5 +1,122 @@
 [
   {
+    "id": "3882c00ed8e28f5c7a02",
+    "source": "TechCrunch AI",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw",
+    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "published": "2026-05-05T23:50:10+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "0ffc8e631a5dd2ee731d",
+    "source": "TechCrunch AI",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences",
+    "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+    "published": "2026-05-05T22:57:41+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "e21cdf23954bdcb9f156",
+    "source": "TechCrunch AI",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "published": "2026-05-05T20:56:41+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "7b773aa7003c90262ac8",
+    "source": "TechCrunch AI",
+    "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+    "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us",
+    "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+    "published": "2026-05-05T20:06:40+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "284fa6e264e0991a2c48",
+    "source": "TechCrunch AI",
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor",
+    "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "published": "2026-05-05T17:46:10+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "ab6477a99c774384112e",
+    "source": "TechCrunch AI",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt",
+    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "published": "2026-05-05T17:00:00+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "01e911465fccb2cc1a74",
+    "source": "TechCrunch AI",
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai",
+    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "published": "2026-05-05T15:49:55+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "d30aa31364dd09428c5a",
+    "source": "TechCrunch AI",
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push",
+    "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+    "published": "2026-05-05T15:31:37+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "dc70be5040eb60251b32",
+    "source": "TechCrunch AI",
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage",
+    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+    "published": "2026-05-05T14:27:00+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "d13ac94ddb052348ba98",
+    "source": "TechCrunch AI",
+    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors",
+    "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+    "published": "2026-05-05T14:20:50+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "c68cb0377d5ce6a0ef52",
+    "source": "TechCrunch AI",
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents",
+    "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+    "published": "2026-05-05T14:07:47+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "8f142be07787f2bbacda",
+    "source": "TechCrunch AI",
+    "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+    "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster",
+    "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off.",
+    "published": "2026-05-05T14:00:00+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
+    "id": "090652df7ae84a4a1dfd",
+    "source": "MIT Technology Review AI",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint",
+    "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,&#8230;",
+    "published": "2026-05-05T09:00:00+00:00",
+    "fetched_at": "2026-05-06T04:36:32+00:00"
+  },
+  {
     "id": "d0dbe5006e8832dcff66",
     "source": "TechCrunch AI",
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
@@ -2734,6 +2851,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "6051f2c0c8cbf747f195",
+    "source": "Anthropic News",
+    "title": "May 5, 2026 Announcements Agents for financial services",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-06T04:36:31+00:00"
+  },
+  {
+    "id": "e9b8b73d9176baa1b49e",
+    "source": "OpenAI News",
+    "title": "GPT-5.5 Instant System Card Safety May 5, 2026",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-06T04:36:30+00:00"
+  },
+  {
+    "id": "e9724fbb2139f2c949ea",
+    "source": "OpenAI News",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized Product May 5, 2026",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-06T04:36:30+00:00"
+  },
+  {
+    "id": "f74089da02c34660d5f9",
+    "source": "OpenAI News",
+    "title": "New ways to buy ChatGPT ads Product May 5, 2026",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-06T04:36:30+00:00"
   },
   {
     "id": "31aa74b9187074df2d94",
