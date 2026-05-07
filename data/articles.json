@@ -1,5 +1,131 @@
 [
   {
+    "id": "434a8c0f376cfdd585af",
+    "source": "TechCrunch AI",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "published": "2026-05-06T21:57:56+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "98c6784e24e33801a565",
+    "source": "TechCrunch AI",
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended",
+    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "published": "2026-05-06T21:43:24+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "9f344992481922109774",
+    "source": "TechCrunch AI",
+    "title": "Is xAI a neocloud now?",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now",
+    "summary": "xAI's real business may be more about building data centers than training AI models.",
+    "published": "2026-05-06T21:32:55+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "d9186f738355ca67413e",
+    "source": "Hugging Face Blog",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "summary": "",
+    "published": "2026-05-06T19:06:55+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "ac08c5c063d1a8b3ec9a",
+    "source": "TechCrunch AI",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman",
+    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "published": "2026-05-06T18:23:54+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "acc330ac487694604c32",
+    "source": "TechCrunch AI",
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas",
+    "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+    "published": "2026-05-06T17:23:08+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "295be66ca1b7985e1d3b",
+    "source": "TechCrunch AI",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round",
+    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "published": "2026-05-06T17:20:34+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "a80542af1ee70178054f",
+    "source": "TechCrunch AI",
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums",
+    "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "published": "2026-05-06T15:49:39+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "7a974286be5924785dd2",
+    "source": "TechCrunch AI",
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows",
+    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "published": "2026-05-06T15:46:38+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "165e15a2e72851ccf6f9",
+    "source": "TechCrunch AI",
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools",
+    "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+    "published": "2026-05-06T15:27:36+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "7c3604c59581967106ca",
+    "source": "TechCrunch AI",
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+    "published": "2026-05-06T15:12:49+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "5e62b2e3df8189f84a25",
+    "source": "TechCrunch AI",
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding",
+    "summary": "Ethos says it is onboarding 35,000 experts per week.",
+    "published": "2026-05-06T15:00:00+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "e075dc9735875c5fcfd6",
+    "source": "TechCrunch AI",
+    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+    "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered",
+    "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+    "published": "2026-05-06T14:30:00+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
+    "id": "169019aea11711efe2d9",
+    "source": "Hugging Face Blog",
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "summary": "",
+    "published": "2026-05-06T00:00:00+00:00",
+    "fetched_at": "2026-05-07T04:37:18+00:00"
+  },
+  {
     "id": "3882c00ed8e28f5c7a02",
     "source": "TechCrunch AI",
     "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
@@ -2851,6 +2977,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "21023cf0031dc1b449b3",
+    "source": "Anthropic News",
+    "title": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-07T04:37:17+00:00"
+  },
+  {
+    "id": "f4a5196d25f2e9d8a505",
+    "source": "OpenAI News",
+    "title": "How frontier enterprises are building an AI advantage Company May 6, 2026",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-07T04:37:13+00:00"
+  },
+  {
+    "id": "001614cb8618391c564f",
+    "source": "OpenAI News",
+    "title": "Introducing ChatGPT Futures: Class of 2026 Company May 6, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-07T04:37:13+00:00"
+  },
+  {
+    "id": "0d1ef54be264a4d1d4de",
+    "source": "OpenAI News",
+    "title": "Supercomputer networking to accelerate large scale AI training Engineering May 5, 2026",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-07T04:37:13+00:00"
   },
   {
     "id": "6051f2c0c8cbf747f195",
