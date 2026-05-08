@@ -1,5 +1,113 @@
 [
   {
+    "id": "528fb3b93833cf7ce7a9",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "published": "2026-05-07T22:24:50+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "63a8d2ead9587b8e8977",
+    "source": "TechCrunch AI",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm",
+    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "published": "2026-05-07T21:02:11+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "557f33c9967b58abcfaa",
+    "source": "TechCrunch AI",
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm",
+    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+    "published": "2026-05-07T20:20:20+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "2aa00daa848204553421",
+    "source": "TechCrunch AI",
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "published": "2026-05-07T19:57:59+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "63f5ea0d3d05dd249c7d",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope",
+    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "published": "2026-05-07T19:21:21+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "e960f4270b054849b8d3",
+    "source": "TechCrunch AI",
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "published": "2026-05-07T19:06:17+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "8c14eff0bd96bed648bf",
+    "source": "TechCrunch AI",
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity",
+    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "published": "2026-05-07T16:05:48+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "c282f1469384ecf4f9b8",
+    "source": "TechCrunch AI",
+    "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+    "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k",
+    "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
+    "published": "2026-05-07T15:00:00+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "ed59eb2e72efd806f90b",
+    "source": "TechCrunch AI",
+    "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+    "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out",
+    "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+    "published": "2026-05-07T14:30:00+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "4f4c2ead57d459363f70",
+    "source": "TechCrunch AI",
+    "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+    "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale",
+    "summary": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora&#160;co-founder and&#160;CEO&#160;Chris Urmson’s story&#160;changed.&#160;The self-driving truck&#160;company&#160;started commercial driverless operations last April and is now scaling from a handful of trucks to hundreds this year.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast,&#160;we&#8217;re&#160;bringing you a [&#8230;]",
+    "published": "2026-05-07T14:24:54+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "f3e78914fcbab1327747",
+    "source": "TechCrunch AI",
+    "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026",
+    "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+    "published": "2026-05-07T14:00:00+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
+    "id": "d30556c1af71ee558aea",
+    "source": "TechCrunch AI",
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets",
+    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "published": "2026-05-07T13:44:25+00:00",
+    "fetched_at": "2026-05-08T04:19:01+00:00"
+  },
+  {
     "id": "434a8c0f376cfdd585af",
     "source": "TechCrunch AI",
     "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
@@ -2977,6 +3085,51 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5d16c42ddf808d8eb593",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/alphaevolve-impact",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-08T04:19:00+00:00"
+  },
+  {
+    "id": "16d9b743878c210123ba",
+    "source": "OpenAI News",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber Security May 7, 2026",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-08T04:18:56+00:00"
+  },
+  {
+    "id": "00b53c9e8f7654c0b0a6",
+    "source": "OpenAI News",
+    "title": "Advancing voice intelligence with new models in the API Product May 7, 2026",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-08T04:18:56+00:00"
+  },
+  {
+    "id": "1ebeb67636ba7773d661",
+    "source": "OpenAI News",
+    "title": "Introducing Trusted Contact in ChatGPT Safety May 7, 2026",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-08T04:18:56+00:00"
+  },
+  {
+    "id": "76d7e53fa798e173d77f",
+    "source": "OpenAI News",
+    "title": "Testing ads in ChatGPT Company May 7, 2026",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-08T04:18:56+00:00"
   },
   {
     "id": "21023cf0031dc1b449b3",
