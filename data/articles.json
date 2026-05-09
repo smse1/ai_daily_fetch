@@ -1,5 +1,86 @@
 [
   {
+    "id": "4e59bed4c3f22ac3c743",
+    "source": "MIT Technology Review AI",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman",
+    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;",
+    "published": "2026-05-08T23:59:19+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "d83d0c158362bf17fc39",
+    "source": "TechCrunch AI",
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no",
+    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "published": "2026-05-08T22:59:05+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "b3177e653face5bea9ef",
+    "source": "TechCrunch AI",
+    "title": "Intel’s comeback story is even wilder than it seems",
+    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems",
+    "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+    "published": "2026-05-08T20:02:52+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "cc301a59b7e0f215d940",
+    "source": "TechCrunch AI",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high",
+    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "published": "2026-05-08T18:33:21+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "fdfe5fe56bfbd0f475fd",
+    "source": "Hugging Face Blog",
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "summary": "",
+    "published": "2026-05-08T17:41:05+00:00",
+    "fetched_at": "2026-05-09T04:27:42+00:00"
+  },
+  {
+    "id": "7b15171658877da84312",
+    "source": "Hugging Face Blog",
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "summary": "",
+    "published": "2026-05-08T16:03:50+00:00",
+    "fetched_at": "2026-05-09T04:27:42+00:00"
+  },
+  {
+    "id": "ddcace769f9097a9597a",
+    "source": "TechCrunch AI",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush",
+    "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, hosts Kirsten Korosec, Anthony [&#8230;]",
+    "published": "2026-05-08T15:46:17+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "571ca16746b71a590923",
+    "source": "TechCrunch AI",
+    "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026",
+    "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+    "published": "2026-05-08T14:00:00+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
+    "id": "b980660e0ee636fb0abb",
+    "source": "TechCrunch AI",
+    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "published": "2026-05-08T04:42:29+00:00",
+    "fetched_at": "2026-05-09T04:27:43+00:00"
+  },
+  {
     "id": "528fb3b93833cf7ce7a9",
     "source": "TechCrunch AI",
     "title": "OpenAI launches new voice intelligence features in its API",
@@ -3085,6 +3166,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "68a79485115169a43a4a",
+    "source": "OpenAI News",
+    "title": "Running Codex safely at OpenAI Security May 8, 2026",
+    "url": "https://openai.com/index/running-codex-safely",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-09T04:27:41+00:00"
   },
   {
     "id": "5d16c42ddf808d8eb593",
