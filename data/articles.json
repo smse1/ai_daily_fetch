@@ -1,5 +1,77 @@
 [
   {
+    "id": "3d7b6a2b56d3e3f5ab98",
+    "source": "TechCrunch AI",
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo",
+    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+    "published": "2026-05-12T00:09:01+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "8d0fffbcf9294c4ae997",
+    "source": "Hugging Face Blog",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "summary": "",
+    "published": "2026-05-11T23:18:26+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "5c810ed2a80b0d3caf25",
+    "source": "TechCrunch AI",
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills",
+    "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+    "published": "2026-05-11T23:04:10+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "21b34cb2c52651d98cc0",
+    "source": "MIT Technology Review AI",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech&#8230;",
+    "published": "2026-05-11T17:35:12+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "d077aa1aedc7d1927e74",
+    "source": "TechCrunch AI",
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator",
+    "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+    "published": "2026-05-11T17:02:35+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "7834218a207c74a961b2",
+    "source": "MIT Technology Review AI",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering",
+    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed&#8230;",
+    "published": "2026-05-11T13:33:06+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "43f903c8fe87b10b5e46",
+    "source": "TechCrunch AI",
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them",
+    "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+    "published": "2026-05-11T13:00:00+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
+    "id": "ad3f6d385614614ccb3a",
+    "source": "MIT Technology Review AI",
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance",
+    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions&#8230;",
+    "published": "2026-05-11T13:00:00+00:00",
+    "fetched_at": "2026-05-12T04:41:07+00:00"
+  },
+  {
     "id": "9f9d2aa9f88391a35928",
     "source": "TechCrunch AI",
     "title": "Get ready for the whisper-filled office of the future",
@@ -3238,6 +3310,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "17a93526f34238a8be52",
+    "source": "OpenAI News",
+    "title": "OpenAI Campus Network: Student club interest form Company May 11, 2026",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-12T04:40:59+00:00"
+  },
+  {
+    "id": "dbb0f39c14fa6ed515b8",
+    "source": "OpenAI News",
+    "title": "OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence Company May 11, 2026",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-12T04:40:59+00:00"
   },
   {
     "id": "68a79485115169a43a4a",
