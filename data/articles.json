@@ -1,5 +1,113 @@
 [
   {
+    "id": "e441d840afa11aec9479",
+    "source": "TechCrunch AI",
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea",
+    "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+    "published": "2026-05-13T00:26:48+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "cd23e71cd447fd5b1e7b",
+    "source": "TechCrunch AI",
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies",
+    "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+    "published": "2026-05-12T18:05:15+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "c27eb30674ab5a5e7b96",
+    "source": "TechCrunch AI",
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares",
+    "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+    "published": "2026-05-12T17:36:34+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "136e200e04bdff12c5bc",
+    "source": "TechCrunch AI",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit",
+    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+    "published": "2026-05-12T17:30:57+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "cb3e2b74a21b93b4e8d1",
+    "source": "TechCrunch AI",
+    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets",
+    "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+    "published": "2026-05-12T17:01:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "029ead2a914a8ff1aa80",
+    "source": "TechCrunch AI",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups",
+    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+    "published": "2026-05-12T17:00:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "f8c9f88f4c672afa9267",
+    "source": "TechCrunch AI",
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action",
+    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+    "published": "2026-05-12T17:00:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "f35a8d079ef3d7609d73",
+    "source": "TechCrunch AI",
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android",
+    "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+    "published": "2026-05-12T17:00:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "76cfc967998d42b0b9b8",
+    "source": "TechCrunch AI",
+    "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+    "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets",
+    "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+    "published": "2026-05-12T17:00:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "7cba1318cff06a3c927c",
+    "source": "TechCrunch AI",
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok",
+    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+    "published": "2026-05-12T16:34:36+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "4797a102aea64dc2db77",
+    "source": "TechCrunch AI",
+    "title": "Dessn raises $6M for its production-focused design tool",
+    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool",
+    "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+    "published": "2026-05-12T13:00:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
+    "id": "e087687de0a7f68f615b",
+    "source": "TechCrunch AI",
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals",
+    "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "published": "2026-05-12T11:30:00+00:00",
+    "fetched_at": "2026-05-13T04:52:54+00:00"
+  },
+  {
     "id": "3d7b6a2b56d3e3f5ab98",
     "source": "TechCrunch AI",
     "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
@@ -3310,6 +3418,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "4dec34e3d6ea947068bc",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/ai-pointer",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-13T04:52:53+00:00"
+  },
+  {
+    "id": "ad2f7538e858ab232aaa",
+    "source": "OpenAI News",
+    "title": "What Parameter Golf taught us Research May 12, 2026",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-13T04:52:48+00:00"
   },
   {
     "id": "17a93526f34238a8be52",
