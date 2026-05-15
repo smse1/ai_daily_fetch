@@ -1,5 +1,158 @@
 [
   {
+    "id": "f788953a156c7dd6a99e",
+    "source": "TechCrunch AI",
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+    "summary": "Here's what the biggest tech court case of the year is all about.",
+    "published": "2026-05-14T22:47:51+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "ba80b08f1a3acb4fac8c",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger",
+    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "published": "2026-05-14T21:30:44+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "87fec45c599237cee178",
+    "source": "TechCrunch AI",
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone",
+    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "published": "2026-05-14T20:58:55+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "8fa25496b3988c288311",
+    "source": "TechCrunch AI",
+    "title": "What happens when AI starts building itself?",
+    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself",
+    "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+    "published": "2026-05-14T19:57:20+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "6cf8b9e47b24a019f0d0",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned",
+    "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+    "published": "2026-05-14T19:12:03+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "f82e904dc861c056aaff",
+    "source": "TechCrunch AI",
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "published": "2026-05-14T19:05:01+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "00101c78b8ff17a15fd8",
+    "source": "Hugging Face Blog",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "summary": "",
+    "published": "2026-05-14T18:55:01+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "b60f8f3eb92b7bd12690",
+    "source": "TechCrunch AI",
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang",
+    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+    "published": "2026-05-14T16:30:02+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "68f6a3b0b5b3028412d1",
+    "source": "TechCrunch AI",
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
+    "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+    "published": "2026-05-14T15:20:18+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "3f975c0f312e8f53513c",
+    "source": "TechCrunch AI",
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue",
+    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "published": "2026-05-14T14:01:14+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "0987b680ad12b05d3c5e",
+    "source": "TechCrunch AI",
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27",
+    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "published": "2026-05-14T14:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "a80b60c5d95f16098b2f",
+    "source": "TechCrunch AI",
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs",
+    "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs.",
+    "published": "2026-05-14T14:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "4a7d65812ae550212001",
+    "source": "MIT Technology Review AI",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on&#8230;",
+    "published": "2026-05-14T13:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "4f4e2fe4a159c8f3d7f6",
+    "source": "MIT Technology Review AI",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, under governance you do not set. The protections you rely&#8230;",
+    "published": "2026-05-14T13:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "59c144fabe21eed7a9a1",
+    "source": "MIT Technology Review AI",
+    "title": "The shock of seeing your body used in deepfake porn",
+    "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright",
+    "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
+    "published": "2026-05-14T09:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "36a01be87c08225abced",
+    "source": "TechCrunch AI",
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts",
+    "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC.",
+    "published": "2026-05-14T06:05:31+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
+    "id": "71fa4ac15842c7d8bdb5",
+    "source": "Hugging Face Blog",
+    "title": "Unlocking asynchronicity in continuous batching",
+    "url": "https://huggingface.co/blog/continuous_async",
+    "summary": "",
+    "published": "2026-05-14T00:00:00+00:00",
+    "fetched_at": "2026-05-15T04:55:26+00:00"
+  },
+  {
     "id": "c2eae2ece13f80a99770",
     "source": "TechCrunch AI",
     "title": "Notion just turned its workspace into a hub for AI agents",
@@ -3535,6 +3688,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "d8ccd6fc618a4bb739e7",
+    "source": "Anthropic News",
+    "title": "Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-15T04:55:25+00:00"
+  },
+  {
+    "id": "608f63d13a477463eb54",
+    "source": "Anthropic News",
+    "title": "May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation",
+    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-15T04:55:25+00:00"
+  },
+  {
+    "id": "f53ff735b336d2e3f9e7",
+    "source": "OpenAI News",
+    "title": "Work with Codex from anywhere Product May 14, 2026",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-15T04:55:19+00:00"
+  },
+  {
+    "id": "838aed497c2329262a90",
+    "source": "OpenAI News",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations Safety May 14, 2026",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-15T04:55:19+00:00"
   },
   {
     "id": "46739bf322310b224f6e",
