@@ -1,5 +1,104 @@
 [
   {
+    "id": "be984b656c71b86a1484",
+    "source": "MIT Technology Review AI",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict",
+    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
+    "published": "2026-05-19T00:53:10+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "ef16161e870d2690fbad",
+    "source": "TechCrunch AI",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "published": "2026-05-18T21:29:31+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "b4068b93fa6182b59fe2",
+    "source": "TechCrunch AI",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare",
+    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "published": "2026-05-18T19:27:52+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "dd5c8db49b75ee3d2769",
+    "source": "MIT Technology Review AI",
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O&#8230;",
+    "published": "2026-05-18T17:35:43+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "2f52bbdbb3c8315af3e8",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "published": "2026-05-18T17:34:43+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "0f575759636aca974b3c",
+    "source": "MIT Technology Review AI",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare",
+    "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental&#8230;",
+    "published": "2026-05-18T16:01:39+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "aa003912dcfe92680a11",
+    "source": "Hugging Face Blog",
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "summary": "",
+    "published": "2026-05-18T16:00:21+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "e876ee8601fa7e234c10",
+    "source": "Hugging Face Blog",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "summary": "",
+    "published": "2026-05-18T15:12:46+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "0b0b420a7660de19332e",
+    "source": "TechCrunch AI",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes",
+    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "published": "2026-05-18T14:56:47+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "a96244f24218f0577e0d",
+    "source": "Hugging Face Blog",
+    "title": "The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "summary": "",
+    "published": "2026-05-18T14:12:58+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "ca53b0b4172e99a775cd",
+    "source": "TechCrunch AI",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses",
+    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+    "published": "2026-05-18T11:00:00+00:00",
+    "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
     "id": "210c6d7c354ab952f187",
     "source": "TechCrunch AI",
     "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -3814,6 +3913,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "c317b51bc9b27f353dbc",
+    "source": "Anthropic News",
+    "title": "May 18, 2026 Announcements Anthropic acquires Stainless",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-19T05:06:46+00:00"
+  },
+  {
+    "id": "f882f72a40796760cb7f",
+    "source": "OpenAI News",
+    "title": "OpenAI and Dell Technologies partner to bring Codex to hybrid and on-premises enterprise environments Company May 18, 2026",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-19T05:06:45+00:00"
   },
   {
     "id": "984868e513237c96525f",
