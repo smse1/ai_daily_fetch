@@ -1,5 +1,122 @@
 [
   {
+    "id": "e37dfaab3ccb449efc4b",
+    "source": "TechCrunch AI",
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026",
+    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "published": "2026-05-19T21:33:30+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "dd39c120fa5913d64193",
+    "source": "TechCrunch AI",
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "published": "2026-05-19T21:25:31+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "bbb9fc5be7612f88e64d",
+    "source": "TechCrunch AI",
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches",
+    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "published": "2026-05-19T21:16:25+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "45be528478c9c0f521a0",
+    "source": "TechCrunch AI",
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing",
+    "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+    "published": "2026-05-19T21:08:51+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "0a9e8fc1359fed137496",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims",
+    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+    "published": "2026-05-19T20:11:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "ffd7b5282a5727937b62",
+    "source": "TechCrunch AI",
+    "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+    "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026",
+    "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+    "published": "2026-05-19T19:15:31+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "bffb10137639584cff4b",
+    "source": "Hugging Face Blog",
+    "title": "OlmoEarth v1.1: A more efficient family of models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "summary": "",
+    "published": "2026-05-19T18:38:09+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "0af15dc394db29d8c2d5",
+    "source": "TechCrunch AI",
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view",
+    "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "published": "2026-05-19T17:51:39+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "6c41036ee66b722f2431",
+    "source": "TechCrunch AI",
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots",
+    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "published": "2026-05-19T17:51:30+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "353e571725a1debaa530",
+    "source": "TechCrunch AI",
+    "title": "Google Search as you know it is over",
+    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over",
+    "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+    "published": "2026-05-19T17:46:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "3cc300ff695cc2cbcab8",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models",
+    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "published": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "6be29beb11a1028252ec",
+    "source": "TechCrunch AI",
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes",
+    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+    "published": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "c57bc8645cf26950273e",
+    "source": "TechCrunch AI",
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli",
+    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+    "published": "2026-05-19T17:45:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
     "id": "be984b656c71b86a1484",
     "source": "MIT Technology Review AI",
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -7,6 +124,15 @@
     "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
     "published": "2026-05-19T00:53:10+00:00",
     "fetched_at": "2026-05-19T05:06:47+00:00"
+  },
+  {
+    "id": "dd34ee9cd1edea672af1",
+    "source": "Hugging Face Blog",
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "summary": "",
+    "published": "2026-05-19T00:00:00+00:00",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
   },
   {
     "id": "ef16161e870d2690fbad",
@@ -3913,6 +4039,132 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5c36b5691001f41d967b",
+    "source": "Google Research Blog",
+    "title": "May 19, 2026 Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science · Machine Intelligence · Natural Language Processing · Open Source Models & Datasets",
+    "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "f46f5c3912670031cc0a",
+    "source": "Google DeepMind Blog",
+    "title": "AlphaEvolve Design advanced algorithms for math and applications in computing",
+    "url": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "029aacaca181eac845ff",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "8489d888404e84456d1c",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://antigravity.google/blog/introducing-google-antigravity-2-0",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "308a26a80f9a9ab2daa4",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "e08c6159fe6c264faa36",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "3ae9e88cff9b8e74bd25",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "4748c7abb6794871dce2",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "ff2d3540e56f01958c1e",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "8a00b0c1eeff50305336",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "1236f496887887555ed9",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "27bcd649ad5801e2efe3",
+    "source": "Anthropic News",
+    "title": "May 19, 2026 Announcements Widening the conversation on frontier AI",
+    "url": "https://www.anthropic.com/news/widening-conversation-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "27bc0cf061697a842f7e",
+    "source": "Anthropic News",
+    "title": "May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:34+00:00"
+  },
+  {
+    "id": "24acf728488ac67a21fd",
+    "source": "OpenAI News",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem Safety May 19, 2026",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-20T05:09:29+00:00"
   },
   {
     "id": "c317b51bc9b27f353dbc",
