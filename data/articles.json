@@ -1,5 +1,113 @@
 [
   {
+    "id": "f75411e9dbf121700893",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia",
+    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+    "published": "2026-05-21T00:28:31+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "1a484d8bc0a6c5d36b1d",
+    "source": "TechCrunch AI",
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter",
+    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+    "published": "2026-05-21T00:21:21+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "f50351b2bfc0e7ad9eff",
+    "source": "TechCrunch AI",
+    "title": "Clouted wants to take the guesswork out of making short videos go viral",
+    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral",
+    "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+    "published": "2026-05-20T22:30:45+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "08109893080822a35f97",
+    "source": "TechCrunch AI",
+    "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over",
+    "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+    "published": "2026-05-20T22:26:08+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "d6f6f834351a290351f5",
+    "source": "TechCrunch AI",
+    "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+    "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups",
+    "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+    "published": "2026-05-20T22:03:51+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "05dd155e19570994b228",
+    "source": "TechCrunch AI",
+    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+    "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more",
+    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+    "published": "2026-05-20T21:55:49+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "df51ddc42fa6b41a0e75",
+    "source": "TechCrunch AI",
+    "title": "Anthropic will pay xAI $1.25B per month for compute",
+    "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute",
+    "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+    "published": "2026-05-20T21:29:22+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "e0ea7435255eb1266698",
+    "source": "TechCrunch AI",
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+    "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+    "published": "2026-05-20T20:28:27+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "1377114636e00a99b1d9",
+    "source": "TechCrunch AI",
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed",
+    "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+    "published": "2026-05-20T19:47:20+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "3fd8734fccc61452dcee",
+    "source": "TechCrunch AI",
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "published": "2026-05-20T17:24:24+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "1c1a582daecf814b3b4e",
+    "source": "TechCrunch AI",
+    "title": "AI search startups are blowing up",
+    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up",
+    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+    "published": "2026-05-20T15:04:45+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
+    "id": "e5b8b046e66a51a00202",
+    "source": "TechCrunch AI",
+    "title": "Stability AI releases a new audio model that can create 6-minute songs",
+    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+    "published": "2026-05-20T15:00:00+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
+  },
+  {
     "id": "e37dfaab3ccb449efc4b",
     "source": "TechCrunch AI",
     "title": "Google just declared itself a contender in AI design at IO 2026",
@@ -34,6 +142,15 @@
     "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
     "published": "2026-05-19T21:08:51+00:00",
     "fetched_at": "2026-05-20T05:09:35+00:00"
+  },
+  {
+    "id": "cf9665b50abe046a66e0",
+    "source": "MIT Technology Review AI",
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial",
+    "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
+    "published": "2026-05-19T20:15:18+00:00",
+    "fetched_at": "2026-05-21T05:13:14+00:00"
   },
   {
     "id": "0a9e8fc1359fed137496",
@@ -4039,6 +4156,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "7db866e035ada094b8a7",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-21T05:13:13+00:00"
+  },
+  {
+    "id": "3d235c24c523d435a8c4",
+    "source": "OpenAI News",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry Research May 20, 2026",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-21T05:13:09+00:00"
   },
   {
     "id": "5c36b5691001f41d967b",
