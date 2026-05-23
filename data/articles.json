@@ -1,5 +1,95 @@
 [
   {
+    "id": "849d34e7bdc9e9f24ff5",
+    "source": "Hugging Face Blog",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "summary": "",
+    "published": "2026-05-23T00:02:03+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "16d014161f082d483698",
+    "source": "TechCrunch AI",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots",
+    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "published": "2026-05-22T23:03:33+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "da365503a52de69aed21",
+    "source": "TechCrunch AI",
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this",
+    "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+    "published": "2026-05-22T21:02:36+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "6864680006c71f5825f9",
+    "source": "TechCrunch AI",
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups",
+    "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+    "published": "2026-05-22T20:40:48+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "4b8838aa9760785ee437",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+    "published": "2026-05-22T18:17:07+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "28616a81343c20e22622",
+    "source": "TechCrunch AI",
+    "title": "You can no longer Google the word ‘disregard’",
+    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard",
+    "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "published": "2026-05-22T16:16:48+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "afc1cea27939d3cda3a6",
+    "source": "TechCrunch AI",
+    "title": "We tried Google’s AI glasses and they’re almost there",
+    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there",
+    "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+    "published": "2026-05-22T15:37:15+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "9cbdb6bae6383ce48ae5",
+    "source": "Hugging Face Blog",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "summary": "",
+    "published": "2026-05-22T15:25:59+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "687c9b3fc3a7a5b344f0",
+    "source": "TechCrunch AI",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+    "published": "2026-05-22T14:30:00+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
+    "id": "9bba4458a82541c28a83",
+    "source": "MIT Technology Review AI",
+    "title": "Google I/O showed how the path for AI-driven science is shifting",
+    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting",
+    "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
+    "published": "2026-05-22T10:00:00+00:00",
+    "fetched_at": "2026-05-23T04:47:21+00:00"
+  },
+  {
     "id": "901e9fa8ba1ceb65797e",
     "source": "MIT Technology Review AI",
     "title": "Roundtables: Can AI Learn to Understand the World?",
@@ -4273,6 +4363,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "c485a69abeae68f5927b",
+    "source": "OpenAI News",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner AI Adoption May 22, 2026",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-23T04:47:14+00:00"
   },
   {
     "id": "7db866e035ada094b8a7",
