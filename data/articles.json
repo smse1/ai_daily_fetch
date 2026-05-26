@@ -1,5 +1,50 @@
 [
   {
+    "id": "7bcb3600cf4999dd22b1",
+    "source": "TechCrunch AI",
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work",
+    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "published": "2026-05-25T16:00:00+00:00",
+    "fetched_at": "2026-05-26T05:07:52+00:00"
+  },
+  {
+    "id": "2e064cf3bb9e157397d6",
+    "source": "TechCrunch AI",
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai",
+    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "published": "2026-05-25T15:09:41+00:00",
+    "fetched_at": "2026-05-26T05:07:52+00:00"
+  },
+  {
+    "id": "6a409b84e28b64166bb1",
+    "source": "TechCrunch AI",
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27",
+    "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "published": "2026-05-25T14:30:00+00:00",
+    "fetched_at": "2026-05-26T05:07:52+00:00"
+  },
+  {
+    "id": "29b559d673c622ec3958",
+    "source": "TechCrunch AI",
+    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase",
+    "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "published": "2026-05-25T14:00:00+00:00",
+    "fetched_at": "2026-05-26T05:07:52+00:00"
+  },
+  {
+    "id": "82703e7b46783fbbd43a",
+    "source": "Hugging Face Blog",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "summary": "",
+    "published": "2026-05-25T00:00:00+00:00",
+    "fetched_at": "2026-05-26T05:07:52+00:00"
+  },
+  {
     "id": "8a74696f4f70906557a6",
     "source": "TechCrunch AI",
     "title": "Everyone is navigating AI security in real time — even Google",
@@ -4399,6 +4444,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "516587744da58b5385a1",
+    "source": "Anthropic News",
+    "title": "May 25, 2026 Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-26T05:07:51+00:00"
   },
   {
     "id": "c485a69abeae68f5927b",
