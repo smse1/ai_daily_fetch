@@ -1,5 +1,104 @@
 [
   {
+    "id": "6b25a5e8e1ef8b78ae95",
+    "source": "TechCrunch AI",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them",
+    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+    "published": "2026-05-29T22:14:22+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "0e091c5dd5c85e37794a",
+    "source": "TechCrunch AI",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "published": "2026-05-29T18:49:19+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "76a2af5c3909396628da",
+    "source": "TechCrunch AI",
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "published": "2026-05-29T17:57:05+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "9c76066b81b9858580fe",
+    "source": "TechCrunch AI",
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "published": "2026-05-29T17:27:13+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "2a5cb206253b90d6f8b2",
+    "source": "TechCrunch AI",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "published": "2026-05-29T16:13:47+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "422c511021a1c650da5e",
+    "source": "TechCrunch AI",
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026",
+    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+    "published": "2026-05-29T14:15:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "02adcc54d708f8bad7c1",
+    "source": "TechCrunch AI",
+    "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+    "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket",
+    "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+    "published": "2026-05-29T14:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "1761e222fde2b13762b4",
+    "source": "TechCrunch AI",
+    "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+    "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "published": "2026-05-29T14:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "16c87161a76c699240e0",
+    "source": "TechCrunch AI",
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy",
+    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+    "published": "2026-05-29T13:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "b7cc9e5c0ab44e04ee29",
+    "source": "TechCrunch AI",
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck",
+    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "published": "2026-05-29T12:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
+    "id": "00b71f9b9f75a4ec3096",
+    "source": "MIT Technology Review AI",
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+    "published": "2026-05-29T10:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
+  },
+  {
     "id": "5e8eac167e68a95d2515",
     "source": "TechCrunch AI",
     "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
@@ -7,6 +106,15 @@
     "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
     "published": "2026-05-29T00:44:37+00:00",
     "fetched_at": "2026-05-29T05:17:18+00:00"
+  },
+  {
+    "id": "f8d5adde42083ef5bf82",
+    "source": "Hugging Face Blog",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "summary": "",
+    "published": "2026-05-29T00:00:00+00:00",
+    "fetched_at": "2026-05-30T04:55:36+00:00"
   },
   {
     "id": "e64b9f4f592aa376e645",
@@ -4777,6 +4885,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "c38cca6d758d29ceb8b1",
+    "source": "OpenAI News",
+    "title": "Strengthening societal resilience with Rosalind Biodefense Product May 29, 2026",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-30T04:55:28+00:00"
+  },
+  {
+    "id": "058cd3183e1c3a087ff2",
+    "source": "OpenAI News",
+    "title": "A shared playbook for trustworthy third party evaluations Safety May 29, 2026",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-05-30T04:55:28+00:00"
   },
   {
     "id": "72c1b8a968ce0e2c4ab1",
