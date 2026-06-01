@@ -1,5 +1,32 @@
 [
   {
+    "id": "8c17c679028dc453aeaf",
+    "source": "Hugging Face Blog",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "summary": "",
+    "published": "2026-06-01T04:44:55+00:00",
+    "fetched_at": "2026-06-01T06:09:37+00:00"
+  },
+  {
+    "id": "aae22f32897c4e0cb89f",
+    "source": "TechCrunch AI",
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy",
+    "summary": "Environmental activist Erin Brockovich has a new mission.",
+    "published": "2026-05-31T21:05:14+00:00",
+    "fetched_at": "2026-06-01T06:09:37+00:00"
+  },
+  {
+    "id": "3a8b7507264f61e445ec",
+    "source": "TechCrunch AI",
+    "title": "Making sense of the debate over AI psychosis",
+    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis",
+    "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+    "published": "2026-05-31T15:30:00+00:00",
+    "fetched_at": "2026-06-01T06:09:37+00:00"
+  },
+  {
     "id": "c66f5bd186eb44e3a69a",
     "source": "TechCrunch AI",
     "title": "SoftBank says it will invest up to €75 billion to build French data centers",
