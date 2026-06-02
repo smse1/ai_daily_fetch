@@ -1,5 +1,86 @@
 [
   {
+    "id": "176684a5b3bac6b95763",
+    "source": "TechCrunch AI",
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout",
+    "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
+    "published": "2026-06-01T22:55:09+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "44da974e67f63c7371e4",
+    "source": "TechCrunch AI",
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp",
+    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "published": "2026-06-01T21:35:00+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "2d78f360a789ad36fc65",
+    "source": "TechCrunch AI",
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents",
+    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+    "published": "2026-06-01T20:03:40+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "08ecfc3b8d9af461ea68",
+    "source": "TechCrunch AI",
+    "title": "Water access is now a risk factor in SpaceX’s IPO",
+    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo",
+    "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "published": "2026-06-01T18:19:53+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "c73c3fffbdd615586749",
+    "source": "TechCrunch AI",
+    "title": "Anthropic files to go public",
+    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public",
+    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
+    "published": "2026-06-01T16:36:55+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "f4f032aabb924985d929",
+    "source": "TechCrunch AI",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies",
+    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+    "published": "2026-06-01T16:00:00+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "c9e434542d8d2808a37a",
+    "source": "Hugging Face Blog",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "summary": "",
+    "published": "2026-06-01T15:45:17+00:00",
+    "fetched_at": "2026-06-02T05:54:34+00:00"
+  },
+  {
+    "id": "dd48372259ba3da953f2",
+    "source": "TechCrunch AI",
+    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms",
+    "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+    "published": "2026-06-01T14:49:10+00:00",
+    "fetched_at": "2026-06-02T05:54:35+00:00"
+  },
+  {
+    "id": "dac09f7b2e23979eaadc",
+    "source": "Hugging Face Blog",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "summary": "",
+    "published": "2026-06-01T13:51:18+00:00",
+    "fetched_at": "2026-06-02T05:54:34+00:00"
+  },
+  {
     "id": "8c17c679028dc453aeaf",
     "source": "Hugging Face Blog",
     "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
@@ -4957,6 +5038,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "a08fe1b752bcc3787e79",
+    "source": "Anthropic News",
+    "title": "Jun 1, 2026 Announcements Anthropic confidentially submits draft S-1 to the SEC",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-02T05:54:33+00:00"
+  },
+  {
+    "id": "b67a58b9a8291567d673",
+    "source": "OpenAI News",
+    "title": "OpenAI frontier models and Codex are now available on AWS Product Jun 1, 2026",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-02T05:54:32+00:00"
   },
   {
     "id": "c38cca6d758d29ceb8b1",
