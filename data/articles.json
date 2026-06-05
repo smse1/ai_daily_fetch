@@ -1,5 +1,131 @@
 [
   {
+    "id": "23c27956d7ab060e9896",
+    "source": "TechCrunch AI",
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully",
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "published": "2026-06-05T05:06:37+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "abf9346d54d3c7d9544d",
+    "source": "TechCrunch AI",
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns",
+    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "published": "2026-06-04T22:43:26+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "d74c8095e1faa0364f0c",
+    "source": "TechCrunch AI",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab",
+    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "published": "2026-06-04T22:29:50+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "148d49668c37fb6ee216",
+    "source": "TechCrunch AI",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18",
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "published": "2026-06-04T21:30:00+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "3b5ae5cde526174acb37",
+    "source": "TechCrunch AI",
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents",
+    "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+    "published": "2026-06-04T19:33:09+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "3e9e988254af722e7f0d",
+    "source": "TechCrunch AI",
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform",
+    "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+    "published": "2026-06-04T19:20:58+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "588ee26fcd1c79815e02",
+    "source": "Hugging Face Blog",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "summary": "",
+    "published": "2026-06-04T18:57:45+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
+  },
+  {
+    "id": "9bce8e48d42bb47708b5",
+    "source": "TechCrunch AI",
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
+    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "published": "2026-06-04T16:32:48+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "a32d0a80ffafb918cffb",
+    "source": "TechCrunch AI",
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "published": "2026-06-04T16:31:12+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "aa723b9fd836f313465d",
+    "source": "TechCrunch AI",
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is",
+    "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+    "published": "2026-06-04T15:05:00+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "5626b1e8f852d8b270dc",
+    "source": "TechCrunch AI",
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission",
+    "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+    "published": "2026-06-04T14:05:58+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "39d1b8284b1971629e0f",
+    "source": "Hugging Face Blog",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "summary": "",
+    "published": "2026-06-04T12:24:58+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
+  },
+  {
+    "id": "4c9faa0ff1c2b3ee31db",
+    "source": "MIT Technology Review AI",
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits",
+    "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+    "published": "2026-06-04T10:50:18+00:00",
+    "fetched_at": "2026-06-05T05:23:25+00:00"
+  },
+  {
+    "id": "a7faa95eee65eb3e48aa",
+    "source": "Hugging Face Blog",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "summary": "",
+    "published": "2026-06-04T00:00:00+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
+  },
+  {
     "id": "98b78ada84a8ded1aaaf",
     "source": "TechCrunch AI",
     "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
@@ -70,6 +196,24 @@
     "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
     "published": "2026-06-03T13:02:51+00:00",
     "fetched_at": "2026-06-04T06:00:20+00:00"
+  },
+  {
+    "id": "c7c9aee2c445bdb8f90c",
+    "source": "Hugging Face Blog",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "summary": "",
+    "published": "2026-06-03T12:55:11+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
+  },
+  {
+    "id": "55d5039bdb728942336f",
+    "source": "Hugging Face Blog",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "summary": "",
+    "published": "2026-06-03T00:00:00+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
   },
   {
     "id": "f71ba307171ad0bccd7e",
@@ -169,6 +313,15 @@
     "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
     "published": "2026-06-02T14:44:21+00:00",
     "fetched_at": "2026-06-03T06:08:34+00:00"
+  },
+  {
+    "id": "988e6c812cc4e27901cb",
+    "source": "Hugging Face Blog",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "summary": "",
+    "published": "2026-06-02T14:13:23+00:00",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
   },
   {
     "id": "aca7867032a77d19255d",
@@ -5236,6 +5389,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "8f03e52d28f4346f9315",
+    "source": "Google Research Blog",
+    "title": "June 4, 2026 Towards passive heart health monitoring via smartphone camera Health & Bioscience · Human-Computer Interaction and Visualization · Machine Intelligence",
+    "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-05T05:23:24+00:00"
+  },
+  {
+    "id": "65f3a156c5e1a9fb642e",
+    "source": "OpenAI News",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT Research Jun 4, 2026",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-05T05:23:20+00:00"
   },
   {
     "id": "0915452fce39800fc457",
