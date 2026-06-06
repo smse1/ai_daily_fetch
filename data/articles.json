@@ -1,5 +1,77 @@
 [
   {
+    "id": "64d224f1de8f20d6f6fb",
+    "source": "Hugging Face Blog",
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "summary": "",
+    "published": "2026-06-05T22:18:46+00:00",
+    "fetched_at": "2026-06-06T04:58:45+00:00"
+  },
+  {
+    "id": "1b8404d4404c475370cb",
+    "source": "TechCrunch AI",
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days",
+    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+    "published": "2026-06-05T20:00:00+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "3c832b36ca01e8bc040a",
+    "source": "TechCrunch AI",
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute",
+    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+    "published": "2026-06-05T18:57:20+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "8b8bec15f1120da41b6e",
+    "source": "TechCrunch AI",
+    "title": "The most interesting startups right now want to get you off your phone",
+    "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone",
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+    "published": "2026-06-05T17:17:06+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "8e87b280dbc84d5c7a6a",
+    "source": "TechCrunch AI",
+    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs",
+    "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+    "published": "2026-06-05T14:49:12+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "51cb949a79474bbd446e",
+    "source": "TechCrunch AI",
+    "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+    "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026",
+    "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+    "published": "2026-06-05T14:00:00+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "3da14d1ed4df13871435",
+    "source": "TechCrunch AI",
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "published": "2026-06-05T13:03:10+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
+    "id": "e919d4147c95e11c3d68",
+    "source": "MIT Technology Review AI",
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos",
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
+    "published": "2026-06-05T09:00:00+00:00",
+    "fetched_at": "2026-06-06T04:58:46+00:00"
+  },
+  {
     "id": "23c27956d7ab060e9896",
     "source": "TechCrunch AI",
     "title": "Mira Murati steps back into the spotlight, carefully",
@@ -5389,6 +5461,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "7d2e6c79c7138f5ca58f",
+    "source": "Google Research Blog",
+    "title": "June 5, 2026 Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG Data Management · Machine Intelligence · Natural Language Processing · Product",
+    "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-06T04:58:45+00:00"
   },
   {
     "id": "8f03e52d28f4346f9315",
