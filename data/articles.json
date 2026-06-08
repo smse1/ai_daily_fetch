@@ -1,5 +1,41 @@
 [
   {
+    "id": "85efd48fb6fe4602276a",
+    "source": "TechCrunch AI",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse",
+    "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+    "published": "2026-06-07T20:26:13+00:00",
+    "fetched_at": "2026-06-08T05:58:03+00:00"
+  },
+  {
+    "id": "0b587f1516810cc22f63",
+    "source": "Hugging Face Blog",
+    "title": "Amazing Digital Dentures (a failed project)",
+    "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+    "summary": "",
+    "published": "2026-06-07T19:44:27+00:00",
+    "fetched_at": "2026-06-08T05:58:02+00:00"
+  },
+  {
+    "id": "8b07dc4996cdeaab82b4",
+    "source": "TechCrunch AI",
+    "title": "Notion restores access to Anthropic after service disruption",
+    "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption",
+    "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+    "published": "2026-06-07T17:56:22+00:00",
+    "fetched_at": "2026-06-08T05:58:03+00:00"
+  },
+  {
+    "id": "55efd807b3a2cdfdc055",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is still working on that ‘super app’",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
+    "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+    "published": "2026-06-07T16:23:22+00:00",
+    "fetched_at": "2026-06-08T05:58:03+00:00"
+  },
+  {
     "id": "233f765a135e930f33ac",
     "source": "TechCrunch AI",
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
