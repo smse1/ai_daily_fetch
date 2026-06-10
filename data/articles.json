@@ -1,5 +1,149 @@
 [
   {
+    "id": "261c2bea3e3d100e68a9",
+    "source": "TechCrunch AI",
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars",
+    "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
+    "published": "2026-06-10T00:26:10+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "ec50756c281f0358bce9",
+    "source": "TechCrunch AI",
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund",
+    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+    "published": "2026-06-09T23:17:51+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "9df1ff9b71598aed156e",
+    "source": "TechCrunch AI",
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai",
+    "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+    "published": "2026-06-09T20:50:17+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "284980b5bb1feaec1fea",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button",
+    "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+    "published": "2026-06-09T20:37:49+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "5fd84165112582b2846d",
+    "source": "Hugging Face Blog",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "summary": "",
+    "published": "2026-06-09T19:38:28+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "17a43433ae4d3f1b2431",
+    "source": "TechCrunch AI",
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models",
+    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "published": "2026-06-09T18:56:09+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "749b8351639565131ca8",
+    "source": "TechCrunch AI",
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more",
+    "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "published": "2026-06-09T18:04:24+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "06986af75ee3d8d50c03",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today",
+    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+    "published": "2026-06-09T17:00:00+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "b6d0b3f5402635270e3a",
+    "source": "TechCrunch AI",
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos",
+    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+    "published": "2026-06-09T16:09:14+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "59b043ad37023c889d7b",
+    "source": "Hugging Face Blog",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "summary": "",
+    "published": "2026-06-09T15:56:23+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "0a9a2dd4e5acbefd6836",
+    "source": "TechCrunch AI",
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams",
+    "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+    "published": "2026-06-09T13:47:25+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "0681c95f099d185a6e97",
+    "source": "TechCrunch AI",
+    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week",
+    "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+    "published": "2026-06-09T13:00:00+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "293d8e945fb8526de0c5",
+    "source": "TechCrunch AI",
+    "title": "How an e-scooter founder raised $5 million to build space data centers",
+    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers",
+    "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+    "published": "2026-06-09T12:00:00+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "1819cad0ae8d39ffe9e3",
+    "source": "Hugging Face Blog",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "summary": "",
+    "published": "2026-06-09T10:46:19+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "43e74b151414c577dc10",
+    "source": "MIT Technology Review AI",
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise",
+    "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
+    "published": "2026-06-09T10:20:06+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
+    "id": "5e185f1b3680fe5f8f65",
+    "source": "MIT Technology Review AI",
+    "title": "Five things you need to know about AI",
+    "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai",
+    "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
+    "published": "2026-06-09T09:16:45+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
+  },
+  {
     "id": "d730d1817515d17bdb5c",
     "source": "TechCrunch AI",
     "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
@@ -16,6 +160,15 @@
     "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
     "published": "2026-06-09T00:45:56+00:00",
     "fetched_at": "2026-06-09T05:11:48+00:00"
+  },
+  {
+    "id": "02cc0b774587c7111383",
+    "source": "Hugging Face Blog",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "summary": "",
+    "published": "2026-06-09T00:00:00+00:00",
+    "fetched_at": "2026-06-10T05:24:09+00:00"
   },
   {
     "id": "25e99ea4d6f2a558cfd3",
@@ -5659,6 +5812,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "21dbe4b22d2237a46b55",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-10T05:24:08+00:00"
+  },
+  {
+    "id": "3104aff2dc268655dfed",
+    "source": "Anthropic News",
+    "title": "Claude Fable 5 and Claude Mythos 5 Announcements Jun 9, 2026 Our next generation of intelligence for the hardest knowledge work and coding problems.",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-10T05:24:08+00:00"
   },
   {
     "id": "36a9c4314f02958037ed",
