@@ -1,5 +1,113 @@
 [
   {
+    "id": "d7eb8da6920c0a9f2f51",
+    "source": "TechCrunch AI",
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing",
+    "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+    "published": "2026-06-11T04:02:19+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "522ef496bed48c16eb77",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report",
+    "summary": "If you doubted his genius, doubt no more.",
+    "published": "2026-06-11T03:53:06+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "aa94dbfa41dde9c0e6e6",
+    "source": "TechCrunch AI",
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims",
+    "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+    "published": "2026-06-10T22:31:19+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "7e516c9bf47ef9be8b43",
+    "source": "TechCrunch AI",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "published": "2026-06-10T20:19:31+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "af95f581fc5aed92cb57",
+    "source": "TechCrunch AI",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "published": "2026-06-10T17:07:35+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "ab5d0c2ba6b305076bb4",
+    "source": "TechCrunch AI",
+    "title": "How memory tools can make AI models worse",
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse",
+    "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "published": "2026-06-10T16:11:08+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "42dba67d43a7b091dc6e",
+    "source": "TechCrunch AI",
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable",
+    "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+    "published": "2026-06-10T15:41:22+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "c9288fb5e38cc3ebaa47",
+    "source": "TechCrunch AI",
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in",
+    "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+    "published": "2026-06-10T15:00:00+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "6318b06146f249297497",
+    "source": "TechCrunch AI",
+    "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+    "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo",
+    "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+    "published": "2026-06-10T14:48:01+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "dd41fd1c1b2b82c3ef63",
+    "source": "TechCrunch AI",
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai",
+    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+    "published": "2026-06-10T14:31:30+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "fdffea19015040cf79f3",
+    "source": "TechCrunch AI",
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business",
+    "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "published": "2026-06-10T13:33:09+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
+    "id": "1b4709fb00e38fa2953a",
+    "source": "TechCrunch AI",
+    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats",
+    "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+    "published": "2026-06-10T13:07:56+00:00",
+    "fetched_at": "2026-06-11T05:56:54+00:00"
+  },
+  {
     "id": "261c2bea3e3d100e68a9",
     "source": "TechCrunch AI",
     "title": "Google just fired a warning shot in the AI subscription price wars",
@@ -5812,6 +5920,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "e66489ad403427c90987",
+    "source": "Google Research Blog",
+    "title": "June 10, 2026 New framework for auditing machine unlearning Algorithms & Theory · Responsible AI · Security, Privacy and Abuse Prevention",
+    "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-11T05:56:53+00:00"
+  },
+  {
+    "id": "e53743ba844bd73f1fc4",
+    "source": "OpenAI News",
+    "title": "Applied AI",
+    "url": "https://openai.com/news/applied-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-11T05:56:51+00:00"
+  },
+  {
+    "id": "452174289a9a86482837",
+    "source": "OpenAI News",
+    "title": "How an astrophysicist uses Codex to help simulate black holes Applied AI Jun 11, 2026",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-11T05:56:51+00:00"
+  },
+  {
+    "id": "a365244dada3588ba257",
+    "source": "OpenAI News",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment Company Jun 10, 2026",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-11T05:56:51+00:00"
   },
   {
     "id": "21dbe4b22d2237a46b55",
