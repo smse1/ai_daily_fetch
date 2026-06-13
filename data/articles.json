@@ -1,5 +1,14 @@
 [
   {
+    "id": "9e5ebc4f68916904cb3a",
+    "source": "Hugging Face Blog",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "summary": "",
+    "published": "2026-06-12T15:56:10+00:00",
+    "fetched_at": "2026-06-13T05:24:30+00:00"
+  },
+  {
     "id": "2c62a14ec47badcd5672",
     "source": "TechCrunch AI",
     "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
@@ -6010,6 +6019,51 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "bfa8d5c74aec7b71e2b9",
+    "source": "Google Research Blog",
+    "title": "June 12, 2026 Research into how AI can help users understand skin conditions Health & Bioscience · Human-Computer Interaction and Visualization",
+    "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-13T05:24:29+00:00"
+  },
+  {
+    "id": "813ff7b70fa60a6eb734",
+    "source": "OpenAI News",
+    "title": "New OpenAI Academy courses for the next era of work AI Adoption Jun 12, 2026",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-13T05:24:28+00:00"
+  },
+  {
+    "id": "5a4e533f03efbaff4a12",
+    "source": "Anthropic News",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Announcements Jun 12, 2026 The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-13T05:24:28+00:00"
+  },
+  {
+    "id": "a9787dd3202c054b300a",
+    "source": "Anthropic News",
+    "title": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-13T05:24:28+00:00"
+  },
+  {
+    "id": "755d6a6b35b0dc21197f",
+    "source": "Anthropic News",
+    "title": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
+    "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-13T05:24:28+00:00"
   },
   {
     "id": "8c0fda95fad0d2e52b12",
