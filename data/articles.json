@@ -1,5 +1,149 @@
 [
   {
+    "id": "8d1ce2193227007db266",
+    "source": "TechCrunch AI",
+    "title": "How to turn off AI in your Google Docs",
+    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs",
+    "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "published": "2026-06-18T01:23:51+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "1e0bb13dbf559f55c8f1",
+    "source": "TechCrunch AI",
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors",
+    "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+    "published": "2026-06-17T20:32:52+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "c257230fab572ca44193",
+    "source": "TechCrunch AI",
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive",
+    "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+    "published": "2026-06-17T20:24:28+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "6fe6f3c3558f870555fa",
+    "source": "TechCrunch AI",
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi",
+    "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "published": "2026-06-17T20:17:38+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "8154510f78191704e8ec",
+    "source": "TechCrunch AI",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off",
+    "summary": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+    "published": "2026-06-17T19:01:19+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "8298595757620263ee3a",
+    "source": "TechCrunch AI",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
+    "summary": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "published": "2026-06-17T18:30:56+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "141748f48e6fb5ef7e22",
+    "source": "TechCrunch AI",
+    "title": "Social media’s next evolution: user-controlled algorithms",
+    "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms",
+    "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+    "published": "2026-06-17T18:19:48+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "a45a4f1db5e841189833",
+    "source": "TechCrunch AI",
+    "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+    "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning",
+    "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "published": "2026-06-17T18:00:00+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "f0fd75c5e5ff269a7fa6",
+    "source": "TechCrunch AI",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names",
+    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "published": "2026-06-17T17:43:07+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "ecbd3c38ce37ec7bd70c",
+    "source": "TechCrunch AI",
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows",
+    "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+    "published": "2026-06-17T17:00:01+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "52a608f4a499908ca940",
+    "source": "TechCrunch AI",
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+    "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+    "published": "2026-06-17T16:30:09+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "c33773f2c4819f335616",
+    "source": "Hugging Face Blog",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "summary": "",
+    "published": "2026-06-17T15:26:44+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "4dbbd716d8f57910e8ae",
+    "source": "TechCrunch AI",
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span",
+    "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "published": "2026-06-17T15:24:41+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "5fbdc5ca57f6986bac16",
+    "source": "Hugging Face Blog",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "summary": "",
+    "published": "2026-06-17T10:18:05+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "5c17e6df2806e91f4f09",
+    "source": "Hugging Face Blog",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "summary": "",
+    "published": "2026-06-17T09:01:25+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "2fe99ab69934bfdf5af9",
+    "source": "Hugging Face Blog",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "summary": "",
+    "published": "2026-06-17T00:00:00+00:00",
+    "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
     "id": "0c14e58602d8ef118bdf",
     "source": "TechCrunch AI",
     "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -6352,6 +6496,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "15065872c7628ffd2ce8",
+    "source": "Anthropic News",
+    "title": "Jun 17, 2026 Announcements Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-18T06:01:02+00:00"
+  },
+  {
+    "id": "ca11156207afec93265c",
+    "source": "OpenAI News",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry Research Jun 17, 2026",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-18T06:00:59+00:00"
+  },
+  {
+    "id": "bbe4698f2449f9b330e2",
+    "source": "OpenAI News",
+    "title": "Introducing LifeSciBench Research Jun 17, 2026",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-18T06:00:59+00:00"
   },
   {
     "id": "04a9e87bc0d3824c3047",
