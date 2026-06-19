@@ -1,5 +1,122 @@
 [
   {
+    "id": "047c3f70d5158c08227d",
+    "source": "TechCrunch AI",
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m",
+    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "published": "2026-06-19T00:51:11+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "a4612cd1b352ae066b9d",
+    "source": "TechCrunch AI",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round",
+    "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "published": "2026-06-18T21:20:13+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "e6b78daeee8cdac5829e",
+    "source": "TechCrunch AI",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs",
+    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "published": "2026-06-18T20:30:00+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "66496ed92d14ebebc7d4",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "published": "2026-06-18T19:59:22+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "b6bdf08b8c67df893d4b",
+    "source": "TechCrunch AI",
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "published": "2026-06-18T18:51:46+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "60400616cf78d1d81eac",
+    "source": "TechCrunch AI",
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "published": "2026-06-18T18:22:13+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "97a27397d0ee6c4b2618",
+    "source": "Hugging Face Blog",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "summary": "",
+    "published": "2026-06-18T18:13:13+00:00",
+    "fetched_at": "2026-06-19T06:24:31+00:00"
+  },
+  {
+    "id": "8b600b48ebb89c75b2ea",
+    "source": "TechCrunch AI",
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "published": "2026-06-18T17:49:23+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "62122326b5ede69f6d1b",
+    "source": "TechCrunch AI",
+    "title": "The smartphone era created an attention crisis — slow tech is fixing it",
+    "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it",
+    "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "published": "2026-06-18T17:16:30+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "cbaad4ed84756d28eb94",
+    "source": "TechCrunch AI",
+    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone",
+    "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
+    "published": "2026-06-18T16:55:04+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "d65746afab9cf3477d22",
+    "source": "TechCrunch AI",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation",
+    "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+    "published": "2026-06-18T15:20:37+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "209600abca69c3f6cf7c",
+    "source": "TechCrunch AI",
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight",
+    "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+    "published": "2026-06-18T15:13:21+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
+    "id": "b698118b5086b6750dfe",
+    "source": "TechCrunch AI",
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+    "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences",
+    "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+    "published": "2026-06-18T12:00:00+00:00",
+    "fetched_at": "2026-06-19T06:24:32+00:00"
+  },
+  {
     "id": "8d1ce2193227007db266",
     "source": "TechCrunch AI",
     "title": "How to turn off AI in your Google Docs",
@@ -7,6 +124,24 @@
     "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
     "published": "2026-06-18T01:23:51+00:00",
     "fetched_at": "2026-06-18T06:01:03+00:00"
+  },
+  {
+    "id": "3570161bf64dc197dc63",
+    "source": "Hugging Face Blog",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "summary": "",
+    "published": "2026-06-18T00:00:00+00:00",
+    "fetched_at": "2026-06-19T06:24:31+00:00"
+  },
+  {
+    "id": "33cd2c141912c0503b4d",
+    "source": "Hugging Face Blog",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "summary": "",
+    "published": "2026-06-18T00:00:00+00:00",
+    "fetched_at": "2026-06-19T06:24:31+00:00"
   },
   {
     "id": "1e0bb13dbf559f55c8f1",
@@ -6496,6 +6631,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "80fe6435a1e624784a2e",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-19T06:24:31+00:00"
+  },
+  {
+    "id": "001334c9e4508a90e354",
+    "source": "OpenAI News",
+    "title": "New usage analytics and updated spend controls for enterprises Product Jun 18, 2026",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-19T06:24:29+00:00"
+  },
+  {
+    "id": "53398a2e8d6f4004db05",
+    "source": "OpenAI News",
+    "title": "Improving health intelligence in ChatGPT Product Jun 18, 2026",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-19T06:24:29+00:00"
+  },
+  {
+    "id": "7ad6aac8837d69633423",
+    "source": "OpenAI News",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children Applied AI Jun 18, 2026",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-19T06:24:29+00:00"
   },
   {
     "id": "15065872c7628ffd2ce8",
