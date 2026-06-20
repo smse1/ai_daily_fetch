@@ -1,5 +1,68 @@
 [
   {
+    "id": "044cd32e8a5cecf5136e",
+    "source": "TechCrunch AI",
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "published": "2026-06-19T22:40:14+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "915c80f7bf1c22d21ee0",
+    "source": "TechCrunch AI",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "published": "2026-06-19T16:08:17+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "1b0f551094790d7b1c39",
+    "source": "TechCrunch AI",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care",
+    "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "published": "2026-06-19T16:01:03+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "09fe40f790950a6b9583",
+    "source": "TechCrunch AI",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "published": "2026-06-19T15:23:28+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "0f275377b8356b8d3b89",
+    "source": "TechCrunch AI",
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "published": "2026-06-19T13:00:00+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "1474d7da1ab599c97d90",
+    "source": "MIT Technology Review AI",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "published": "2026-06-19T10:40:24+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
+    "id": "7f66a333787b4ec03ad5",
+    "source": "TechCrunch AI",
+    "title": "The US says ASML’s top chip tool may be in China, but how?",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt",
+    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "published": "2026-06-19T07:59:12+00:00",
+    "fetched_at": "2026-06-20T05:21:05+00:00"
+  },
+  {
     "id": "047c3f70d5158c08227d",
     "source": "TechCrunch AI",
     "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
