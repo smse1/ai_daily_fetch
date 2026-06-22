@@ -1,5 +1,23 @@
 [
   {
+    "id": "54b13e96093ef62dc799",
+    "source": "TechCrunch AI",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "published": "2026-06-21T15:28:17+00:00",
+    "fetched_at": "2026-06-22T06:34:18+00:00"
+  },
+  {
+    "id": "bdc2b59ff2f58fc65652",
+    "source": "TechCrunch AI",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27",
+    "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "published": "2026-06-21T14:40:28+00:00",
+    "fetched_at": "2026-06-22T06:34:18+00:00"
+  },
+  {
     "id": "8c8399ddbfa41968684d",
     "source": "TechCrunch AI",
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
@@ -6721,6 +6739,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "2fb5bbbfc686ad083516",
+    "source": "OpenAI News",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees Company Jun 21, 2026",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-22T06:34:16+00:00"
   },
   {
     "id": "80fe6435a1e624784a2e",
