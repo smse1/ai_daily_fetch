@@ -1,5 +1,59 @@
 [
   {
+    "id": "61476cac8737de5c56be",
+    "source": "TechCrunch AI",
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "published": "2026-06-23T23:30:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "00dc396f498ba4b7af82",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "published": "2026-06-23T17:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "a7c51b5fc3827235bf0f",
+    "source": "TechCrunch AI",
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026",
+    "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+    "published": "2026-06-23T14:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "edadd9f4e7ffc82f93d4",
+    "source": "TechCrunch AI",
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates",
+    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "published": "2026-06-23T13:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "d64a00c579b717acc0f9",
+    "source": "Hugging Face Blog",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "summary": "",
+    "published": "2026-06-23T12:51:55+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "ebcf5160d12424c0c28b",
+    "source": "MIT Technology Review AI",
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking",
+    "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;",
+    "published": "2026-06-23T09:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
     "id": "1b5e84d85fed414f632a",
     "source": "TechCrunch AI",
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -16,6 +70,24 @@
     "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
     "published": "2026-06-23T00:11:31+00:00",
     "fetched_at": "2026-06-23T05:08:25+00:00"
+  },
+  {
+    "id": "d605aad9b42959254a58",
+    "source": "Hugging Face Blog",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "summary": "",
+    "published": "2026-06-23T00:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
+  },
+  {
+    "id": "86e9d85671f541fcf876",
+    "source": "Hugging Face Blog",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "summary": "",
+    "published": "2026-06-23T00:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
   },
   {
     "id": "8ee497bfb544c00ed4ae",
@@ -97,6 +169,15 @@
     "summary": "",
     "published": "2026-06-22T13:18:56+00:00",
     "fetched_at": "2026-06-23T05:08:24+00:00"
+  },
+  {
+    "id": "7570b4e1a83e813c45c9",
+    "source": "Hugging Face Blog",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "summary": "",
+    "published": "2026-06-22T00:00:00+00:00",
+    "fetched_at": "2026-06-24T05:05:44+00:00"
   },
   {
     "id": "54b13e96093ef62dc799",
@@ -6838,6 +6919,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "7ffca7d51b8e4121ecab",
+    "source": "Anthropic News",
+    "title": "Product Jun 23, 2026 Introducing Claude Tag Claude Tag is a new way for teams to work with Claude.",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-24T05:05:43+00:00"
+  },
+  {
+    "id": "11994178ab517fab97d2",
+    "source": "OpenAI News",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery Applied AI Jun 23, 2026",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-24T05:05:38+00:00"
   },
   {
     "id": "d0d8e4d425b004a8251e",
