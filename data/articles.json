@@ -1,5 +1,140 @@
 [
   {
+    "id": "75455c55428ef8d26379",
+    "source": "TechCrunch AI",
+    "title": "Europe is pushing back on Washington’s chip war",
+    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war",
+    "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+    "published": "2026-06-25T00:08:36+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "f1d65a239107c0cee49d",
+    "source": "TechCrunch AI",
+    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world",
+    "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+    "published": "2026-06-24T23:26:52+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "a69dab084efac54f765c",
+    "source": "TechCrunch AI",
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood",
+    "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+    "published": "2026-06-24T22:41:41+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "2f57310531d4f26d378f",
+    "source": "TechCrunch AI",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient",
+    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "published": "2026-06-24T21:56:41+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "4f810de4b53f55fe241d",
+    "source": "TechCrunch AI",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals",
+    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "published": "2026-06-24T21:42:07+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "2cba906429345a7a24e3",
+    "source": "TechCrunch AI",
+    "title": "The memory chip crunch is paying off for this US company",
+    "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company",
+    "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+    "published": "2026-06-24T21:30:55+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "7056b6123a784fc707b0",
+    "source": "TechCrunch AI",
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks",
+    "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+    "published": "2026-06-24T20:09:45+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "8a98dd61f7a960960433",
+    "source": "TechCrunch AI",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators",
+    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "published": "2026-06-24T17:16:24+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "8907d34ac6988eb21d73",
+    "source": "TechCrunch AI",
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal",
+    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "published": "2026-06-24T16:48:43+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "e78f528ade49106db47c",
+    "source": "TechCrunch AI",
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+    "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+    "published": "2026-06-24T16:15:00+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "ca8b65d0dc28a0795d92",
+    "source": "Hugging Face Blog",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "summary": "",
+    "published": "2026-06-24T16:00:13+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "4ecc1de2df8b278b11a6",
+    "source": "TechCrunch AI",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom",
+    "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+    "published": "2026-06-24T14:54:46+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "9ee6d4dc8b88eb59e35e",
+    "source": "TechCrunch AI",
+    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026",
+    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+    "published": "2026-06-24T14:00:00+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "9e9f47067e42b2e27d6f",
+    "source": "MIT Technology Review AI",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai",
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+    "published": "2026-06-24T11:59:54+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "512329477777e7ddbbcc",
+    "source": "Hugging Face Blog",
+    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "url": "https://huggingface.co/blog/ffasr-leaderboard",
+    "summary": "",
+    "published": "2026-06-24T00:00:00+00:00",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
     "id": "61476cac8737de5c56be",
     "source": "TechCrunch AI",
     "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
@@ -6919,6 +7054,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "6b8837a94c59c28ffad8",
+    "source": "Google Research Blog",
+    "title": "June 24, 2026 Thinking to recall: How reasoning unlocks parametric knowledge in LLMs Generative AI · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-25T05:09:54+00:00"
+  },
+  {
+    "id": "d9d6e99d4a9402ef1660",
+    "source": "OpenAI News",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip Company Jun 24, 2026",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-25T05:09:49+00:00"
   },
   {
     "id": "7ffca7d51b8e4121ecab",
