@@ -1,5 +1,113 @@
 [
   {
+    "id": "21ef798e11d51f014d7e",
+    "source": "Hugging Face Blog",
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "summary": "",
+    "published": "2026-06-26T00:00:00+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "6185fb11bb40ffab0c16",
+    "source": "TechCrunch AI",
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns",
+    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "published": "2026-06-25T23:34:39+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "d9fd617dc1f72164a7fc",
+    "source": "TechCrunch AI",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents",
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "published": "2026-06-25T20:19:25+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "0823275b728b7e181dc2",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "published": "2026-06-25T17:38:27+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "4a0deab55d808d7146cb",
+    "source": "TechCrunch AI",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world",
+    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "published": "2026-06-25T16:55:00+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "0ac54dabfbbed329f988",
+    "source": "TechCrunch AI",
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x",
+    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "published": "2026-06-25T16:48:11+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "7fe193c93a828c0a3e0d",
+    "source": "Hugging Face Blog",
+    "title": "Which tokens does a hybrid model predict better?",
+    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "summary": "",
+    "published": "2026-06-25T16:11:42+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "ecfc27e705ff4338ab91",
+    "source": "TechCrunch AI",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster",
+    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "published": "2026-06-25T14:55:38+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "9a1f921a787e30405eab",
+    "source": "MIT Technology Review AI",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era",
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "published": "2026-06-25T14:22:59+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "7b83fce739611b520232",
+    "source": "TechCrunch AI",
+    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+    "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit",
+    "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+    "published": "2026-06-25T14:00:00+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "a254448663fa4a2ab281",
+    "source": "TechCrunch AI",
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs",
+    "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "published": "2026-06-25T13:30:00+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "661c6b371d179e51e7dd",
+    "source": "TechCrunch AI",
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment",
+    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+    "published": "2026-06-25T12:00:38+00:00",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
     "id": "75455c55428ef8d26379",
     "source": "TechCrunch AI",
     "title": "Europe is pushing back on Washington’s chip war",
@@ -7054,6 +7162,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "1f14db1e0e15b4f14bf4",
+    "source": "Google Research Blog",
+    "title": "June 25, 2026 Optimizing cloud economics with linear elastic caching Algorithms & Theory · Data Management",
+    "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-26T05:14:55+00:00"
+  },
+  {
+    "id": "7b946c80e2f44cc0a0a1",
+    "source": "OpenAI News",
+    "title": "How agents are transforming work Company Jun 25, 2026",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-26T05:14:53+00:00"
   },
   {
     "id": "6b8837a94c59c28ffad8",
