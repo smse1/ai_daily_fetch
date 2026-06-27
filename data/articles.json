@@ -1,5 +1,68 @@
 [
   {
+    "id": "f04f0536bed4f8ede75c",
+    "source": "TechCrunch AI",
+    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies",
+    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "published": "2026-06-27T01:01:37+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "dd9926e2fc6ec79826c9",
+    "source": "TechCrunch AI",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "published": "2026-06-26T18:32:14+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "1855ef727ae845d007a7",
+    "source": "TechCrunch AI",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "published": "2026-06-26T18:19:36+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "0f786f680bb144a1b230",
+    "source": "TechCrunch AI",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "published": "2026-06-26T17:43:22+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "4c9b3de1cafc7ab9d9c5",
+    "source": "TechCrunch AI",
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "published": "2026-06-26T16:24:47+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "5acf9a0fe2bb583828ba",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal&#160;is&#160;less&#160;of&#160;a [&#8230;]",
+    "published": "2026-06-26T14:00:00+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "93512a90eb7ecfbe92f7",
+    "source": "TechCrunch AI",
+    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit",
+    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "published": "2026-06-26T13:00:00+00:00",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
     "id": "21ef798e11d51f014d7e",
     "source": "Hugging Face Blog",
     "title": "Run a vLLM Server on HF Jobs in One Command",
@@ -7162,6 +7225,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "1b47e667adf3b7626b7e",
+    "source": "Google Research Blog",
+    "title": "June 26, 2026 Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction Machine Intelligence · Mobile Systems · Natural Language Processing",
+    "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-27T04:57:37+00:00"
+  },
+  {
+    "id": "91448bd63ef56df7deee",
+    "source": "OpenAI News",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model Product Jun 26, 2026",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-06-27T04:57:32+00:00"
   },
   {
     "id": "1f14db1e0e15b4f14bf4",
