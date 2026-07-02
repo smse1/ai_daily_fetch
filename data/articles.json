@@ -1,5 +1,77 @@
 [
   {
+    "id": "db7761e957845de57cef",
+    "source": "TechCrunch AI",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "published": "2026-07-01T18:54:18+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "a0307ca326c8ef0af3bc",
+    "source": "TechCrunch AI",
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller",
+    "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+    "published": "2026-07-01T18:47:22+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "0e3ccc0cc18ec35d14cf",
+    "source": "TechCrunch AI",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content",
+    "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "published": "2026-07-01T17:48:37+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "646d47a2a1950273be15",
+    "source": "MIT Technology Review AI",
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out",
+    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+    "published": "2026-07-01T14:35:16+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "8461a5cf4a09cec6fbd0",
+    "source": "TechCrunch AI",
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off",
+    "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "published": "2026-07-01T14:25:23+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "1d4adf57769eeeffc38b",
+    "source": "TechCrunch AI",
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac",
+    "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "published": "2026-07-01T14:20:19+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "cb3928e7cf1f3d5f72ac",
+    "source": "TechCrunch AI",
+    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+    "published": "2026-07-01T14:00:00+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
+    "id": "bbb5fc42810c4ba474bb",
+    "source": "TechCrunch AI",
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "published": "2026-07-01T13:43:07+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
+  },
+  {
     "id": "1e6513100bc90756d9ff",
     "source": "TechCrunch AI",
     "title": "The “Father of the Internet” is finally retiring",
@@ -25,6 +97,15 @@
     "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
     "published": "2026-07-01T02:04:40+00:00",
     "fetched_at": "2026-07-01T05:45:40+00:00"
+  },
+  {
+    "id": "0170a31340f94d36ddb0",
+    "source": "Hugging Face Blog",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "summary": "",
+    "published": "2026-07-01T00:00:00+00:00",
+    "fetched_at": "2026-07-02T05:03:24+00:00"
   },
   {
     "id": "6f4b233d83b9c40f14dc",
