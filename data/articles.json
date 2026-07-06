@@ -1,5 +1,23 @@
 [
   {
+    "id": "476bc006421d50599fe3",
+    "source": "Hugging Face Blog",
+    "title": "🤗 Kernels: Major Updates",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "summary": "",
+    "published": "2026-07-06T00:00:00+00:00",
+    "fetched_at": "2026-07-06T05:17:38+00:00"
+  },
+  {
+    "id": "f98a2ea04768d2cc3a14",
+    "source": "TechCrunch AI",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk",
+    "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+    "published": "2026-07-05T17:43:36+00:00",
+    "fetched_at": "2026-07-06T05:17:38+00:00"
+  },
+  {
     "id": "37d1d4d95e8b8913f381",
     "source": "TechCrunch AI",
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
