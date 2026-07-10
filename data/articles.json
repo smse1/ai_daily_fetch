@@ -1,5 +1,122 @@
 [
   {
+    "id": "29f6038880fb76a3616b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter",
+    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "published": "2026-07-10T00:16:54+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "ad6491ae931db3c6df0e",
+    "source": "TechCrunch AI",
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role",
+    "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "published": "2026-07-09T23:38:00+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "c4f779f2072490525800",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
+    "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+    "published": "2026-07-09T22:24:24+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "84124cf8b4531e5bb0d9",
+    "source": "TechCrunch AI",
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise",
+    "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+    "published": "2026-07-09T22:08:58+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "86f3f15cc7c7425ebf99",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+    "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+    "published": "2026-07-09T22:03:54+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "32ee2ed34c9037d56cd4",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+    "published": "2026-07-09T21:57:42+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "28b1fa47db31be3329ce",
+    "source": "TechCrunch AI",
+    "title": "Can AI answer the $3 trillion question?",
+    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+    "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "published": "2026-07-09T21:47:50+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "92ee9f495bef1ca232af",
+    "source": "MIT Technology Review AI",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "published": "2026-07-09T20:22:28+00:00",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "5e27b45d5baf1190a8dd",
+    "source": "TechCrunch AI",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1",
+    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "published": "2026-07-09T19:40:45+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "15ce4c17785c756939d9",
+    "source": "TechCrunch AI",
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial",
+    "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "published": "2026-07-09T19:05:58+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "a2efb2dee50e416d8ab6",
+    "source": "TechCrunch AI",
+    "title": "Google will now disclose which ads are made with AI",
+    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai",
+    "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+    "published": "2026-07-09T18:40:51+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "03cde8b90b2a1b0d6688",
+    "source": "TechCrunch AI",
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia",
+    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+    "published": "2026-07-09T18:34:35+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "261aa67f67ce640960cc",
+    "source": "TechCrunch AI",
+    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release",
+    "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+    "published": "2026-07-09T18:22:39+00:00",
+    "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
     "id": "113d173da2d13644854c",
     "source": "TechCrunch AI",
     "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -8134,6 +8251,87 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "a2152dfe8009370a3a5b",
+    "source": "Google Research Blog",
+    "title": "July 9, 2026 SensorFM: Towards a general intelligence and interface for wearable health data Generative AI · Machine Intelligence",
+    "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "a25ceff8522299af1ada",
+    "source": "Anthropic News",
+    "title": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "dae5d2db43384319610f",
+    "source": "Anthropic News",
+    "title": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
+    "url": "https://www.anthropic.com/news/ust-claude",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "b74b38c1a7093a9a6d3d",
+    "source": "Anthropic News",
+    "title": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/ben-bernanke",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "f88cab069da6d2fd50c5",
+    "source": "Anthropic News",
+    "title": "Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:59+00:00"
+  },
+  {
+    "id": "291040c62575ab1aa4f8",
+    "source": "OpenAI News",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot Product Jul 9, 2026",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:58+00:00"
+  },
+  {
+    "id": "77f5e124c121aa70c524",
+    "source": "OpenAI News",
+    "title": "ChatGPT is now a partner for your most ambitious work Product Jul 9, 2026",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:58+00:00"
+  },
+  {
+    "id": "ad57a074fb17d1021596",
+    "source": "OpenAI News",
+    "title": "OpenAI Bio Bug Bounty Safety Jul 9, 2026",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:58+00:00"
+  },
+  {
+    "id": "3c94407287f3ef542776",
+    "source": "OpenAI News",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition Product Jul 9, 2026",
+    "url": "https://openai.com/index/gpt-5-6",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-10T04:57:58+00:00"
   },
   {
     "id": "00125352284ae30b2b29",
