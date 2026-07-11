@@ -1,5 +1,50 @@
 [
   {
+    "id": "e62d26394ef7274c2e73",
+    "source": "TechCrunch AI",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "published": "2026-07-10T23:55:07+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
+  },
+  {
+    "id": "2bfdc47293a1b8d81ca4",
+    "source": "TechCrunch AI",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "published": "2026-07-10T21:00:29+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
+  },
+  {
+    "id": "a9d3b95e49e046e67122",
+    "source": "TechCrunch AI",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue",
+    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "published": "2026-07-10T19:00:00+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
+  },
+  {
+    "id": "21a5a5b47b5a41b8faad",
+    "source": "TechCrunch AI",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "published": "2026-07-10T17:17:12+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
+  },
+  {
+    "id": "d7863138360e55a08ba9",
+    "source": "TechCrunch AI",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai",
+    "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "published": "2026-07-10T14:00:00+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
+  },
+  {
     "id": "29f6038880fb76a3616b",
     "source": "TechCrunch AI",
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
@@ -7,6 +52,15 @@
     "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
     "published": "2026-07-10T00:16:54+00:00",
     "fetched_at": "2026-07-10T04:58:00+00:00"
+  },
+  {
+    "id": "c3f22e75fc0a51e23b65",
+    "source": "Hugging Face Blog",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "summary": "",
+    "published": "2026-07-10T00:00:00+00:00",
+    "fetched_at": "2026-07-11T04:17:48+00:00"
   },
   {
     "id": "ad6491ae931db3c6df0e",
