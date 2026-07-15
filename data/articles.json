@@ -1,5 +1,113 @@
 [
   {
+    "id": "57be61a50ad532492a25",
+    "source": "TechCrunch AI",
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b",
+    "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+    "published": "2026-07-15T00:27:04+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "d3126d7373ce13e280d4",
+    "source": "TechCrunch AI",
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy",
+    "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+    "published": "2026-07-14T23:10:02+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "fdad204eeb9837dd6b59",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move",
+    "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+    "published": "2026-07-14T22:22:24+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "9b301e873e555d517ea9",
+    "source": "TechCrunch AI",
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit",
+    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "published": "2026-07-14T22:07:42+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "f0a651fd216087402549",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+    "published": "2026-07-14T21:50:11+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "4396fac32af86f203fb7",
+    "source": "TechCrunch AI",
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta",
+    "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+    "published": "2026-07-14T19:42:27+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "0cc15880cd08dab8739e",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s newest ad is creeping people out",
+    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out",
+    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+    "published": "2026-07-14T19:41:27+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "2bfb3b08e41223cbbbc2",
+    "source": "TechCrunch AI",
+    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+    "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone",
+    "summary": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+    "published": "2026-07-14T19:39:39+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "12c9258fae7624b1756f",
+    "source": "TechCrunch AI",
+    "title": "Google faces another AI training lawsuit from major publishers",
+    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+    "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+    "published": "2026-07-14T18:33:31+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "b59e4c2faf2ce973ab93",
+    "source": "TechCrunch AI",
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai",
+    "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+    "published": "2026-07-14T17:45:55+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "e4278afea7369d4e9d44",
+    "source": "TechCrunch AI",
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer",
+    "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "published": "2026-07-14T16:22:15+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "35a06b320f58891aa9f9",
+    "source": "TechCrunch AI",
+    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+    "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery",
+    "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+    "published": "2026-07-14T16:00:00+00:00",
+    "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
     "id": "ec91440f8285b1f51c9a",
     "source": "TechCrunch AI",
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
@@ -8413,6 +8521,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "19b0766a359415363a5f",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-15T04:09:48+00:00"
+  },
+  {
+    "id": "d08fe1df6c28c381df23",
+    "source": "Anthropic News",
+    "title": "Jul 14, 2026 Product Introducing Claude for Teachers",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-15T04:09:47+00:00"
+  },
+  {
+    "id": "8131eb52b61accc882b2",
+    "source": "Anthropic News",
+    "title": "Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
+    "url": "https://www.anthropic.com/news/canadian-ai-research",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-15T04:09:47+00:00"
+  },
+  {
+    "id": "0554eced2d7d401655b1",
+    "source": "OpenAI News",
+    "title": "How to manage AI investments in the agentic era AI Adoption Jul 14, 2026",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-15T04:09:41+00:00"
   },
   {
     "id": "a2152dfe8009370a3a5b",
