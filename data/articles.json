@@ -1,5 +1,140 @@
 [
   {
+    "id": "c7ec5c05a4485ad04be7",
+    "source": "TechCrunch AI",
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "published": "2026-07-15T23:59:44+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "18cc4392055da43ad1f3",
+    "source": "TechCrunch AI",
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex",
+    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "published": "2026-07-15T19:41:38+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "6946309ce0ba869758fd",
+    "source": "TechCrunch AI",
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch",
+    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "published": "2026-07-15T18:06:05+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "46b3ab60dac37877e785",
+    "source": "TechCrunch AI",
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling",
+    "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+    "published": "2026-07-15T18:04:06+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "7b617139c514629c33a2",
+    "source": "Hugging Face Blog",
+    "title": "What building Shippy taught us about building agents",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "summary": "",
+    "published": "2026-07-15T17:29:41+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "d3984c271cc212e521dd",
+    "source": "Hugging Face Blog",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "summary": "",
+    "published": "2026-07-15T17:27:01+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "b426dd23f43899a45b45",
+    "source": "MIT Technology Review AI",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+    "published": "2026-07-15T17:09:37+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "be79729f07a972cbb570",
+    "source": "TechCrunch AI",
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data",
+    "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "published": "2026-07-15T17:00:34+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "76e2a21bf06e460641bc",
+    "source": "TechCrunch AI",
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations",
+    "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+    "published": "2026-07-15T17:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "fa9b06e47a6ddc3a034d",
+    "source": "TechCrunch AI",
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai",
+    "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+    "published": "2026-07-15T16:20:18+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "f148b129667a4d719697",
+    "source": "TechCrunch AI",
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "published": "2026-07-15T15:29:33+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "7fb286b676aad61bee57",
+    "source": "TechCrunch AI",
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise",
+    "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode’s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded Fractional AI, [&#8230;]",
+    "published": "2026-07-15T15:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "48f9fb14aec9b5613174",
+    "source": "TechCrunch AI",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "published": "2026-07-15T13:10:47+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "d2804004556930fd0ee2",
+    "source": "TechCrunch AI",
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media",
+    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "published": "2026-07-15T13:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "17b799732b6f48b28339",
+    "source": "TechCrunch AI",
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls",
+    "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+    "published": "2026-07-15T13:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
     "id": "57be61a50ad532492a25",
     "source": "TechCrunch AI",
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -7,6 +142,24 @@
     "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
     "published": "2026-07-15T00:27:04+00:00",
     "fetched_at": "2026-07-15T04:09:49+00:00"
+  },
+  {
+    "id": "cddb44b03d066160140f",
+    "source": "Hugging Face Blog",
+    "title": "Welcome Inkling by Thinking Machines",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "summary": "",
+    "published": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
+  },
+  {
+    "id": "009272566e63cafc778b",
+    "source": "Hugging Face Blog",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "summary": "",
+    "published": "2026-07-15T00:00:00+00:00",
+    "fetched_at": "2026-07-16T04:13:14+00:00"
   },
   {
     "id": "d3126d7373ce13e280d4",
@@ -8521,6 +8674,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "d1687088452dfda1a593",
+    "source": "Google Research Blog",
+    "title": "July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory · Generative AI · Machine Intelligence",
+    "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-16T04:13:13+00:00"
+  },
+  {
+    "id": "390e2560baeea05bde08",
+    "source": "OpenAI News",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness Safety Jul 15, 2026",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-16T04:13:11+00:00"
   },
   {
     "id": "19b0766a359415363a5f",
