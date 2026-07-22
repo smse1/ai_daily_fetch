@@ -1,5 +1,113 @@
 [
   {
+    "id": "d0e6543dd69a9a56e83d",
+    "source": "TechCrunch AI",
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "published": "2026-07-22T03:20:57+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "0ff340b597a58e943386",
+    "source": "TechCrunch AI",
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination",
+    "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+    "published": "2026-07-21T23:55:10+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "3b172253f67586b879c5",
+    "source": "TechCrunch AI",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
+    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "published": "2026-07-21T20:56:55+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "ae330ff111118c12f13c",
+    "source": "Hugging Face Blog",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "summary": "",
+    "published": "2026-07-21T20:00:27+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "dc86e0dc2e79f4b0024f",
+    "source": "TechCrunch AI",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
+    "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "published": "2026-07-21T19:43:41+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "47a0f733306861f25336",
+    "source": "TechCrunch AI",
+    "title": "AI and the rise of the universal entertainment app",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app",
+    "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+    "published": "2026-07-21T19:39:30+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "e1f388527a08a54c24f1",
+    "source": "TechCrunch AI",
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035",
+    "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+    "published": "2026-07-21T18:06:38+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "b8a8e500299fdbb86ca1",
+    "source": "TechCrunch AI",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+    "published": "2026-07-21T17:11:50+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "1cd51ae0450410385217",
+    "source": "TechCrunch AI",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "published": "2026-07-21T15:37:05+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "e45b80d6f659807f3687",
+    "source": "TechCrunch AI",
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated",
+    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+    "published": "2026-07-21T13:27:42+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "e8a42fb84c93e62cd7a3",
+    "source": "MIT Technology Review AI",
+    "title": "Advancing next-gen AI with materials science innovation",
+    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and&#8230;",
+    "published": "2026-07-21T10:37:34+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "5a318e159b90a8693ab1",
+    "source": "TechCrunch AI",
+    "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else",
+    "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+    "published": "2026-07-21T10:00:00+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
     "id": "b3ba0f22300ffe635ea9",
     "source": "TechCrunch AI",
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
@@ -7,6 +115,15 @@
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
     "published": "2026-07-21T00:12:24+00:00",
     "fetched_at": "2026-07-21T04:19:18+00:00"
+  },
+  {
+    "id": "a3a109f9dadc8abd16d0",
+    "source": "Hugging Face Blog",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "url": "https://huggingface.co/blog/grabette",
+    "summary": "",
+    "published": "2026-07-21T00:00:00+00:00",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
   },
   {
     "id": "bfd72ff288df64eb2148",
@@ -9043,6 +9160,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "d718bd8bd6b703da0a21",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-22T04:21:06+00:00"
+  },
+  {
+    "id": "d748c2ec91e19bf28e04",
+    "source": "OpenAI News",
+    "title": "Introducing the ChatGPT for small business program AI Adoption Jul 21, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-22T04:20:59+00:00"
+  },
+  {
+    "id": "28ff9bb091ee2a354f51",
+    "source": "OpenAI News",
+    "title": "OpenAI and Hugging Face address security incident Security Jul 21, 2026",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-22T04:20:59+00:00"
+  },
+  {
+    "id": "0195cf7609e42d5ded96",
+    "source": "OpenAI News",
+    "title": "David Vélez and Robin Vince join OpenAI boards Company Jul 21, 2026",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-22T04:20:59+00:00"
   },
   {
     "id": "a768d439d3266bb2eab8",
