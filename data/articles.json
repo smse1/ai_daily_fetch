@@ -1,5 +1,113 @@
 [
   {
+    "id": "bebc149669df516b815f",
+    "source": "TechCrunch AI",
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+    "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "published": "2026-07-22T23:47:54+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "ca1ebfddd4071b90b04b",
+    "source": "TechCrunch AI",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business",
+    "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "published": "2026-07-22T22:01:52+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "af3c83bbd6af04dd41c9",
+    "source": "TechCrunch AI",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
+    "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+    "published": "2026-07-22T20:49:03+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "3f575338da39aed3ded8",
+    "source": "TechCrunch AI",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "published": "2026-07-22T19:11:46+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "103ebe03b1f235a74282",
+    "source": "TechCrunch AI",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z",
+    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+    "published": "2026-07-22T18:50:44+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "1f755eb362b836725e8c",
+    "source": "TechCrunch AI",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads",
+    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+    "published": "2026-07-22T18:13:58+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "3e9fabc6679cf56eb606",
+    "source": "TechCrunch AI",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai",
+    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+    "published": "2026-07-22T17:54:14+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "7e5f4f78a8c300edc9d0",
+    "source": "TechCrunch AI",
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "published": "2026-07-22T16:24:08+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "d38d900e4d1fab28283b",
+    "source": "TechCrunch AI",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai",
+    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "published": "2026-07-22T16:23:09+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "864fe20b7211511cec07",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b",
+    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "published": "2026-07-22T16:13:30+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "d1081b46c3c05ff0e7e0",
+    "source": "TechCrunch AI",
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently",
+    "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
+    "published": "2026-07-22T14:00:00+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "8e31744598fd71d80305",
+    "source": "TechCrunch AI",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026",
+    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "published": "2026-07-22T13:20:35+00:00",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
     "id": "d0e6543dd69a9a56e83d",
     "source": "TechCrunch AI",
     "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -9160,6 +9268,69 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "76701eac940dc2493e32",
+    "source": "Google Research Blog",
+    "title": "July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bioscience · Natural Language Processing · Responsible AI",
+    "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:20:02+00:00"
+  },
+  {
+    "id": "8256361d9856157e4b9d",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:20:01+00:00"
+  },
+  {
+    "id": "7e56e6e087582a4e40fe",
+    "source": "Anthropic News",
+    "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+    "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:20:01+00:00"
+  },
+  {
+    "id": "4544fdab3a6c539bc76c",
+    "source": "Anthropic News",
+    "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:20:01+00:00"
+  },
+  {
+    "id": "1180703b0afe66dae072",
+    "source": "Anthropic News",
+    "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
+    "url": "https://www.anthropic.com/news/donation-public-first-action",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:20:01+00:00"
+  },
+  {
+    "id": "9557ba82b57fd27e3313",
+    "source": "OpenAI News",
+    "title": "How news organizations use AI to advance their vital missions Company Jul 22, 2026",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:19:59+00:00"
+  },
+  {
+    "id": "abc9a66076e0ff571181",
+    "source": "OpenAI News",
+    "title": "Introducing OpenAI Presence Product Jul 22, 2026",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-23T04:19:59+00:00"
   },
   {
     "id": "d718bd8bd6b703da0a21",
