@@ -1,5 +1,32 @@
 [
   {
+    "id": "85b37d2aa7df1cfa87b2",
+    "source": "TechCrunch AI",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "published": "2026-07-26T01:30:00+00:00",
+    "fetched_at": "2026-07-26T04:31:30+00:00"
+  },
+  {
+    "id": "96a09223f6ced80842b8",
+    "source": "TechCrunch AI",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "published": "2026-07-25T16:00:00+00:00",
+    "fetched_at": "2026-07-26T04:31:30+00:00"
+  },
+  {
+    "id": "07ae29cc4792df7ea973",
+    "source": "TechCrunch AI",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "published": "2026-07-25T13:05:00+00:00",
+    "fetched_at": "2026-07-26T04:31:30+00:00"
+  },
+  {
     "id": "e59f94951725be0b6b40",
     "source": "TechCrunch AI",
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
