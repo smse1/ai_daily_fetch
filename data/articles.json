@@ -1,5 +1,149 @@
 [
   {
+    "id": "260cc1ede3a8c9521b97",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
+    "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "published": "2026-07-28T00:13:33+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "c11d4f68d7f4e4352331",
+    "source": "TechCrunch AI",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "published": "2026-07-27T21:17:11+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "6c044efc677c97f65589",
+    "source": "TechCrunch AI",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "published": "2026-07-27T20:19:42+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "0ccbee448687a619414e",
+    "source": "TechCrunch AI",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "published": "2026-07-27T18:32:11+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "2d3902af73ab1cfdde0f",
+    "source": "MIT Technology Review AI",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
+    "published": "2026-07-27T18:00:00+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "1086b76c1229556621ac",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
+    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+    "published": "2026-07-27T17:28:42+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "041ac234fe5fbe52bc6f",
+    "source": "TechCrunch AI",
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms",
+    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+    "published": "2026-07-27T16:45:24+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "ae9d18403129b80824e5",
+    "source": "TechCrunch AI",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+    "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "published": "2026-07-27T15:57:12+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "3134a62f33c854c97aa2",
+    "source": "TechCrunch AI",
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026",
+    "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "published": "2026-07-27T15:30:00+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "3e44e2aeff61569210c0",
+    "source": "TechCrunch AI",
+    "title": "This $9 key physically locks your most addictive apps",
+    "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps",
+    "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+    "published": "2026-07-27T15:25:37+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "1eb1291e228e2e40ebad",
+    "source": "TechCrunch AI",
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research",
+    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "published": "2026-07-27T15:01:50+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "3ba4d89d8248a0d6fb26",
+    "source": "TechCrunch AI",
+    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume",
+    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+    "published": "2026-07-27T13:00:00+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "c6f69fbca7deb8481f46",
+    "source": "MIT Technology Review AI",
+    "title": "The path to artificial superintelligence",
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence",
+    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate&#8230;",
+    "published": "2026-07-27T12:00:00+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "46dc03a3a5c342ab3858",
+    "source": "MIT Technology Review AI",
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery",
+    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
+    "published": "2026-07-27T11:40:16+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "b49cbc50caac638f8650",
+    "source": "MIT Technology Review AI",
+    "title": "Building the enterprise environment for agentic AI",
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai",
+    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the&#8230;",
+    "published": "2026-07-27T11:32:58+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
+    "id": "7ea35049df2dfbd3ad0c",
+    "source": "Hugging Face Blog",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "summary": "",
+    "published": "2026-07-27T09:32:20+00:00",
+    "fetched_at": "2026-07-28T04:14:53+00:00"
+  },
+  {
     "id": "98d293d0d463553a8c10",
     "source": "TechCrunch AI",
     "title": "Are brain waves the next unlock for physical AI?",
@@ -9529,6 +9673,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "447445027b4eb97cd10e",
+    "source": "OpenAI News",
+    "title": "How AI is expanding what people do at work Company Jul 27, 2026",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-28T04:14:52+00:00"
+  },
+  {
+    "id": "454d6c9330ca962bbe0f",
+    "source": "Anthropic News",
+    "title": "Jul 27, 2026 Announcements Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-28T04:14:52+00:00"
+  },
+  {
+    "id": "10980c2b8b7f0d76f7d8",
+    "source": "Anthropic News",
+    "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "url": "https://www.anthropic.com/news/cognizant-anthropic",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-28T04:14:52+00:00"
   },
   {
     "id": "6ba74f6ddb48f4ccc21b",
