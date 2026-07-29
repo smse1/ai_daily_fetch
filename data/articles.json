@@ -1,5 +1,104 @@
 [
   {
+    "id": "d549493d5b4f46d32fd8",
+    "source": "TechCrunch AI",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+    "summary": "The deal is Cyera's third acquisition this year.",
+    "published": "2026-07-29T00:09:05+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "cdcbcb1772d96e648f5c",
+    "source": "TechCrunch AI",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
+    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "published": "2026-07-28T21:29:34+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "5ce553c214d5cdc92a85",
+    "source": "TechCrunch AI",
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "published": "2026-07-28T20:45:12+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "38580a1336f51c241a6d",
+    "source": "TechCrunch AI",
+    "title": "Sam Altman is ready to decelerate",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "published": "2026-07-28T20:17:08+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "3ddddbb041a018acc753",
+    "source": "Hugging Face Blog",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "summary": "",
+    "published": "2026-07-28T16:27:42+00:00",
+    "fetched_at": "2026-07-29T04:17:17+00:00"
+  },
+  {
+    "id": "d300254f2054c36e11fe",
+    "source": "TechCrunch AI",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid",
+    "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+    "published": "2026-07-28T15:42:26+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "63d8aab9eb74ca4fe6f4",
+    "source": "Hugging Face Blog",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "summary": "",
+    "published": "2026-07-28T15:01:45+00:00",
+    "fetched_at": "2026-07-29T04:17:17+00:00"
+  },
+  {
+    "id": "2e5eaca58c0915dff501",
+    "source": "TechCrunch AI",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
+    "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "published": "2026-07-28T14:00:00+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "ed8f3287ebdd29831da5",
+    "source": "TechCrunch AI",
+    "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon",
+    "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+    "published": "2026-07-28T13:19:17+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
+    "id": "3c2cfb1e2268309b6d5a",
+    "source": "MIT Technology Review AI",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix",
+    "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips with his coworkers on&#8230;",
+    "published": "2026-07-28T09:18:57+00:00",
+    "fetched_at": "2026-07-29T04:17:17+00:00"
+  },
+  {
+    "id": "66c909661b8f8d1530e0",
+    "source": "TechCrunch AI",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "published": "2026-07-28T04:30:00+00:00",
+    "fetched_at": "2026-07-29T04:17:18+00:00"
+  },
+  {
     "id": "260cc1ede3a8c9521b97",
     "source": "TechCrunch AI",
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -151,6 +250,15 @@
     "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
     "published": "2026-07-27T00:19:14+00:00",
     "fetched_at": "2026-07-27T04:41:40+00:00"
+  },
+  {
+    "id": "863d51b1701cb941d7f7",
+    "source": "Hugging Face Blog",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "summary": "",
+    "published": "2026-07-27T00:00:00+00:00",
+    "fetched_at": "2026-07-29T04:17:17+00:00"
   },
   {
     "id": "5d1f624db4c7b3b928ec",
@@ -9673,6 +9781,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "8d7494fc7cd8baf0c79e",
+    "source": "OpenAI News",
+    "title": "Scientific computing in the age of agentic AI Publication Jul 28, 2026",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-29T04:17:16+00:00"
   },
   {
     "id": "447445027b4eb97cd10e",
