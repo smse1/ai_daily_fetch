@@ -1,5 +1,113 @@
 [
   {
+    "id": "ce928be08ef7215c29eb",
+    "source": "TechCrunch AI",
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
+    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+    "published": "2026-07-30T00:21:06+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "c6ecef047ef45980c69f",
+    "source": "TechCrunch AI",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years",
+    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "published": "2026-07-29T23:00:11+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "b2d7ece99e0799bef167",
+    "source": "TechCrunch AI",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "published": "2026-07-29T22:46:03+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "61b3576933bdddb9a082",
+    "source": "TechCrunch AI",
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents",
+    "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+    "published": "2026-07-29T22:23:12+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "0c3cfe1536e55c832b28",
+    "source": "TechCrunch AI",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "published": "2026-07-29T21:16:39+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "3eb69a9ae7412b21e0d1",
+    "source": "TechCrunch AI",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
+    "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "published": "2026-07-29T21:07:48+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "24cb5a50ff8b5e1f7882",
+    "source": "TechCrunch AI",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
+    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "published": "2026-07-29T19:44:49+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "253589ee160c6a088430",
+    "source": "TechCrunch AI",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "published": "2026-07-29T18:45:27+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "e0e81cdea8d000588487",
+    "source": "TechCrunch AI",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "published": "2026-07-29T15:35:09+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "4e27d1d84523dd759fa5",
+    "source": "TechCrunch AI",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "published": "2026-07-29T14:41:06+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "8b5ff06e7e590f15c9d5",
+    "source": "TechCrunch AI",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
+    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "published": "2026-07-29T11:00:00+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
+    "id": "bf17c034ec5302ce5b82",
+    "source": "MIT Technology Review AI",
+    "title": "The AI Hype Index: Unsexy AI",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "published": "2026-07-29T08:42:57+00:00",
+    "fetched_at": "2026-07-30T04:10:30+00:00"
+  },
+  {
     "id": "d549493d5b4f46d32fd8",
     "source": "TechCrunch AI",
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -9781,6 +9889,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "e5edcbbd57f74a395516",
+    "source": "OpenAI News",
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark Research Jul 29, 2026",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-30T04:10:27+00:00"
+  },
+  {
+    "id": "044f45e32858195c3ece",
+    "source": "OpenAI News",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers Company Jul 29, 2026",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-30T04:10:27+00:00"
+  },
+  {
+    "id": "6e1f88cd0360ab7bbf84",
+    "source": "OpenAI News",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency Engineering Jul 29, 2026",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-30T04:10:27+00:00"
   },
   {
     "id": "8d7494fc7cd8baf0c79e",
