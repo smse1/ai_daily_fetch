@@ -1,5 +1,131 @@
 [
   {
+    "id": "b7bd0b6d56eb2bcfdce4",
+    "source": "TechCrunch AI",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "published": "2026-07-31T01:06:54+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "f6ee2af8de0b2f50be2c",
+    "source": "TechCrunch AI",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares",
+    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "published": "2026-07-30T23:25:58+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "defa9ae4be3bf2f33b24",
+    "source": "TechCrunch AI",
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "published": "2026-07-30T23:08:58+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "13f4bf8f43585b0aece2",
+    "source": "TechCrunch AI",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host",
+    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+    "published": "2026-07-30T22:41:41+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "76ccb4e5afdcd94714ba",
+    "source": "TechCrunch AI",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+    "published": "2026-07-30T20:26:38+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "99aa6e72e0abab439868",
+    "source": "TechCrunch AI",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag",
+    "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "published": "2026-07-30T19:44:16+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "499025ec87c940dbc9f1",
+    "source": "TechCrunch AI",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "published": "2026-07-30T18:57:58+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "3eb3d181e0b5e3c9cd67",
+    "source": "TechCrunch AI",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "published": "2026-07-30T18:05:21+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "02a9fcf7a938511ee2d6",
+    "source": "TechCrunch AI",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "published": "2026-07-30T16:09:42+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "13f3163802bc14ef3ae1",
+    "source": "TechCrunch AI",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+    "published": "2026-07-30T15:41:16+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "f5c8c10cc7dc6841f807",
+    "source": "TechCrunch AI",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "published": "2026-07-30T15:19:15+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "26ea9d8689b98aff3bb8",
+    "source": "Hugging Face Blog",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "summary": "",
+    "published": "2026-07-30T15:09:09+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "3cac8fb3c60ad7f2d786",
+    "source": "TechCrunch AI",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "published": "2026-07-30T15:00:00+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "349205fc475f67dd90f6",
+    "source": "MIT Technology Review AI",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "published": "2026-07-30T10:15:19+00:00",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
     "id": "ce928be08ef7215c29eb",
     "source": "TechCrunch AI",
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -9889,6 +10015,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "95f799a4e2398b9eafb0",
+    "source": "Google Research Blog",
+    "title": "July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-31T04:27:48+00:00"
+  },
+  {
+    "id": "f971c7a9244e996567cd",
+    "source": "OpenAI News",
+    "title": "Advancing the price-performance frontier with GPT 5.6 Product Jul 30, 2026",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-31T04:27:47+00:00"
+  },
+  {
+    "id": "d2dcab8fc0ca15d19e98",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-31T04:27:47+00:00"
+  },
+  {
+    "id": "548455dab6f3b52e6681",
+    "source": "Anthropic News",
+    "title": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
+    "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-07-31T04:27:47+00:00"
   },
   {
     "id": "e5edcbbd57f74a395516",
