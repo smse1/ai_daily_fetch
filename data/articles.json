@@ -1,5 +1,86 @@
 [
   {
+    "id": "bba774ccbac2ac503b7b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "published": "2026-07-31T22:47:26+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "d6b5d23faf528f27d11c",
+    "source": "TechCrunch AI",
+    "title": "India is starting to pay for apps, not just download them",
+    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
+    "summary": "India's app market generated a record $345 million in Q2.",
+    "published": "2026-07-31T21:07:45+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "360950491d0916f50b62",
+    "source": "TechCrunch AI",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "published": "2026-07-31T19:47:28+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "ddd5b656dd887412bd46",
+    "source": "TechCrunch AI",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "published": "2026-07-31T17:26:32+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "7e5f3cb718bf428e6f11",
+    "source": "TechCrunch AI",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "published": "2026-07-31T16:49:08+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "195a526bee264f02f127",
+    "source": "TechCrunch AI",
+    "title": "Siri AI could come with a paywall for power users",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "published": "2026-07-31T16:08:18+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "58e4d327a8aecc1200b5",
+    "source": "TechCrunch AI",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
+    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "published": "2026-07-31T15:16:17+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "46a9f5441d5d98e09a10",
+    "source": "TechCrunch AI",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "published": "2026-07-31T14:47:11+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
+    "id": "1d556fdaa8e78e803f59",
+    "source": "TechCrunch AI",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+    "published": "2026-07-31T14:00:00+00:00",
+    "fetched_at": "2026-08-01T04:24:28+00:00"
+  },
+  {
     "id": "b7bd0b6d56eb2bcfdce4",
     "source": "TechCrunch AI",
     "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -10015,6 +10096,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5f222f369b26f42c3fb3",
+    "source": "OpenAI News",
+    "title": "Building abundant intelligence Company Jul 31, 2026",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-01T04:24:22+00:00"
   },
   {
     "id": "95f799a4e2398b9eafb0",
