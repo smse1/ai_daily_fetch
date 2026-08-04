@@ -1,5 +1,86 @@
 [
   {
+    "id": "d299907fd390c9120c5d",
+    "source": "TechCrunch AI",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "published": "2026-08-03T23:19:50+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "18c621801076607d3de9",
+    "source": "TechCrunch AI",
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
+    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+    "published": "2026-08-03T20:00:00+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "6f2f751a81a4559709a9",
+    "source": "TechCrunch AI",
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models",
+    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "published": "2026-08-03T19:28:57+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "68000b33bd83aa11ed1b",
+    "source": "TechCrunch AI",
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip",
+    "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+    "published": "2026-08-03T19:09:56+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "061d8bf206fad83f0160",
+    "source": "TechCrunch AI",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+    "published": "2026-08-03T18:43:43+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "3ba86bf643671e20343c",
+    "source": "MIT Technology Review AI",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "published": "2026-08-03T18:43:30+00:00",
+    "fetched_at": "2026-08-04T04:17:27+00:00"
+  },
+  {
+    "id": "95b51e6df86db5eeb25f",
+    "source": "TechCrunch AI",
+    "title": "Congress’ favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "published": "2026-08-03T16:40:55+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "7ce432fa1d0cccf52a9d",
+    "source": "TechCrunch AI",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "published": "2026-08-03T10:00:00+00:00",
+    "fetched_at": "2026-08-04T04:17:28+00:00"
+  },
+  {
+    "id": "8cd2bd6760121dc501c5",
+    "source": "MIT Technology Review AI",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "published": "2026-08-03T08:30:05+00:00",
+    "fetched_at": "2026-08-04T04:17:27+00:00"
+  },
+  {
     "id": "86d073c1927655eb3713",
     "source": "TechCrunch AI",
     "title": "Sam Altman and AI’s decel debate",
@@ -10141,6 +10222,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "c01b9ff585f8db9e2a49",
+    "source": "OpenAI News",
+    "title": "Continuous voice interaction with GPT Live Engineering Aug 3, 2026",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-04T04:17:26+00:00"
   },
   {
     "id": "5f222f369b26f42c3fb3",
