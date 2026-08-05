@@ -1,5 +1,113 @@
 [
   {
+    "id": "e5ffe24423edab99c1a0",
+    "source": "TechCrunch AI",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+    "published": "2026-08-04T21:07:26+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "96a52cf2258a38f50c18",
+    "source": "TechCrunch AI",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "published": "2026-08-04T20:05:26+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "e656e279712a35948273",
+    "source": "TechCrunch AI",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "published": "2026-08-04T19:48:40+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "7298baa60a5d5ba7948c",
+    "source": "TechCrunch AI",
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you",
+    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "published": "2026-08-04T19:34:34+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "b1c52d034305106bcf61",
+    "source": "TechCrunch AI",
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+    "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+    "published": "2026-08-04T19:28:49+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "fc813d75ed957d78f6fb",
+    "source": "TechCrunch AI",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "published": "2026-08-04T15:50:06+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "40ee5d10be81e28ced59",
+    "source": "TechCrunch AI",
+    "title": "Texas halts new data centers as governor calls for audits",
+    "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits",
+    "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+    "published": "2026-08-04T15:42:35+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "485662a09803fd50bc9b",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+    "published": "2026-08-04T15:20:06+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "b6e5471af4d97637e502",
+    "source": "TechCrunch AI",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "published": "2026-08-04T14:03:01+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "77304daa85f61947c15a",
+    "source": "Hugging Face Blog",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "summary": "",
+    "published": "2026-08-04T13:58:29+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "5c8f690abefe1cf24a3d",
+    "source": "TechCrunch AI",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "published": "2026-08-04T13:00:00+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
+    "id": "c25c224dbceb9f72f780",
+    "source": "TechCrunch AI",
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers",
+    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "published": "2026-08-04T12:00:00+00:00",
+    "fetched_at": "2026-08-05T04:15:43+00:00"
+  },
+  {
     "id": "d299907fd390c9120c5d",
     "source": "TechCrunch AI",
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
@@ -10222,6 +10330,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "605ce64f184dea4344a0",
+    "source": "OpenAI News",
+    "title": "Third-party cyber evaluations involving OpenAI models Security Aug 4, 2026",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-05T04:15:42+00:00"
+  },
+  {
+    "id": "2c7accd00f8fae222f04",
+    "source": "OpenAI News",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex Product Aug 4, 2026",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-05T04:15:42+00:00"
+  },
+  {
+    "id": "3e623e77942ffa9e3bb4",
+    "source": "OpenAI News",
+    "title": "Apple is getting this wrong Company Aug 3, 2026",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-05T04:15:42+00:00"
+  },
+  {
+    "id": "fee46bd1b377970f9eb5",
+    "source": "Anthropic News",
+    "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-05T04:15:42+00:00"
   },
   {
     "id": "c01b9ff585f8db9e2a49",
