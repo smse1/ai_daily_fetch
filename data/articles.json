@@ -1,5 +1,59 @@
 [
   {
+    "id": "463d78906a2c93cc6e97",
+    "source": "TechCrunch AI",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "published": "2026-08-14T16:13:40+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
+    "id": "0341c55ef1a828b03e1a",
+    "source": "TechCrunch AI",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "published": "2026-08-14T15:43:28+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
+    "id": "6eaf5dcfd91daeda16c3",
+    "source": "TechCrunch AI",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "published": "2026-08-14T14:50:11+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
+    "id": "7b6d6adc4ae2234c3117",
+    "source": "TechCrunch AI",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "published": "2026-08-14T14:05:00+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
+    "id": "4b346dec2fccb0ba29b0",
+    "source": "TechCrunch AI",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "published": "2026-08-14T14:00:00+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
+    "id": "709349cef2e2044db41a",
+    "source": "Hugging Face Blog",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "summary": "",
+    "published": "2026-08-14T00:00:00+00:00",
+    "fetched_at": "2026-08-15T02:15:15+00:00"
+  },
+  {
     "id": "eb783d8af9e13599d93a",
     "source": "TechCrunch AI",
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -11068,6 +11122,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "db71019638128ace14d2",
+    "source": "Anthropic News",
+    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-15T02:15:14+00:00"
   },
   {
     "id": "a0df65b63b471fe7b791",
