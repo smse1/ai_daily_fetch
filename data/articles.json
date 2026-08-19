@@ -1,5 +1,104 @@
 [
   {
+    "id": "c5ddc9ed78dcaaf74d29",
+    "source": "TechCrunch AI",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "published": "2026-08-18T22:14:25+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "3d5326fb8a03649f0b5f",
+    "source": "Hugging Face Blog",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "summary": "",
+    "published": "2026-08-18T18:09:38+00:00",
+    "fetched_at": "2026-08-19T02:19:56+00:00"
+  },
+  {
+    "id": "4b1255156ab92ab84e0b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "published": "2026-08-18T18:00:00+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "888f34e9a8e61c978e2e",
+    "source": "TechCrunch AI",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "published": "2026-08-18T17:21:58+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "80cac2121db0d407f258",
+    "source": "TechCrunch AI",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear",
+    "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "published": "2026-08-18T16:19:10+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "71f10b166409ab66179e",
+    "source": "TechCrunch AI",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+    "published": "2026-08-18T14:00:00+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "1c65d155f84c75a823f8",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "published": "2026-08-18T13:50:30+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "9752fd13de3191d82a7f",
+    "source": "TechCrunch AI",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "published": "2026-08-18T13:45:40+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "3af99324a45b9cd32b25",
+    "source": "MIT Technology Review AI",
+    "title": "We still don’t know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+    "published": "2026-08-18T10:06:43+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "b94782580e93446b3273",
+    "source": "MIT Technology Review AI",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
+    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
+    "published": "2026-08-18T09:00:00+00:00",
+    "fetched_at": "2026-08-19T02:19:57+00:00"
+  },
+  {
+    "id": "d0d24547da7d951cf04e",
+    "source": "Hugging Face Blog",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "summary": "",
+    "published": "2026-08-18T00:00:00+00:00",
+    "fetched_at": "2026-08-19T02:19:56+00:00"
+  },
+  {
     "id": "f93c9f80e4b97e0dba19",
     "source": "TechCrunch AI",
     "title": "Anthropic’s annualized revenue surges to $65B",
@@ -11257,6 +11356,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5a144d2e35b762006457",
+    "source": "OpenAI News",
+    "title": "Partnering with CodeAI to prepare the first AI generation Company Aug 18, 2026",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-19T02:19:54+00:00"
+  },
+  {
+    "id": "dcc2a3a72824faab5721",
+    "source": "OpenAI News",
+    "title": "Pacing model development in an era of cyber-critical capabilities Company Aug 18, 2026",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-19T02:19:54+00:00"
+  },
+  {
+    "id": "2e9c344d65d389b85a56",
+    "source": "OpenAI News",
+    "title": "Introducing ChatGPT for Teens Product Aug 18, 2026",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-19T02:19:54+00:00"
   },
   {
     "id": "f50a13c3667a30215f5e",
