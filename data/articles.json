@@ -1,5 +1,50 @@
 [
   {
+    "id": "f7f7daa7791d1b0fb6df",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "published": "2026-08-21T23:07:25+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
+    "id": "c9c0c57efbb7d7b614d2",
+    "source": "TechCrunch AI",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "published": "2026-08-21T22:37:38+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
+    "id": "48384fc11d178a6916c5",
+    "source": "TechCrunch AI",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "published": "2026-08-21T19:43:39+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
+    "id": "67051fb949c6b6515d1f",
+    "source": "TechCrunch AI",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
+    "published": "2026-08-21T14:00:00+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
+    "id": "65b26f06e00b221e03de",
+    "source": "TechCrunch AI",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "published": "2026-08-21T14:00:00+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
     "id": "cfd3d1edcf6ab3b7cb2f",
     "source": "TechCrunch AI",
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -7,6 +52,15 @@
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "published": "2026-08-21T00:13:44+00:00",
     "fetched_at": "2026-08-21T02:24:54+00:00"
+  },
+  {
+    "id": "6482e41f910a6ef8e25f",
+    "source": "Hugging Face Blog",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "summary": "",
+    "published": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
   },
   {
     "id": "f13fba99faf907e81fa5",
@@ -11608,6 +11662,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "ac8ef75b06e86876a8d1",
+    "source": "Google Research Blog",
+    "title": "August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI · Health & Bioscience",
+    "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-22T02:16:48+00:00"
+  },
+  {
+    "id": "05d0c6b8ce2e9a6cec58",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-22T02:16:47+00:00"
   },
   {
     "id": "7b58e62cc4445bfdd6ab",
