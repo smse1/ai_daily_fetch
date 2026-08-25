@@ -1,5 +1,86 @@
 [
   {
+    "id": "3612da222109db3d582c",
+    "source": "TechCrunch AI",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "published": "2026-08-25T00:23:12+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "e5a415c65f60e6335cd2",
+    "source": "TechCrunch AI",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "published": "2026-08-24T21:24:17+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "22296fb3d19c8fb4225d",
+    "source": "TechCrunch AI",
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026",
+    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+    "published": "2026-08-24T19:54:19+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "a1fa0dced0c8506d113c",
+    "source": "TechCrunch AI",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+    "published": "2026-08-24T18:03:55+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "24793b66a60d402f20a7",
+    "source": "TechCrunch AI",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics",
+    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+    "published": "2026-08-24T15:24:18+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "1a2f2e68f6b9dd997093",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "published": "2026-08-24T15:00:00+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "f5cf4710f17a2e0bada6",
+    "source": "MIT Technology Review AI",
+    "title": "How to encourage smarter AI use in the classroom",
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any&#8230;",
+    "published": "2026-08-24T14:20:19+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "2c5fc1ce6211b04a2ecc",
+    "source": "TechCrunch AI",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b",
+    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "published": "2026-08-24T13:47:26+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "4a45374e038828798a82",
+    "source": "MIT Technology Review AI",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning",
+    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+    "published": "2026-08-24T09:00:00+00:00",
+    "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
     "id": "35ef38b28a755e4699ac",
     "source": "TechCrunch AI",
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -11734,6 +11815,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "636f3bd2e9f10f564462",
+    "source": "OpenAI News",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro Product Aug 24, 2026",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-25T02:19:52+00:00"
   },
   {
     "id": "ac8ef75b06e86876a8d1",
