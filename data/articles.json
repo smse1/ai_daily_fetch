@@ -1,5 +1,104 @@
 [
   {
+    "id": "7a9aabe1b9840e701183",
+    "source": "TechCrunch AI",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say",
+    "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "published": "2026-08-26T00:40:59+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "0a764fac2c693048de75",
+    "source": "TechCrunch AI",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues",
+    "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "published": "2026-08-26T00:06:20+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "384e1e2acf6cf706ac40",
+    "source": "TechCrunch AI",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "published": "2026-08-25T19:03:47+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "536cae3ddb4a896be554",
+    "source": "TechCrunch AI",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+    "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "published": "2026-08-25T17:50:33+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "3253ec056a5cdc3278ab",
+    "source": "Hugging Face Blog",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "summary": "",
+    "published": "2026-08-25T15:14:14+00:00",
+    "fetched_at": "2026-08-26T02:26:13+00:00"
+  },
+  {
+    "id": "4e064c56cf0cc1d9112b",
+    "source": "TechCrunch AI",
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "published": "2026-08-25T15:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "dc1fc01b6cefbd5c5d65",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+    "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "published": "2026-08-25T14:22:04+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "3bf455443b3424ffafa7",
+    "source": "TechCrunch AI",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "published": "2026-08-25T13:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "8aa0eb81b355355ad437",
+    "source": "TechCrunch AI",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux",
+    "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "published": "2026-08-25T12:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "21937af078c6d060f9ed",
+    "source": "Hugging Face Blog",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "summary": "",
+    "published": "2026-08-25T11:39:24+00:00",
+    "fetched_at": "2026-08-26T02:26:13+00:00"
+  },
+  {
+    "id": "7ed5137757ec4a6e52a3",
+    "source": "MIT Technology Review AI",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival",
+    "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "published": "2026-08-25T09:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
     "id": "3612da222109db3d582c",
     "source": "TechCrunch AI",
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -7,6 +106,15 @@
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
     "published": "2026-08-25T00:23:12+00:00",
     "fetched_at": "2026-08-25T02:19:54+00:00"
+  },
+  {
+    "id": "16d3c779ab2b4166927a",
+    "source": "Hugging Face Blog",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "summary": "",
+    "published": "2026-08-25T00:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:13+00:00"
   },
   {
     "id": "e5a415c65f60e6335cd2",
@@ -205,6 +313,15 @@
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
     "published": "2026-08-21T00:13:44+00:00",
     "fetched_at": "2026-08-21T02:24:54+00:00"
+  },
+  {
+    "id": "2ba647b5974248bb8f33",
+    "source": "Hugging Face Blog",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "summary": "",
+    "published": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-08-26T02:26:13+00:00"
   },
   {
     "id": "6482e41f910a6ef8e25f",
@@ -11815,6 +11932,51 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "304491e586f3f3151fb1",
+    "source": "Google Research Blog",
+    "title": "August 25, 2026 AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR Human-Computer Interaction and Visualization · Machine Intelligence",
+    "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-26T02:26:13+00:00"
+  },
+  {
+    "id": "44cfdb1cb993ea76cb51",
+    "source": "OpenAI News",
+    "title": "The full stack behind abundant intelligence Company Aug 25, 2026",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-26T02:26:12+00:00"
+  },
+  {
+    "id": "7c260dc5587b3dc901fc",
+    "source": "OpenAI News",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference Engineering Aug 25, 2026",
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-26T02:26:12+00:00"
+  },
+  {
+    "id": "b408fca42633041bd7a0",
+    "source": "OpenAI News",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex AI Adoption Aug 25, 2026",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-26T02:26:12+00:00"
+  },
+  {
+    "id": "cb80bd8cd38619df824f",
+    "source": "Anthropic News",
+    "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-26T02:26:12+00:00"
   },
   {
     "id": "636f3bd2e9f10f564462",
