@@ -1,5 +1,149 @@
 [
   {
+    "id": "ced2c812b3728e4a6b4f",
+    "source": "TechCrunch AI",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "published": "2026-08-27T06:32:51+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "251e29d1f6745090d812",
+    "source": "TechCrunch AI",
+    "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation",
+    "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "published": "2026-08-27T00:24:57+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "a42682bd1a6e9f765f25",
+    "source": "TechCrunch AI",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+    "published": "2026-08-26T23:47:18+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "cb2f971da829b0f11fee",
+    "source": "TechCrunch AI",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale",
+    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "published": "2026-08-26T21:37:39+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "94af0be1b7e4f92f79dc",
+    "source": "TechCrunch AI",
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai",
+    "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+    "published": "2026-08-26T19:37:34+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "d6a2aaa73c03c18c7d84",
+    "source": "TechCrunch AI",
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus",
+    "summary": "Was Greg Brockman the right executive all along?",
+    "published": "2026-08-26T19:34:04+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "b185f7283f02d8d1ea86",
+    "source": "TechCrunch AI",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach",
+    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+    "published": "2026-08-26T19:05:22+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "adbdcbb2529770ab894c",
+    "source": "MIT Technology Review AI",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+    "published": "2026-08-26T19:00:00+00:00",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
+  },
+  {
+    "id": "7dab7475ba6986a979b5",
+    "source": "TechCrunch AI",
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
+    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "published": "2026-08-26T15:47:28+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "a2338150b1d9379f7566",
+    "source": "TechCrunch AI",
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor",
+    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "published": "2026-08-26T15:00:00+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "d0aa5d47c50b3a13324b",
+    "source": "TechCrunch AI",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "published": "2026-08-26T14:37:01+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "d6e7bbdba5e4106b92c6",
+    "source": "TechCrunch AI",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "published": "2026-08-26T14:19:29+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "7516ce75048b56818bde",
+    "source": "TechCrunch AI",
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era",
+    "summary": "Robot bodies are waiting for their AI brains to catch up.",
+    "published": "2026-08-26T13:30:00+00:00",
+    "fetched_at": "2026-08-27T11:05:10+00:00"
+  },
+  {
+    "id": "b096353f62c940853a39",
+    "source": "MIT Technology Review AI",
+    "title": "Raised on AI",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
+    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "published": "2026-08-26T09:00:00+00:00",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
+  },
+  {
+    "id": "7b334676209b59041920",
+    "source": "MIT Technology Review AI",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+    "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "published": "2026-08-26T09:00:00+00:00",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
+  },
+  {
+    "id": "2799ea769dc78ecfca85",
+    "source": "MIT Technology Review AI",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
+    "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "published": "2026-08-26T07:01:00+00:00",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
+  },
+  {
     "id": "7a9aabe1b9840e701183",
     "source": "TechCrunch AI",
     "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -16,6 +160,15 @@
     "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
     "published": "2026-08-26T00:06:20+00:00",
     "fetched_at": "2026-08-26T02:26:14+00:00"
+  },
+  {
+    "id": "9a0136b1e6d73d51af4c",
+    "source": "Hugging Face Blog",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "summary": "",
+    "published": "2026-08-26T00:00:00+00:00",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
   },
   {
     "id": "384e1e2acf6cf706ac40",
@@ -11932,6 +12085,60 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "d970fe0f4dbae07ca6dd",
+    "source": "Google Research Blog",
+    "title": "August 26, 2026 GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience · Machine Intelligence",
+    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:09+00:00"
+  },
+  {
+    "id": "25ecfe276b64b3a9bcc0",
+    "source": "OpenAI News",
+    "title": "Intelligence Age",
+    "url": "https://openai.com/news/intelligence-age",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:08+00:00"
+  },
+  {
+    "id": "5b7f6c80270413514288",
+    "source": "OpenAI News",
+    "title": "Expanding OpenAI’s presence in Brazil Company Aug 27, 2026",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:08+00:00"
+  },
+  {
+    "id": "508bc71e986f302ab91c",
+    "source": "OpenAI News",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts Product Aug 26, 2026",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:08+00:00"
+  },
+  {
+    "id": "5af73b8d7ba673e0895c",
+    "source": "OpenAI News",
+    "title": "Learning never stops: How AI makes learning continuous Product Aug 26, 2026",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:08+00:00"
+  },
+  {
+    "id": "cb23facd23cf055d86e3",
+    "source": "OpenAI News",
+    "title": "The Hugging Face incident and the road ahead Security Aug 26, 2026",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-27T11:05:08+00:00"
   },
   {
     "id": "304491e586f3f3151fb1",
