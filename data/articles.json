@@ -1,5 +1,95 @@
 [
   {
+    "id": "ce0b8680c16ccbc3a2b0",
+    "source": "TechCrunch AI",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
+    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "published": "2026-08-28T12:21:06+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "18e61bf46147f811c3d2",
+    "source": "TechCrunch AI",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
+    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "published": "2026-08-27T23:16:45+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "18c1c8024f7aafe6621c",
+    "source": "TechCrunch AI",
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "published": "2026-08-27T19:52:52+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "6e04e92b8b3580a9096b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "published": "2026-08-27T17:43:24+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "7deaf766f89def340a90",
+    "source": "TechCrunch AI",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "published": "2026-08-27T16:00:00+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "e60492ded2d5911f7e42",
+    "source": "TechCrunch AI",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "published": "2026-08-27T14:56:52+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "28f665a70a6dd5b38fdb",
+    "source": "TechCrunch AI",
+    "title": "AI’s memory crunch is coming for Android apps",
+    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "published": "2026-08-27T14:27:04+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "af8b431db431be68114a",
+    "source": "TechCrunch AI",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "published": "2026-08-27T14:01:42+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "76c36eef7c183f851487",
+    "source": "TechCrunch AI",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
+    "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+    "published": "2026-08-27T13:00:00+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
+    "id": "5248329ca4fc0c6840b1",
+    "source": "TechCrunch AI",
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "published": "2026-08-27T11:35:59+00:00",
+    "fetched_at": "2026-08-28T12:37:52+00:00"
+  },
+  {
     "id": "ced2c812b3728e4a6b4f",
     "source": "TechCrunch AI",
     "title": "Nvidia closes in on Hugging Face acquisition",
@@ -12085,6 +12175,60 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "c77a8246a9680fce97b9",
+    "source": "OpenAI News",
+    "title": "Supporting Thailand’s next generation of AI startups Company Aug 28, 2026",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
+  },
+  {
+    "id": "3a3a75b103f1cfb9aad4",
+    "source": "OpenAI News",
+    "title": "What students gain from ChatGPT and critical-thinking training Company Aug 27, 2026",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
+  },
+  {
+    "id": "278bf9919467f2d76d74",
+    "source": "Google Research Blog",
+    "title": "August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine Intelligence",
+    "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
+  },
+  {
+    "id": "dfe9874050c4f60087ad",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
+  },
+  {
+    "id": "05252e84944279df6f87",
+    "source": "Anthropic News",
+    "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
+  },
+  {
+    "id": "5ed5d2a7d612ffc80378",
+    "source": "Anthropic News",
+    "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+    "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-08-28T12:37:51+00:00"
   },
   {
     "id": "d970fe0f4dbae07ca6dd",
