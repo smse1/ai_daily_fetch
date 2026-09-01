@@ -1,5 +1,77 @@
 [
   {
+    "id": "4377525c30b29f41eecc",
+    "source": "TechCrunch AI",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "published": "2026-09-01T00:13:00+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "e81ce9dbe1e228224294",
+    "source": "TechCrunch AI",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "published": "2026-08-31T20:13:45+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "e3beadc9645d98e0cb71",
+    "source": "TechCrunch AI",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "published": "2026-08-31T19:16:59+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "c8c9ceb5db9650a5620e",
+    "source": "TechCrunch AI",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers",
+    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "published": "2026-08-31T18:35:11+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "3d6d91a4ad4183bf197d",
+    "source": "MIT Technology Review AI",
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+    "published": "2026-08-31T18:00:00+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "34a2a4de6dfc6da3295d",
+    "source": "TechCrunch AI",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "published": "2026-08-31T16:00:00+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "6decb313921bbb9c7582",
+    "source": "TechCrunch AI",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "published": "2026-08-31T15:15:25+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
+    "id": "47f45a76ca5f3911c0d0",
+    "source": "TechCrunch AI",
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
+    "published": "2026-08-31T12:56:46+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
+  },
+  {
     "id": "27fbbc55daf9324bf180",
     "source": "TechCrunch AI",
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -34,6 +106,15 @@
     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "published": "2026-08-29T18:41:59+00:00",
     "fetched_at": "2026-08-30T06:24:52+00:00"
+  },
+  {
+    "id": "9706fc62179a3875b32b",
+    "source": "TechCrunch AI",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "published": "2026-08-29T17:51:10+00:00",
+    "fetched_at": "2026-09-01T06:09:57+00:00"
   },
   {
     "id": "12c3a1c435d501211e04",
@@ -12274,6 +12355,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "a61c005679ccdb6fc2d2",
+    "source": "Google Research Blog",
+    "title": "August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management · Machine Intelligence · Product",
+    "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-01T06:09:56+00:00"
+  },
+  {
+    "id": "02bca2fb39d4185bc54e",
+    "source": "OpenAI News",
+    "title": "OpenAI supports California’s bill to advance youth AI safety Company Aug 31, 2026",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-01T06:09:55+00:00"
+  },
+  {
+    "id": "e1f4688054f27c8b8ebb",
+    "source": "OpenAI News",
+    "title": "A milestone in expanding access to AI Product Aug 31, 2026",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-01T06:09:55+00:00"
+  },
+  {
+    "id": "bf730c4c2c31c5622586",
+    "source": "Anthropic News",
+    "title": "Aug 31, 2026 Improving our alignment and security efforts",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-01T06:09:55+00:00"
   },
   {
     "id": "a6127e867b60d4137203",
