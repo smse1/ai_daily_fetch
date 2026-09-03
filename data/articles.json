@@ -1,5 +1,131 @@
 [
   {
+    "id": "7ae66303ca882b61d9b5",
+    "source": "TechCrunch AI",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+    "published": "2026-09-02T23:01:00+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "73b5c007a74d717711d6",
+    "source": "TechCrunch AI",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+    "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "published": "2026-09-02T22:44:56+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "1bb1f65762d848364a89",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals",
+    "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "published": "2026-09-02T22:24:09+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "90a1bc2fcf27cf4f821e",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "published": "2026-09-02T20:19:14+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "83edddbcb61460e2cfa6",
+    "source": "TechCrunch AI",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
+    "published": "2026-09-02T17:18:13+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "7fb896984a6c1893c4be",
+    "source": "TechCrunch AI",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo",
+    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to figure out&#160;what’s&#160;real.&#160; A handful of startups have cropped up in the past couple of [&#8230;]",
+    "published": "2026-09-02T17:09:57+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "943b07295e76c855d731",
+    "source": "TechCrunch AI",
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+    "published": "2026-09-02T17:09:06+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "2390e9a1b8b62abb3836",
+    "source": "TechCrunch AI",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months",
+    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "published": "2026-09-02T16:04:10+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "c50abe8345ac0a897f61",
+    "source": "TechCrunch AI",
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs",
+    "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "published": "2026-09-02T16:01:48+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "689bc02e113d31b005a0",
+    "source": "TechCrunch AI",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "published": "2026-09-02T15:01:23+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "25facba4d8eb0af350d9",
+    "source": "TechCrunch AI",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam",
+    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "published": "2026-09-02T14:56:34+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "99c343503befb3d41388",
+    "source": "TechCrunch AI",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo",
+    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "published": "2026-09-02T14:03:57+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "f3242878b25491f6865d",
+    "source": "MIT Technology Review AI",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale",
+    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "published": "2026-09-02T14:00:00+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
+    "id": "7741ddbad014bc670c13",
+    "source": "Hugging Face Blog",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "summary": "",
+    "published": "2026-09-02T13:49:14+00:00",
+    "fetched_at": "2026-09-03T05:36:06+00:00"
+  },
+  {
     "id": "c910b1e2ccfc5acbacba",
     "source": "TechCrunch AI",
     "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
