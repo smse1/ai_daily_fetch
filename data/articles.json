@@ -1,5 +1,122 @@
 [
   {
+    "id": "7db1cd194f40bbc76943",
+    "source": "TechCrunch AI",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "published": "2026-09-04T04:21:03+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "e33b6c128c5093652303",
+    "source": "TechCrunch AI",
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "published": "2026-09-04T00:48:42+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "e1b8f17a7cbf488d6993",
+    "source": "TechCrunch AI",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation",
+    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "published": "2026-09-03T19:36:29+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "6dab2609a1a4b2f3021f",
+    "source": "TechCrunch AI",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "published": "2026-09-03T18:37:57+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "af7d0bc9c16f6f03e9e9",
+    "source": "TechCrunch AI",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "published": "2026-09-03T18:19:56+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "bb7a63afd6e222df848e",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+    "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "published": "2026-09-03T18:01:45+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "5555ce0f59aa409d04d9",
+    "source": "TechCrunch AI",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race",
+    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+    "published": "2026-09-03T16:09:01+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "de420964d290aa7ba919",
+    "source": "TechCrunch AI",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
+    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "published": "2026-09-03T15:00:00+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "a1d36aed1495b398a6b3",
+    "source": "Hugging Face Blog",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "summary": "",
+    "published": "2026-09-03T13:13:48+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "15282662f4d577798a97",
+    "source": "TechCrunch AI",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion",
+    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "published": "2026-09-03T12:42:45+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "203af14f80753d9f8c37",
+    "source": "Hugging Face Blog",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "summary": "",
+    "published": "2026-09-03T00:00:00+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "692bc0fc69dfad17f963",
+    "source": "Hugging Face Blog",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "url": "https://huggingface.co/blog/funes",
+    "summary": "",
+    "published": "2026-09-03T00:00:00+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "a2b13a64b7258e499788",
+    "source": "Hugging Face Blog",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "summary": "",
+    "published": "2026-09-03T00:00:00+00:00",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
     "id": "7ae66303ca882b61d9b5",
     "source": "TechCrunch AI",
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
@@ -12589,6 +12706,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "4e9ba958703751394a76",
+    "source": "Google Research Blog",
+    "title": "September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science · Machine Intelligence",
+    "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-04T05:41:50+00:00"
+  },
+  {
+    "id": "bb6eeba1336ab8910a05",
+    "source": "OpenAI News",
+    "title": "Daybreak for Frontline Defenders Security Sep 3, 2026",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-04T05:41:49+00:00"
+  },
+  {
+    "id": "618e9226202821154454",
+    "source": "OpenAI News",
+    "title": "Safety overview: GPT-6 Astra Safety Sep 3, 2026",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-04T05:41:49+00:00"
   },
   {
     "id": "703266283cda4a18fc24",
