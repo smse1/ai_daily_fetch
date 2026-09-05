@@ -1,5 +1,95 @@
 [
   {
+    "id": "ca96f3154c8644ad4193",
+    "source": "TechCrunch AI",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+    "published": "2026-09-04T23:36:14+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "75ab9dbefc2dde86908b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+    "published": "2026-09-04T23:15:11+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "a944e5671287d5921ca5",
+    "source": "TechCrunch AI",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "published": "2026-09-04T21:12:11+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "e61a3410b1d2a19c0b78",
+    "source": "MIT Technology Review AI",
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+    "published": "2026-09-04T18:39:19+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "d97c35a479abc08cf539",
+    "source": "TechCrunch AI",
+    "title": "What will Apple’s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published": "2026-09-04T17:18:00+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "0a1687592f76e1302cf3",
+    "source": "TechCrunch AI",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "published": "2026-09-04T16:21:11+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "849b48ad30668640247c",
+    "source": "TechCrunch AI",
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+    "published": "2026-09-04T16:04:08+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "1c555ba27852455619f7",
+    "source": "TechCrunch AI",
+    "title": "Google’s Gemini Spark can now manage your Google Photos library",
+    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+    "published": "2026-09-04T14:47:11+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "cdba3cbdaa6a31460314",
+    "source": "TechCrunch AI",
+    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
+    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+    "published": "2026-09-04T14:00:00+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
+    "id": "eaf6c6e2356dcb20ed08",
+    "source": "MIT Technology Review AI",
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west",
+    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part&#8230;",
+    "published": "2026-09-04T09:25:19+00:00",
+    "fetched_at": "2026-09-05T05:30:44+00:00"
+  },
+  {
     "id": "7db1cd194f40bbc76943",
     "source": "TechCrunch AI",
     "title": "The sameness problem behind those unappetizing AI-generated menus",
@@ -12706,6 +12796,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "84eeb5640e684dc4e0d1",
+    "source": "OpenAI News",
+    "title": "GPT-6 Astra: A new generation of intelligence Research Sep 3, 2026",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-05T05:30:42+00:00"
   },
   {
     "id": "4e9ba958703751394a76",
