@@ -1,5 +1,95 @@
 [
   {
+    "id": "f3cc4b61ec929fe38436",
+    "source": "MIT Technology Review AI",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math",
+    "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "published": "2026-09-09T03:10:08+00:00",
+    "fetched_at": "2026-09-09T05:50:56+00:00"
+  },
+  {
+    "id": "ba4d09e277553f4b4bbb",
+    "source": "TechCrunch AI",
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "published": "2026-09-08T21:10:27+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "e1e8550183d589e2be6a",
+    "source": "TechCrunch AI",
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "published": "2026-09-08T21:04:06+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "0cba0a49d8ea5a8196ce",
+    "source": "TechCrunch AI",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "published": "2026-09-08T19:00:00+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "bd2c8d0045b32d9b2a91",
+    "source": "TechCrunch AI",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "published": "2026-09-08T17:32:15+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "0231ec081e51604efe1d",
+    "source": "TechCrunch AI",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+    "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+    "published": "2026-09-08T16:20:31+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "363290410a2713980b03",
+    "source": "TechCrunch AI",
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+    "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+    "published": "2026-09-08T15:04:09+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "5d113797c4ae3a989b76",
+    "source": "Hugging Face Blog",
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "summary": "",
+    "published": "2026-09-08T14:23:07+00:00",
+    "fetched_at": "2026-09-09T05:50:56+00:00"
+  },
+  {
+    "id": "ae1f7c50c1a4fe28679f",
+    "source": "TechCrunch AI",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+    "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+    "published": "2026-09-08T14:17:48+00:00",
+    "fetched_at": "2026-09-09T05:50:57+00:00"
+  },
+  {
+    "id": "202e510cfb119b1919fa",
+    "source": "MIT Technology Review AI",
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+    "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&#8230;",
+    "published": "2026-09-08T10:34:00+00:00",
+    "fetched_at": "2026-09-09T05:50:56+00:00"
+  },
+  {
     "id": "a7e8065a37343d67f2d5",
     "source": "TechCrunch AI",
     "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -12850,6 +12940,69 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "bf92cfb15390911644a3",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:56+00:00"
+  },
+  {
+    "id": "1da444b3f3166dbfb0cc",
+    "source": "OpenAI News",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments Applied AI Sep 8, 2026",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
+  },
+  {
+    "id": "8689d9ff8dfdf33d059e",
+    "source": "OpenAI News",
+    "title": "The Work Now Within Reach Company Sep 8, 2026",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
+  },
+  {
+    "id": "7bc66826a4dc53f1d40b",
+    "source": "OpenAI News",
+    "title": "Introducing ChatGPT Images 2.5 Product Sep 8, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
+  },
+  {
+    "id": "b43afba7cd2a22ebae39",
+    "source": "OpenAI News",
+    "title": "An OpenAI model proposes a solution to the Navier–Stokes problem Research Sep 8, 2026",
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
+  },
+  {
+    "id": "075aa076d1f834cb8e86",
+    "source": "OpenAI News",
+    "title": "Funding grants for new research into AI and teen development Safety Sep 8, 2026",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
+  },
+  {
+    "id": "b5d472662cc0dd64b4d0",
+    "source": "OpenAI News",
+    "title": "Supporting journalism from classrooms to newsrooms Company Sep 8, 2026",
+    "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-09T05:50:55+00:00"
   },
   {
     "id": "a67d7413ee83a418ff6e",
