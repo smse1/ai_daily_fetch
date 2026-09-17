@@ -1,5 +1,122 @@
 [
   {
+    "id": "c9c1580c3062395e983b",
+    "source": "TechCrunch AI",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
+    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "published": "2026-09-17T05:00:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "a5be76118563b1996c84",
+    "source": "TechCrunch AI",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026",
+    "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "published": "2026-09-17T03:30:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "fe5223583a3aac344bc9",
+    "source": "TechCrunch AI",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
+    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+    "published": "2026-09-17T00:58:49+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "374c11bf5d79dc35117f",
+    "source": "TechCrunch AI",
+    "title": "Al Gore says the real AI risk isn’t data centers",
+    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+    "published": "2026-09-16T23:43:09+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "ba3d88a649417585dc1c",
+    "source": "TechCrunch AI",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "published": "2026-09-16T21:07:24+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "dac9d7d78ae1393f0633",
+    "source": "TechCrunch AI",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera",
+    "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "published": "2026-09-16T20:12:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "8877578ddc5317f3a905",
+    "source": "TechCrunch AI",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
+    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "published": "2026-09-16T18:25:25+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "c73cbc47c3e991646d7b",
+    "source": "TechCrunch AI",
+    "title": "Your AI agents can now control your Google Home devices",
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "published": "2026-09-16T17:00:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "4423d37d0b6448882307",
+    "source": "TechCrunch AI",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
+    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "published": "2026-09-16T16:30:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "be82f22800165835e2c8",
+    "source": "TechCrunch AI",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "published": "2026-09-16T15:00:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "82de52ea842d70cb186b",
+    "source": "TechCrunch AI",
+    "title": "Threads’ new features let podcasters promote shows and reach listeners",
+    "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners",
+    "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+    "published": "2026-09-16T14:24:58+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "8ce2334f6ff28edf517e",
+    "source": "TechCrunch AI",
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
+    "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+    "published": "2026-09-16T14:15:00+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
+    "id": "8386575a3a6737751083",
+    "source": "MIT Technology Review AI",
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do&#8230;",
+    "published": "2026-09-16T12:47:34+00:00",
+    "fetched_at": "2026-09-17T05:57:48+00:00"
+  },
+  {
     "id": "edc63bf56fbc7283b63c",
     "source": "TechCrunch AI",
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -13534,6 +13651,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "72bfaf8c46c2a10f43ff",
+    "source": "OpenAI News",
+    "title": "Reimagining advertising with AI Product Sep 16, 2026",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-17T05:57:47+00:00"
+  },
+  {
+    "id": "0898b5e5bdd83ecea320",
+    "source": "OpenAI News",
+    "title": "How to connect AI usage to business value Product Sep 16, 2026",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-17T05:57:47+00:00"
+  },
+  {
+    "id": "51bb9f12055c13c2b994",
+    "source": "OpenAI News",
+    "title": "Our framework for reporting model misalignment Research Sep 16, 2026",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-17T05:57:47+00:00"
   },
   {
     "id": "0c1e06fcf37f24466444",
