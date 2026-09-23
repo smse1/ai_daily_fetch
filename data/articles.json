@@ -1,5 +1,158 @@
 [
   {
+    "id": "f825dba626b19563305f",
+    "source": "TechCrunch AI",
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai",
+    "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "published": "2026-09-23T04:59:08+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "7ffa9d7e3aabbd028c08",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
+    "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "published": "2026-09-22T23:21:49+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "355f2239f5cc583144ac",
+    "source": "TechCrunch AI",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
+    "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "published": "2026-09-22T21:56:43+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "47a771d4fbaf6845f2bc",
+    "source": "TechCrunch AI",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "published": "2026-09-22T20:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "0a4f0e56e7b4ba1e4eaf",
+    "source": "TechCrunch AI",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "published": "2026-09-22T19:09:11+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "257ef875fc7027c3d337",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "published": "2026-09-22T18:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "52b1929f7d797361804a",
+    "source": "TechCrunch AI",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+    "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "published": "2026-09-22T16:30:07+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "c83ce1cec162d66f3990",
+    "source": "TechCrunch AI",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+    "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "published": "2026-09-22T15:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "a44b7b3b65ab2a3f96f7",
+    "source": "TechCrunch AI",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "published": "2026-09-22T15:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "7f86a3cffcb5d7072f64",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
+    "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "published": "2026-09-22T14:30:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "8ceea6f82777d6e1a5b5",
+    "source": "TechCrunch AI",
+    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30",
+    "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+    "published": "2026-09-22T14:15:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "395d63c3f39a54f2f3b9",
+    "source": "TechCrunch AI",
+    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
+    "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+    "published": "2026-09-22T14:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "05bca1e467c5f3602e3a",
+    "source": "MIT Technology Review AI",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+    "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers&#8230;",
+    "published": "2026-09-22T13:42:05+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "622383c0a4c5c8e52d29",
+    "source": "MIT Technology Review AI",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
+    "published": "2026-09-22T11:04:51+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "e8304f1756248cb7fd09",
+    "source": "Hugging Face Blog",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "summary": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "15e33ef7e232ad539926",
+    "source": "Hugging Face Blog",
+    "title": "Transformers now runs llama.cpp quants",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "summary": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
+    "id": "5d0556ac171c9a388ae8",
+    "source": "Hugging Face Blog",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "url": "https://huggingface.co/blog/omlx",
+    "summary": "",
+    "published": "2026-09-22T00:00:00+00:00",
+    "fetched_at": "2026-09-23T05:45:03+00:00"
+  },
+  {
     "id": "cf8bfce2c6bcbf0f1eeb",
     "source": "TechCrunch AI",
     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -14128,6 +14281,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "208b6f2996baa75d423e",
+    "source": "OpenAI News",
+    "title": "Better prompt caching for GPT-6 Product Sep 22, 2026",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-23T05:45:02+00:00"
+  },
+  {
+    "id": "c24c5d8b04f96a81077c",
+    "source": "OpenAI News",
+    "title": "Introducing GPT-6 Sol and Luna Product Sep 22, 2026",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-23T05:45:02+00:00"
+  },
+  {
+    "id": "c249f261a73d0a69d374",
+    "source": "OpenAI News",
+    "title": "Priorities and principles for effective third party assessments Safety Sep 22, 2026",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-23T05:45:02+00:00"
   },
   {
     "id": "b3517d5f1b06e844d9e0",
