@@ -1,5 +1,131 @@
 [
   {
+    "id": "91d7f51ece9ac5d19de0",
+    "source": "TechCrunch AI",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "published": "2026-09-24T01:13:32+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "ab9ca95d2581b05aa6f0",
+    "source": "TechCrunch AI",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+    "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+    "published": "2026-09-24T00:46:17+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "4a8c898c04716a6fb9dc",
+    "source": "TechCrunch AI",
+    "title": "Meta introduces camera-free AI glasses",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "published": "2026-09-23T23:39:44+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "9a4f9e8d85780b5f3ccd",
+    "source": "TechCrunch AI",
+    "title": "Anthropic says its biology lab has already found something big",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "published": "2026-09-23T22:17:39+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "99979601439f54958bbf",
+    "source": "TechCrunch AI",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "published": "2026-09-23T19:31:28+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "2cdc1ed665e03c7eaa9f",
+    "source": "Hugging Face Blog",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "summary": "",
+    "published": "2026-09-23T18:41:40+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "13e0a511c1e67dbe2e97",
+    "source": "TechCrunch AI",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+    "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+    "published": "2026-09-23T17:00:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "e8f156deaacd58661774",
+    "source": "TechCrunch AI",
+    "title": "Even Americans who use AI every day are worried about it",
+    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it",
+    "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+    "published": "2026-09-23T16:49:58+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "c5232b6a59afb2467301",
+    "source": "TechCrunch AI",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features",
+    "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+    "published": "2026-09-23T15:19:30+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "58a3af264ab1feaf6273",
+    "source": "TechCrunch AI",
+    "title": "YouTube will let you build your own algorithm with AI",
+    "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
+    "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "06fa9909fe5338a0adc6",
+    "source": "TechCrunch AI",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
+    "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "c59f88c6e2b10395714a",
+    "source": "TechCrunch AI",
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital",
+    "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
+    "published": "2026-09-23T14:30:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "00c91ac1a9e6293c5243",
+    "source": "TechCrunch AI",
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026",
+    "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+    "published": "2026-09-23T14:00:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
+    "id": "d7c1f685e82c22c527b7",
+    "source": "MIT Technology Review AI",
+    "title": "The AI Hype Index: AI loves cheating",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+    "published": "2026-09-23T09:00:00+00:00",
+    "fetched_at": "2026-09-24T05:59:28+00:00"
+  },
+  {
     "id": "f825dba626b19563305f",
     "source": "TechCrunch AI",
     "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -14281,6 +14407,60 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "6a1fa6d6e26dfe3e35e0",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:27+00:00"
+  },
+  {
+    "id": "60bcfc3998bb51492952",
+    "source": "OpenAI News",
+    "title": "Two years of OpenAI Academy Company Sep 23, 2026",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:26+00:00"
+  },
+  {
+    "id": "feb4227c19ef43c914be",
+    "source": "OpenAI News",
+    "title": "Sam Altman’s remarks at the United Nations Security Council Global Affairs Sep 23, 2026",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:26+00:00"
+  },
+  {
+    "id": "ec9363dd5470afc50fb9",
+    "source": "OpenAI News",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan Product Sep 23, 2026",
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:26+00:00"
+  },
+  {
+    "id": "03ae35036f1ffc3bea66",
+    "source": "OpenAI News",
+    "title": "Airbnb expands access to GPT-6 Astra Company Sep 23, 2026",
+    "url": "https://openai.com/index/airbnb-gpt-6-astra",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:26+00:00"
+  },
+  {
+    "id": "570e29f1e88cdb8088a9",
+    "source": "Anthropic News",
+    "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-24T05:59:26+00:00"
   },
   {
     "id": "208b6f2996baa75d423e",
