@@ -1,5 +1,149 @@
 [
   {
+    "id": "e590cb5f01a66c94b865",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
+    "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "published": "2026-09-29T05:13:43+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "0303820a8ef6dd5e2104",
+    "source": "TechCrunch AI",
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises",
+    "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+    "published": "2026-09-29T00:30:00+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "7b226467b36437b970d2",
+    "source": "TechCrunch AI",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns",
+    "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "published": "2026-09-28T23:39:20+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "ff7d2b4822c19426ca38",
+    "source": "MIT Technology Review AI",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall",
+    "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+    "published": "2026-09-28T22:17:07+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "c4abe61a91c05c32461e",
+    "source": "TechCrunch AI",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+    "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "published": "2026-09-28T21:29:18+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "2b74c90dfd3be425eed1",
+    "source": "TechCrunch AI",
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+    "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+    "published": "2026-09-28T20:39:33+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "58ae96ed2fef9935f1ca",
+    "source": "TechCrunch AI",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
+    "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "published": "2026-09-28T19:33:57+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "11738bcc565d04785fd9",
+    "source": "TechCrunch AI",
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
+    "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
+    "published": "2026-09-28T19:21:59+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "40b78b28c6b11c8610df",
+    "source": "TechCrunch AI",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+    "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
+    "published": "2026-09-28T18:31:23+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "1c5dce1febbe1df6dd07",
+    "source": "TechCrunch AI",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+    "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "published": "2026-09-28T18:00:00+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "9306b7ea91cf1ab771d9",
+    "source": "TechCrunch AI",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
+    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+    "published": "2026-09-28T17:29:50+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "3700c5be5febf7978dae",
+    "source": "TechCrunch AI",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "published": "2026-09-28T17:09:02+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "822d7b4f78f9417f25c5",
+    "source": "MIT Technology Review AI",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+    "published": "2026-09-28T17:03:16+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "096f5f8ce24357846e03",
+    "source": "TechCrunch AI",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative",
+    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "published": "2026-09-28T16:52:38+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "313023881edc10994f03",
+    "source": "Hugging Face Blog",
+    "title": "Holo4: powering generalist computer-use agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "summary": "",
+    "published": "2026-09-28T09:44:05+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "56e67754b7b749e74ed0",
+    "source": "MIT Technology Review AI",
+    "title": "Who’s liable when AI agents go rogue?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "published": "2026-09-28T08:06:22+00:00",
+    "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
     "id": "8503edbb65d96ec0f3a2",
     "source": "TechCrunch AI",
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -14695,6 +14839,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "f1bf91a315f31194ae2b",
+    "source": "OpenAI News",
+    "title": "Towards safety cases for frontier AI training Safety Sep 28, 2026",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-29T06:43:31+00:00"
+  },
+  {
+    "id": "34949cd52d9544ada7ab",
+    "source": "OpenAI News",
+    "title": "How we will do better for Australia Company Sep 28, 2026",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-29T06:43:31+00:00"
+  },
+  {
+    "id": "d9373defb994b01f6ecd",
+    "source": "OpenAI News",
+    "title": "Lenfest grows landmark program with OpenAI support Company Sep 28, 2026",
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-29T06:43:31+00:00"
   },
   {
     "id": "258ec9ce8704caf649ae",
