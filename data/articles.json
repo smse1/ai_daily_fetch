@@ -1,5 +1,140 @@
 [
   {
+    "id": "9b0a5f6a2a443d537ced",
+    "source": "TechCrunch AI",
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "published": "2026-09-29T23:30:55+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "d1bc5075ef17ec1c3d20",
+    "source": "TechCrunch AI",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "published": "2026-09-29T22:20:59+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "c27cb1210dd03f7eacc4",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "published": "2026-09-29T20:15:47+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "d615626b91921389115b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "published": "2026-09-29T19:52:37+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "c134dc9576d495d75e24",
+    "source": "TechCrunch AI",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "published": "2026-09-29T18:35:00+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "807398781f84dfa0ca23",
+    "source": "TechCrunch AI",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "published": "2026-09-29T17:45:51+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "06175b5dd846317e5b85",
+    "source": "TechCrunch AI",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "published": "2026-09-29T17:20:00+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "c3925ca2de5cfe10deca",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "published": "2026-09-29T17:17:15+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "c775f7b2acc02626f648",
+    "source": "TechCrunch AI",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "bd7de57b02bf15feb15c",
+    "source": "TechCrunch AI",
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "6e0ca061a92bddfa4f4b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+    "published": "2026-09-29T17:15:00+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "71ab706fb97385c35da9",
+    "source": "TechCrunch AI",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "published": "2026-09-29T16:55:56+00:00",
+    "fetched_at": "2026-09-30T06:31:49+00:00"
+  },
+  {
+    "id": "0e7116a4fecaf8f848ce",
+    "source": "Hugging Face Blog",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "summary": "",
+    "published": "2026-09-29T15:30:38+00:00",
+    "fetched_at": "2026-09-30T06:31:48+00:00"
+  },
+  {
+    "id": "b9398cba7d99042d260a",
+    "source": "Hugging Face Blog",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "summary": "",
+    "published": "2026-09-29T13:07:00+00:00",
+    "fetched_at": "2026-09-30T06:31:48+00:00"
+  },
+  {
+    "id": "6252a2e1e650dd0b427d",
+    "source": "MIT Technology Review AI",
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "published": "2026-09-29T10:43:45+00:00",
+    "fetched_at": "2026-09-30T06:31:48+00:00"
+  },
+  {
     "id": "e590cb5f01a66c94b865",
     "source": "TechCrunch AI",
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -14839,6 +14974,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "fd35eae0b63729194e2c",
+    "source": "Google Research Blog",
+    "title": "September 29, 2026 How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory · Machine Intelligence",
+    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-30T06:31:48+00:00"
+  },
+  {
+    "id": "51989253f788b6739da2",
+    "source": "OpenAI News",
+    "title": "DevDay 2026 Recap Company Sep 29, 2026",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-30T06:31:47+00:00"
+  },
+  {
+    "id": "57d842ba0a1461b25edd",
+    "source": "OpenAI News",
+    "title": "Introducing GPT-6.1 Sol Product Sep 29, 2026",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-30T06:31:47+00:00"
+  },
+  {
+    "id": "de8799e7c13394eea9ae",
+    "source": "OpenAI News",
+    "title": "Introducing dots Product Sep 29, 2026",
+    "url": "https://openai.com/index/introducing-dots",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-09-30T06:31:47+00:00"
   },
   {
     "id": "f1bf91a315f31194ae2b",
