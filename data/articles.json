@@ -1,5 +1,131 @@
 [
   {
+    "id": "e83b5a9c97dd0b4529dc",
+    "source": "TechCrunch AI",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+    "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "published": "2026-09-30T23:43:07+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "66d973c533b4f25191e7",
+    "source": "TechCrunch AI",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "published": "2026-09-30T21:07:40+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "483d50d1a8192794b941",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "published": "2026-09-30T19:00:57+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "ea0e2937118d440db879",
+    "source": "TechCrunch AI",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "published": "2026-09-30T18:23:57+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "bfe08c62de0e0bdeb8ef",
+    "source": "TechCrunch AI",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "published": "2026-09-30T17:45:00+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "4f20e48024fa05830fb1",
+    "source": "TechCrunch AI",
+    "title": "The ugly economics of consumer AI",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
+    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "published": "2026-09-30T17:24:45+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "98b8aeed00604ec3e557",
+    "source": "TechCrunch AI",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
+    "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "published": "2026-09-30T16:24:23+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "49f6373946ef5aadc773",
+    "source": "TechCrunch AI",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "published": "2026-09-30T16:00:24+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "62491875d7756eb76518",
+    "source": "TechCrunch AI",
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
+    "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "published": "2026-09-30T16:00:00+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "0e8581cf01fcbda219be",
+    "source": "TechCrunch AI",
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick",
+    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+    "published": "2026-09-30T15:56:28+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "e8b4c537cd113aa7dffb",
+    "source": "TechCrunch AI",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
+    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "published": "2026-09-30T14:30:00+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "4f63a65c196bab6ae6ec",
+    "source": "TechCrunch AI",
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
+    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+    "published": "2026-09-30T14:27:11+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "e8c3a3f99af7ed2dbc33",
+    "source": "MIT Technology Review AI",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
+    "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+    "published": "2026-09-30T10:40:30+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "daa3242f054a1c1b8208",
+    "source": "Hugging Face Blog",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "url": "https://huggingface.co/blog/open-tts-leaderboard",
+    "summary": "",
+    "published": "2026-09-30T00:00:00+00:00",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
     "id": "9b0a5f6a2a443d537ced",
     "source": "TechCrunch AI",
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -14974,6 +15100,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "56a73ea70c3dd306471e",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-01T07:04:52+00:00"
+  },
+  {
+    "id": "5a0c67596dfa131020c3",
+    "source": "OpenAI News",
+    "title": "Disrupting a coordinated model-distillation campaign Security Sep 30, 2026",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-01T07:04:51+00:00"
   },
   {
     "id": "fd35eae0b63729194e2c",
