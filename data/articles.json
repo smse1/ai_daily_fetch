@@ -1,5 +1,158 @@
 [
   {
+    "id": "92e7fc6054688cdcc343",
+    "source": "Hugging Face Blog",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "summary": "",
+    "published": "2026-10-06T06:44:39+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "e1157ec9a9038639e27d",
+    "source": "TechCrunch AI",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "published": "2026-10-05T20:36:48+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "c5e36be050edd910b635",
+    "source": "TechCrunch AI",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "published": "2026-10-05T19:33:53+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "7b26a0f4e0857b0532d5",
+    "source": "TechCrunch AI",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "published": "2026-10-05T18:54:30+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "6fac67ef1067d98fbb67",
+    "source": "TechCrunch AI",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "published": "2026-10-05T18:29:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "8bc7689d22985438971d",
+    "source": "TechCrunch AI",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era",
+    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "published": "2026-10-05T17:29:22+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "0457ce527b3b76d2e16c",
+    "source": "TechCrunch AI",
+    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
+    "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+    "published": "2026-10-05T16:43:35+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "53bf793ab6cd7d2571d7",
+    "source": "MIT Technology Review AI",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge",
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+    "published": "2026-10-05T15:47:52+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "951a9e208ae8fc63426b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+    "published": "2026-10-05T15:14:24+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "04f13a0744295a4d96a7",
+    "source": "TechCrunch AI",
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "published": "2026-10-05T15:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "cc1c44b2c37533e08c1c",
+    "source": "TechCrunch AI",
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "published": "2026-10-05T14:35:09+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "e24c70d63abc81430c47",
+    "source": "TechCrunch AI",
+    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026",
+    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "published": "2026-10-05T14:30:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "09cf4a32028aade4d297",
+    "source": "TechCrunch AI",
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "published": "2026-10-05T14:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "6eb67c78466f5e3b0f13",
+    "source": "MIT Technology Review AI",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+    "published": "2026-10-05T13:29:32+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "3e8b287b0d002d70be12",
+    "source": "TechCrunch AI",
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "published": "2026-10-05T12:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "68f79cf6e5d74378c454",
+    "source": "MIT Technology Review AI",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+    "published": "2026-10-05T08:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "c4c109bc864ebb600bdc",
+    "source": "MIT Technology Review AI",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
+    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+    "published": "2026-10-05T04:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
     "id": "af19ddd076461635dcb5",
     "source": "TechCrunch AI",
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -709,6 +862,15 @@
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
     "published": "2026-09-28T08:06:22+00:00",
     "fetched_at": "2026-09-29T06:43:32+00:00"
+  },
+  {
+    "id": "a0132c32abd68bbdd778",
+    "source": "Hugging Face Blog",
+    "title": "Welcome RL Environments to the hub",
+    "url": "https://huggingface.co/blog/rl-environments",
+    "summary": "",
+    "published": "2026-09-28T00:00:00+00:00",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
   },
   {
     "id": "8503edbb65d96ec0f3a2",
@@ -15406,6 +15568,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "13b6b00bc52cdbf3aa93",
+    "source": "Google Research Blog",
+    "title": "October 5, 2026 Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Education Innovation · General Science · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-06T07:24:36+00:00"
+  },
+  {
+    "id": "dc84042eb7e27cfb5594",
+    "source": "OpenAI News",
+    "title": "Our approach to EU text provenance rules Safety Oct 5, 2026",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-06T07:24:35+00:00"
+  },
+  {
+    "id": "22a59548868beb598c3f",
+    "source": "OpenAI News",
+    "title": "Building advertising for the way people use AI Product Oct 5, 2026",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-06T07:24:35+00:00"
   },
   {
     "id": "7d5ca3752cb51ac14f83",
