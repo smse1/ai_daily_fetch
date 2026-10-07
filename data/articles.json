@@ -1,5 +1,104 @@
 [
   {
+    "id": "d7ef367d2689cc5726e5",
+    "source": "TechCrunch AI",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "published": "2026-10-06T22:34:03+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "2eb2f2dbe9444ab5284e",
+    "source": "TechCrunch AI",
+    "title": "How AI decision models could change content moderation",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
+    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "published": "2026-10-06T20:35:20+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "766101e9fc8223f057c9",
+    "source": "TechCrunch AI",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "published": "2026-10-06T20:00:30+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "81610f1248c0accbebcb",
+    "source": "TechCrunch AI",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "published": "2026-10-06T19:56:50+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "a3c9392cbffb8bd00a63",
+    "source": "TechCrunch AI",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+    "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "published": "2026-10-06T18:22:45+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "945fabdd5df8911e3858",
+    "source": "TechCrunch AI",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
+    "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "published": "2026-10-06T16:35:00+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "ae439b76936a8e2ebf5f",
+    "source": "TechCrunch AI",
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+    "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+    "published": "2026-10-06T16:00:00+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "b55fbfde702b8cdbd8e3",
+    "source": "TechCrunch AI",
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+    "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+    "published": "2026-10-06T15:25:00+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "952636e43d5a9b268e32",
+    "source": "TechCrunch AI",
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+    "published": "2026-10-06T14:33:16+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "edaa08c75514ad0652f4",
+    "source": "TechCrunch AI",
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
+    "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+    "published": "2026-10-06T14:00:49+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "f2ee01d1951e625fa1e3",
+    "source": "TechCrunch AI",
+    "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+    "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed",
+    "summary": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+    "published": "2026-10-06T14:00:00+00:00",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
     "id": "92e7fc6054688cdcc343",
     "source": "Hugging Face Blog",
     "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
@@ -15568,6 +15667,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "3bf9344c485d53c90d08",
+    "source": "Google Research Blog",
+    "title": "October 6, 2026 Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI · Global · Health & Bioscience",
+    "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-07T07:03:27+00:00"
+  },
+  {
+    "id": "a4309720ab50d91390a8",
+    "source": "OpenAI News",
+    "title": "Sharing AI progress in mathematics Research Oct 6, 2026",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-07T07:03:26+00:00"
+  },
+  {
+    "id": "b803cce24b7f34b31714",
+    "source": "OpenAI News",
+    "title": "Atlassian and OpenAI expand their partnership Company Oct 6, 2026",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-07T07:03:26+00:00"
+  },
+  {
+    "id": "39f1a93748370017acef",
+    "source": "Anthropic News",
+    "title": "Oct 6, 2026 Announcements Expanding the Cyber Verification Program",
+    "url": "https://www.anthropic.com/news/cyber-verification-program",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-07T07:03:26+00:00"
   },
   {
     "id": "13b6b00bc52cdbf3aa93",
