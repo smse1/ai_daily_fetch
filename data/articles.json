@@ -1,5 +1,149 @@
 [
   {
+    "id": "bb8e1785b6093fe04770",
+    "source": "MIT Technology Review AI",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+    "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "published": "2026-10-09T00:08:24+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "1a4d997676af5ca4a7a3",
+    "source": "TechCrunch AI",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "published": "2026-10-08T21:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "777f41b7f6968ccd19d1",
+    "source": "TechCrunch AI",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "published": "2026-10-08T20:04:26+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "86049d95e53f803c18cb",
+    "source": "TechCrunch AI",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "published": "2026-10-08T18:20:32+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "f69dd9f7c2b21038fd6c",
+    "source": "TechCrunch AI",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "published": "2026-10-08T18:19:45+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "ddd2cb52328de825d4a1",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "published": "2026-10-08T18:19:42+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "6252c921b3439cd02fa6",
+    "source": "TechCrunch AI",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "published": "2026-10-08T18:18:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "13295b6e5bd963d8f4a9",
+    "source": "TechCrunch AI",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "published": "2026-10-08T18:16:24+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "439ba9efb86e0ec6aeff",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "published": "2026-10-08T18:10:55+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "e30b6f9c5c58c58066d8",
+    "source": "TechCrunch AI",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
+    "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+    "published": "2026-10-08T16:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "c8a19769e9a77569ffa0",
+    "source": "TechCrunch AI",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
+    "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "published": "2026-10-08T16:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "42ff370de05e01dc0af2",
+    "source": "TechCrunch AI",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026",
+    "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "published": "2026-10-08T15:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "1579e3bb28a00f00a155",
+    "source": "TechCrunch AI",
+    "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+    "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
+    "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+    "published": "2026-10-08T14:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "6f642bf810f7ab8dee04",
+    "source": "MIT Technology Review AI",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+    "published": "2026-10-08T09:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "ec024c6ff67ef3dc702f",
+    "source": "MIT Technology Review AI",
+    "title": "Building a safer path to autonomous industrial AI",
+    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+    "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "published": "2026-10-08T08:17:32+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
+    "id": "8948a6ea216098bfce76",
+    "source": "Hugging Face Blog",
+    "title": "The model that didn't exist, so you made it yourself",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "summary": "",
+    "published": "2026-10-08T00:00:00+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
+  },
+  {
     "id": "22c270461ea285ad2a29",
     "source": "TechCrunch AI",
     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -115,6 +259,15 @@
     "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
     "published": "2026-10-07T14:00:00+00:00",
     "fetched_at": "2026-10-08T07:12:05+00:00"
+  },
+  {
+    "id": "9cc3216e4dd308530d15",
+    "source": "Hugging Face Blog",
+    "title": "Introducing Falcon ASR",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "summary": "",
+    "published": "2026-10-07T13:21:03+00:00",
+    "fetched_at": "2026-10-09T07:16:09+00:00"
   },
   {
     "id": "00a63977b4f001ba743e",
@@ -15793,6 +15946,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "86f084dcc3ac443ad9a1",
+    "source": "OpenAI News",
+    "title": "Disrupting AI-enabled “false front” operations Safety Oct 8, 2026",
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-09T07:16:08+00:00"
+  },
+  {
+    "id": "4c9b752064383a0f3563",
+    "source": "Anthropic News",
+    "title": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-09T07:16:08+00:00"
+  },
+  {
+    "id": "e79bf86390f8764adf17",
+    "source": "Anthropic News",
+    "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+    "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-09T07:16:08+00:00"
+  },
+  {
+    "id": "2b8914cafd9bbf49dad8",
+    "source": "Anthropic News",
+    "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+    "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-09T07:16:08+00:00"
   },
   {
     "id": "ec53632ac5a4347cfc79",
