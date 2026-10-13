@@ -1,5 +1,68 @@
 [
   {
+    "id": "4d3fde680608f75db8fc",
+    "source": "TechCrunch AI",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "published": "2026-10-12T17:56:56+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "9fe40fadba71b4315515",
+    "source": "TechCrunch AI",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "published": "2026-10-12T17:19:14+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "4aa9211e6924b430c3c7",
+    "source": "TechCrunch AI",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "published": "2026-10-12T15:45:00+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "8c8a46f68bc16bd8cd6f",
+    "source": "TechCrunch AI",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "published": "2026-10-12T15:31:19+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "ee6505b96466e477dcf5",
+    "source": "TechCrunch AI",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "published": "2026-10-12T15:27:59+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "71ec8e986d059ce44af6",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "published": "2026-10-12T14:00:00+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
+    "id": "7cba9290649a5e8d846c",
+    "source": "TechCrunch AI",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+    "published": "2026-10-12T12:47:59+00:00",
+    "fetched_at": "2026-10-13T07:34:23+00:00"
+  },
+  {
     "id": "46deeb184784cdd946b7",
     "source": "TechCrunch AI",
     "title": "Will the HomeView be Apple’s first smart home success?",
