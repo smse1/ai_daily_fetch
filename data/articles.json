@@ -1,5 +1,140 @@
 [
   {
+    "id": "2b0ebb2d667b934667e6",
+    "source": "TechCrunch AI",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "published": "2026-10-13T23:13:31+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "3e0baf23089dba5610de",
+    "source": "TechCrunch AI",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+    "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "published": "2026-10-13T23:05:34+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "360706313b534df891bf",
+    "source": "TechCrunch AI",
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+    "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+    "published": "2026-10-13T23:00:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "0fedf1df61bef046429a",
+    "source": "TechCrunch AI",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+    "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "published": "2026-10-13T22:36:59+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "c242d701fa56799cf2ac",
+    "source": "TechCrunch AI",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+    "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "published": "2026-10-13T20:36:44+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "6c2a0034212df3e4214d",
+    "source": "TechCrunch AI",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads",
+    "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "published": "2026-10-13T18:30:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "d77c17e579f61e7abaff",
+    "source": "TechCrunch AI",
+    "title": "Facebook is giving users more control over their algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+    "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "published": "2026-10-13T18:05:24+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "dfc52426c816e2a1006d",
+    "source": "TechCrunch AI",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "2026-10-13T17:30:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "50301680359b2527a64e",
+    "source": "TechCrunch AI",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+    "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "published": "2026-10-13T17:18:25+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "9dc9397899c5ebf227cf",
+    "source": "Hugging Face Blog",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "summary": "",
+    "published": "2026-10-13T17:05:48+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "70e7175a8aff215a298b",
+    "source": "TechCrunch AI",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
+    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "published": "2026-10-13T17:00:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "475eadece78a0207dd87",
+    "source": "TechCrunch AI",
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "published": "2026-10-13T16:30:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "76eba8a4194384098396",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Disrupt 2026: Day 1",
+    "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1",
+    "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
+    "published": "2026-10-13T14:00:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "d9e5c35a8865d6e97896",
+    "source": "MIT Technology Review AI",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+    "published": "2026-10-13T10:00:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
+    "id": "b17abecb365783da0078",
+    "source": "MIT Technology Review AI",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+    "published": "2026-10-13T09:00:00+00:00",
+    "fetched_at": "2026-10-14T05:58:37+00:00"
+  },
+  {
     "id": "4d3fde680608f75db8fc",
     "source": "TechCrunch AI",
     "title": "Meta releases its first frontier model, Muse Wonder",
@@ -16180,6 +16315,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "338a88699eeacc9bc79e",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-14T05:58:36+00:00"
   },
   {
     "id": "86f084dcc3ac443ad9a1",
