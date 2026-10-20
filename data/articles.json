@@ -1,5 +1,149 @@
 [
   {
+    "id": "bacd960fa5d511aa23c2",
+    "source": "TechCrunch AI",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "published": "2026-10-20T01:27:03+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "f6d025191582aab5b75b",
+    "source": "TechCrunch AI",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+    "published": "2026-10-19T23:39:38+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "085c7a7055be950e2de5",
+    "source": "TechCrunch AI",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+    "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+    "published": "2026-10-19T22:49:27+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "b7013aa7693488aa7f50",
+    "source": "TechCrunch AI",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "published": "2026-10-19T22:04:28+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "e438aa091963fc1561e5",
+    "source": "TechCrunch AI",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "published": "2026-10-19T20:09:24+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "095facb740d0ddfe105f",
+    "source": "TechCrunch AI",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "published": "2026-10-19T19:28:34+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "68d2a2fdff11f16505ae",
+    "source": "TechCrunch AI",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "published": "2026-10-19T19:00:12+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "d6428df6555acdc2599a",
+    "source": "TechCrunch AI",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "published": "2026-10-19T18:49:04+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "33a30a603cbfe4ce5fa4",
+    "source": "TechCrunch AI",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "published": "2026-10-19T18:37:27+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "c28798f893c7530995da",
+    "source": "MIT Technology Review AI",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
+    "published": "2026-10-19T18:22:47+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "5eaf88d0a8d9514dcc47",
+    "source": "MIT Technology Review AI",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+    "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is&#8230;",
+    "published": "2026-10-19T17:45:55+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "f127cc2ede1129d9e9dc",
+    "source": "TechCrunch AI",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "published": "2026-10-19T16:13:22+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "0c4dc7deb2355352669c",
+    "source": "TechCrunch AI",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "published": "2026-10-19T15:37:09+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "01183c58c0220b240f8b",
+    "source": "TechCrunch AI",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "published": "2026-10-19T12:30:00+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "39d99b5540701dd84269",
+    "source": "MIT Technology Review AI",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to&#8230;",
+    "published": "2026-10-19T09:08:05+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
+    "id": "d564e4263764eeeb43a0",
+    "source": "Hugging Face Blog",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "summary": "",
+    "published": "2026-10-19T00:00:00+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
+  },
+  {
     "id": "0d1b15d956a270e927e6",
     "source": "TechCrunch AI",
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -250,6 +394,15 @@
     "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
     "published": "2026-10-15T12:00:00+00:00",
     "fetched_at": "2026-10-16T05:41:10+00:00"
+  },
+  {
+    "id": "0d2acb92fbdf39bdca87",
+    "source": "Hugging Face Blog",
+    "title": "Apertus 1.5 Release Notes",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "summary": "",
+    "published": "2026-10-15T09:08:45+00:00",
+    "fetched_at": "2026-10-20T05:48:58+00:00"
   },
   {
     "id": "f2396ec3bc3d4cc017db",
@@ -16702,6 +16855,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "892f8897f72215929d28",
+    "source": "OpenAI News",
+    "title": "Advancing coding in low‑resource programming languages Publication Oct 19, 2026",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-20T05:48:57+00:00"
   },
   {
     "id": "5b2d84e7a645f8a1753d",
