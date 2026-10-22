@@ -1,5 +1,113 @@
 [
   {
+    "id": "63de976984237d6e322d",
+    "source": "TechCrunch AI",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+    "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "published": "2026-10-21T22:51:22+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "65c903e8d7eb805ee330",
+    "source": "TechCrunch AI",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "published": "2026-10-21T21:16:20+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "18c72d12da9a8a743295",
+    "source": "TechCrunch AI",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "published": "2026-10-21T21:14:19+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "41297616d26d7a366c4b",
+    "source": "TechCrunch AI",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "published": "2026-10-21T20:27:41+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "8c4038e3b6bba2f526cd",
+    "source": "TechCrunch AI",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "published": "2026-10-21T19:30:00+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "fd4e444e0de01b66bbc4",
+    "source": "Hugging Face Blog",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "summary": "",
+    "published": "2026-10-21T18:26:30+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "041f7a5938fb7a1cf733",
+    "source": "TechCrunch AI",
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "published": "2026-10-21T17:59:12+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "20b0d3e7a265c8a70c02",
+    "source": "Hugging Face Blog",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "summary": "",
+    "published": "2026-10-21T17:35:36+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "624129a454bf63dbe78c",
+    "source": "TechCrunch AI",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "published": "2026-10-21T17:18:27+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "dcd157cec37110186f76",
+    "source": "Hugging Face Blog",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "summary": "",
+    "published": "2026-10-21T16:04:43+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "5ff53619ac3b4715d43f",
+    "source": "Hugging Face Blog",
+    "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "summary": "",
+    "published": "2026-10-21T14:58:18+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "fc5b8d4b0cab1b773a80",
+    "source": "TechCrunch AI",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "published": "2026-10-21T14:00:00+00:00",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
     "id": "69dd0749a66a48331703",
     "source": "TechCrunch AI",
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -17044,6 +17152,78 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "cdee54d5b10c5c2e21db",
+    "source": "Google Research Blog",
+    "title": "October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience · Machine Perception",
+    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:20+00:00"
+  },
+  {
+    "id": "e8206e85eca9bcc475d8",
+    "source": "OpenAI News",
+    "title": "Broad access through consistent standards Safety Oct 21, 2026",
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "ea1acb954b51eeaf7911",
+    "source": "OpenAI News",
+    "title": "OpenAI models are coming to Google Cloud Company Oct 21, 2026",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "0333a50a4a08533876a4",
+    "source": "OpenAI News",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities Security Oct 21, 2026",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "12349efa7d76b53966c7",
+    "source": "OpenAI News",
+    "title": "ChatGPT Ads expands to 26 new countries Product Oct 21, 2026",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "f9a57405b710529c67bc",
+    "source": "OpenAI News",
+    "title": "Using thousands of AI agents to uncover new leads in biological data Publication Oct 21, 2026",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "10b9f71ccdf8dbb7de2b",
+    "source": "OpenAI News",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance Engineering Oct 21, 2026",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
+  },
+  {
+    "id": "905aedd61cb3e9db350e",
+    "source": "Anthropic News",
+    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-22T05:55:19+00:00"
   },
   {
     "id": "03afe39d145f7d5d3f2e",
