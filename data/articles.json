@@ -1,5 +1,176 @@
 [
   {
+    "id": "02e5b4f1aca3917d344d",
+    "source": "TechCrunch AI",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+    "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "published": "2026-10-23T04:00:00+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "09becf7826548b86fc4c",
+    "source": "TechCrunch AI",
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+    "published": "2026-10-23T00:45:37+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "d66606b7c322c3cb62c8",
+    "source": "Hugging Face Blog",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "summary": "",
+    "published": "2026-10-22T22:24:34+00:00",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
+    "id": "1c91592d766daff2ebe0",
+    "source": "TechCrunch AI",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "published": "2026-10-22T22:08:24+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "79de5066cb5e163c6d8f",
+    "source": "MIT Technology Review AI",
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "published": "2026-10-22T21:17:29+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "cb3be90ff22c02482a1b",
+    "source": "TechCrunch AI",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "published": "2026-10-22T19:07:09+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "b7442b2723dd27ccb920",
+    "source": "TechCrunch AI",
+    "title": "Canva releases its first image generation model",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "published": "2026-10-22T19:00:00+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "d58399cd4787726cb91b",
+    "source": "TechCrunch AI",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "published": "2026-10-22T19:00:00+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "845f14ac99090b9570d3",
+    "source": "MIT Technology Review AI",
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "published": "2026-10-22T18:48:04+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "eb765c26257289d977fb",
+    "source": "TechCrunch AI",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+    "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "published": "2026-10-22T18:43:53+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "98ec4294c54f360745b2",
+    "source": "TechCrunch AI",
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "published": "2026-10-22T16:47:17+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "42c4f2923f52fcf6870b",
+    "source": "Hugging Face Blog",
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "summary": "",
+    "published": "2026-10-22T16:11:31+00:00",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
+    "id": "f15a258a4da80f041468",
+    "source": "TechCrunch AI",
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "published": "2026-10-22T16:00:00+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "aabcfc1bd62b916c9d2c",
+    "source": "TechCrunch AI",
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+    "published": "2026-10-22T15:03:58+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "627af767162872899112",
+    "source": "TechCrunch AI",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "published": "2026-10-22T13:53:26+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "7a63cdf7ce36c316f0b2",
+    "source": "TechCrunch AI",
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+    "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+    "published": "2026-10-22T13:26:52+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "173d08487044482ad6d7",
+    "source": "MIT Technology Review AI",
+    "title": "Making the case for context-aware AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
+    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
+    "published": "2026-10-22T10:00:00+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "917a3ce2151fa32657eb",
+    "source": "MIT Technology Review AI",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+    "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+    "published": "2026-10-22T08:41:18+00:00",
+    "fetched_at": "2026-10-23T05:52:29+00:00"
+  },
+  {
+    "id": "5c09f21e62b68d5e7076",
+    "source": "Hugging Face Blog",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "summary": "",
+    "published": "2026-10-22T07:51:31+00:00",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
     "id": "63de976984237d6e322d",
     "source": "TechCrunch AI",
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -17152,6 +17323,60 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "cdd1b91b34543c1f81ac",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
+    "id": "255a42835a877346a88e",
+    "source": "Anthropic News",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
+    "id": "922885b9bbef81d88273",
+    "source": "Anthropic News",
+    "title": "Open call for guest investigators in the life sciences",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:28+00:00"
+  },
+  {
+    "id": "5510193c85bff7376ae6",
+    "source": "OpenAI News",
+    "title": "Build more responsive apps with the Decisions API Product Oct 22, 2026",
+    "url": "https://openai.com/index/decisions-api",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:27+00:00"
+  },
+  {
+    "id": "9b482c6bdb15f142f28c",
+    "source": "OpenAI News",
+    "title": "What forward deployed engineering means at OpenAI AI Adoption Oct 22, 2026",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:27+00:00"
+  },
+  {
+    "id": "2db9d613bf93c6615ce7",
+    "source": "OpenAI News",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI Company Oct 22, 2026",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-23T05:52:27+00:00"
   },
   {
     "id": "cdee54d5b10c5c2e21db",
