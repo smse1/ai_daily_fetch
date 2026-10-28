@@ -1,5 +1,140 @@
 [
   {
+    "id": "dc8fef7b4e9e8c1f22ef",
+    "source": "TechCrunch AI",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "published": "2026-10-28T01:15:28+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "1303c0a8fd1b9adfee15",
+    "source": "TechCrunch AI",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+    "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "published": "2026-10-27T23:34:27+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "47884e078e7220c3fa30",
+    "source": "TechCrunch AI",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+    "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "published": "2026-10-27T22:55:41+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "f95ad346ab2afb80415f",
+    "source": "TechCrunch AI",
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+    "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+    "published": "2026-10-27T21:44:34+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "acb3fef007b40080f893",
+    "source": "TechCrunch AI",
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+    "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+    "published": "2026-10-27T21:38:28+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "a6657d8982a3714013d6",
+    "source": "TechCrunch AI",
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+    "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+    "published": "2026-10-27T18:55:35+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "e30c766548733d591fda",
+    "source": "Hugging Face Blog",
+    "title": "Build specialized multimodal models with LFM3",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "summary": "",
+    "published": "2026-10-27T17:16:52+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "5d464366eb438841a24c",
+    "source": "TechCrunch AI",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "published": "2026-10-27T17:08:08+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "63d2146eaf51e8220323",
+    "source": "TechCrunch AI",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+    "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+    "published": "2026-10-27T16:30:57+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "0089dc124bc0b37d6312",
+    "source": "Hugging Face Blog",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "summary": "",
+    "published": "2026-10-27T16:12:42+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "f2ec5a4a766984a606f7",
+    "source": "TechCrunch AI",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "published": "2026-10-27T14:59:09+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "c104567106ea035269a8",
+    "source": "TechCrunch AI",
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "published": "2026-10-27T13:32:57+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "4fce01a7e8bf1599dc33",
+    "source": "TechCrunch AI",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "published": "2026-10-27T13:00:00+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "e065f3e51c4b9b41b6c1",
+    "source": "TechCrunch AI",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "published": "2026-10-27T13:00:00+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "e60198f6d8663adf403d",
+    "source": "MIT Technology Review AI",
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
+    "published": "2026-10-27T11:19:18+00:00",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
     "id": "9aee027058f49598f218",
     "source": "TechCrunch AI",
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -17503,6 +17638,51 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "351f821cd2d1c3c9590c",
+    "source": "Google Research Blog",
+    "title": "October 27, 2026 The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation · General Science · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "33c6f8941209c892c32c",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-28T06:45:02+00:00"
+  },
+  {
+    "id": "c7dc731ab2a47e2aabf7",
+    "source": "OpenAI News",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT Company Oct 27, 2026",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-28T06:45:01+00:00"
+  },
+  {
+    "id": "5e67af58e73a923d3568",
+    "source": "Anthropic News",
+    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-28T06:45:01+00:00"
+  },
+  {
+    "id": "29770a8b4d3dca9e5def",
+    "source": "Anthropic News",
+    "title": "Partnerships",
+    "url": "https://www.anthropic.com/news/partnerships",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-28T06:45:01+00:00"
   },
   {
     "id": "b05be6f411cc13570eee",
