@@ -1,5 +1,158 @@
 [
   {
+    "id": "97996b735f04497cc16f",
+    "source": "TechCrunch AI",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "published": "2026-10-30T01:20:48+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "78ad491e09008220c987",
+    "source": "TechCrunch AI",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+    "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "published": "2026-10-29T23:42:22+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "5bc168e6c0a8ae01a0f8",
+    "source": "TechCrunch AI",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+    "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "published": "2026-10-29T20:08:31+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "094842f24848fc4f22e4",
+    "source": "TechCrunch AI",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "published": "2026-10-29T20:05:47+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "480829c6bfa53149e867",
+    "source": "TechCrunch AI",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "published": "2026-10-29T19:56:19+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "58045695b799929a41ef",
+    "source": "TechCrunch AI",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+    "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "published": "2026-10-29T19:14:36+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "4e9a3cb27bcb6da172ea",
+    "source": "TechCrunch AI",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "published": "2026-10-29T17:54:38+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "53e8345a003bd65cea43",
+    "source": "TechCrunch AI",
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+    "published": "2026-10-29T17:00:00+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "48711d143042702c773f",
+    "source": "TechCrunch AI",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+    "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "published": "2026-10-29T16:42:32+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "43bf125ec3d3375e7962",
+    "source": "TechCrunch AI",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+    "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+    "published": "2026-10-29T16:21:00+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "6f21e10831cc27edc78a",
+    "source": "TechCrunch AI",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
+    "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "published": "2026-10-29T14:35:26+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "1e38303689a210afbef8",
+    "source": "Hugging Face Blog",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "summary": "",
+    "published": "2026-10-29T13:37:07+00:00",
+    "fetched_at": "2026-10-30T06:56:20+00:00"
+  },
+  {
+    "id": "dedc7908e9710e9c9271",
+    "source": "TechCrunch AI",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+    "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "published": "2026-10-29T13:00:00+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "e51b3fd73b5f85798e8d",
+    "source": "MIT Technology Review AI",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+    "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+    "published": "2026-10-29T10:11:12+00:00",
+    "fetched_at": "2026-10-30T06:56:21+00:00"
+  },
+  {
+    "id": "537ad9ce4801c85e5695",
+    "source": "Hugging Face Blog",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "summary": "",
+    "published": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-10-30T06:56:20+00:00"
+  },
+  {
+    "id": "a925252c77a7a1761744",
+    "source": "Hugging Face Blog",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "summary": "",
+    "published": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-10-30T06:56:20+00:00"
+  },
+  {
+    "id": "d5d73fc76884caef76ba",
+    "source": "Hugging Face Blog",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "summary": "",
+    "published": "2026-10-29T00:00:00+00:00",
+    "fetched_at": "2026-10-30T06:56:20+00:00"
+  },
+  {
     "id": "514791fb82bdd7515324",
     "source": "TechCrunch AI",
     "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
@@ -17773,6 +17926,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "bcb0d23b488cd25015d8",
+    "source": "OpenAI News",
+    "title": "An updated Model Spec for more capable and beneficial AI Safety Oct 29, 2026",
+    "url": "https://openai.com/index/updated-model-spec",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-30T06:56:19+00:00"
+  },
+  {
+    "id": "0c3a0d3e046f679dc5ad",
+    "source": "OpenAI News",
+    "title": "How we detect frontier model misalignment Security Oct 29, 2026",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-10-30T06:56:19+00:00"
   },
   {
     "id": "8b7ec39b18bb59b2b0e0",
