@@ -1,5 +1,41 @@
 [
   {
+    "id": "c93e0c75cfc0870d4c9a",
+    "source": "TechCrunch AI",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "published": "2026-10-31T21:41:00+00:00",
+    "fetched_at": "2026-11-01T07:16:41+00:00"
+  },
+  {
+    "id": "4beff6a352f3d1e19ee0",
+    "source": "TechCrunch AI",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "published": "2026-10-31T21:36:07+00:00",
+    "fetched_at": "2026-11-01T07:16:41+00:00"
+  },
+  {
+    "id": "18d404c019b5bf896de7",
+    "source": "TechCrunch AI",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "published": "2026-10-31T21:17:03+00:00",
+    "fetched_at": "2026-11-01T07:16:41+00:00"
+  },
+  {
+    "id": "e7b3ea104cda796bd561",
+    "source": "TechCrunch AI",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "published": "2026-10-31T16:12:55+00:00",
+    "fetched_at": "2026-11-01T07:16:41+00:00"
+  },
+  {
     "id": "8f154564b38888375aab",
     "source": "TechCrunch AI",
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
