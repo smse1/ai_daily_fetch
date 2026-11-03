@@ -1,5 +1,158 @@
 [
   {
+    "id": "74bb180af7672d37d013",
+    "source": "TechCrunch AI",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+    "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "published": "2026-11-03T07:20:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "d454a480ec387163b161",
+    "source": "MIT Technology Review AI",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That&#8230;",
+    "published": "2026-11-03T04:18:47+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "4f2b3f48c9e18455086a",
+    "source": "TechCrunch AI",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+    "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "published": "2026-11-03T03:30:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "edb2fec729582b63bf85",
+    "source": "TechCrunch AI",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+    "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "published": "2026-11-03T01:49:52+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "a2cf2df867f339d9bdaa",
+    "source": "TechCrunch AI",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+    "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "published": "2026-11-03T00:35:52+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "3c58fafdac98f8998951",
+    "source": "Hugging Face Blog",
+    "title": "Transformers Model Integration Contracts",
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "summary": "",
+    "published": "2026-11-03T00:00:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "7f77268a19c6418f3b9c",
+    "source": "TechCrunch AI",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+    "summary": "The one-year-old startup is now valued at $300 million.",
+    "published": "2026-11-02T23:13:53+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "e2af260e2b38bbff11b1",
+    "source": "TechCrunch AI",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "published": "2026-11-02T22:14:50+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "5089dac6f1147c7917ac",
+    "source": "TechCrunch AI",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+    "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "published": "2026-11-02T19:25:59+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "2a23d2a237b8fe5ce13d",
+    "source": "TechCrunch AI",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "published": "2026-11-02T19:19:17+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "451cf363dec4ff41ea58",
+    "source": "MIT Technology Review AI",
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate&#8230;",
+    "published": "2026-11-02T17:00:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "64ee88ad4332c9c34995",
+    "source": "TechCrunch AI",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "published": "2026-11-02T16:30:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "cc6fd52aa3ba2599c887",
+    "source": "TechCrunch AI",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+    "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "published": "2026-11-02T16:23:21+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "2f4974dcb805901c87da",
+    "source": "TechCrunch AI",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "published": "2026-11-02T15:00:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "10a5627419af2170b055",
+    "source": "TechCrunch AI",
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "published": "2026-11-02T14:00:00+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "64e2b082f0be3700455e",
+    "source": "MIT Technology Review AI",
+    "title": "Stop counting tokens, start counting what ships",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+    "published": "2026-11-02T13:10:32+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
+    "id": "f1d11b6c9f6e51c6cb2a",
+    "source": "MIT Technology Review AI",
+    "title": "The agentic web is here",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every&#8230;",
+    "published": "2026-11-02T09:35:19+00:00",
+    "fetched_at": "2026-11-03T07:45:28+00:00"
+  },
+  {
     "id": "fb226580788d6b7edb2c",
     "source": "TechCrunch AI",
     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -18097,6 +18250,69 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "a2cbbfcaed16d500aa7f",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:27+00:00"
+  },
+  {
+    "id": "83a0aa6f8e9a93e1a686",
+    "source": "OpenAI News",
+    "title": "Scaling Git at OpenAI Engineering Nov 2, 2026",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
+  },
+  {
+    "id": "c6f1d0b9e2141b8be71a",
+    "source": "OpenAI News",
+    "title": "Introducing the Grid Protectors Program Global Affairs Nov 2, 2026",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
+  },
+  {
+    "id": "5343b3d0c6256b0609e6",
+    "source": "OpenAI News",
+    "title": "Preparing our next security sprint to harden OpenAI Security Nov 2, 2026",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
+  },
+  {
+    "id": "a6923c10bc0b0a9061a1",
+    "source": "OpenAI News",
+    "title": "Rewarding defenders with bigger bug bounties Security Nov 2, 2026",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
+  },
+  {
+    "id": "5be7141b2855e1bf444e",
+    "source": "OpenAI News",
+    "title": "LifeVal Research Nov 2, 2026",
+    "url": "https://openai.com/index/lifeval",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
+  },
+  {
+    "id": "6db141d1081cdde98912",
+    "source": "OpenAI News",
+    "title": "Dan Driscoll joins OpenAI Company Nov 2, 2026",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-03T07:45:26+00:00"
   },
   {
     "id": "cf0352335beb2cc921f3",
