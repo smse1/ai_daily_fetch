@@ -1,5 +1,140 @@
 [
   {
+    "id": "c62ce050f1bf4f8480d5",
+    "source": "TechCrunch AI",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+    "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "published": "2026-11-05T01:26:22+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "486f1050e1355cbdcf40",
+    "source": "TechCrunch AI",
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+    "published": "2026-11-05T01:02:14+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "10a813b42e02f8044da5",
+    "source": "TechCrunch AI",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
+    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "published": "2026-11-04T22:45:09+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "61becbda67f2a49e692a",
+    "source": "TechCrunch AI",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month",
+    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "published": "2026-11-04T22:13:16+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "f963fdaafd5793d73a74",
+    "source": "TechCrunch AI",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+    "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "published": "2026-11-04T21:56:01+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "381378d523bf16e23b1d",
+    "source": "TechCrunch AI",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+    "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "published": "2026-11-04T21:25:44+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "29718673aa9b23209e9a",
+    "source": "TechCrunch AI",
+    "title": "Meta acquires AI coding startup Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+    "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "published": "2026-11-04T21:10:56+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "049a0c614d7e5f8ebe35",
+    "source": "TechCrunch AI",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+    "published": "2026-11-04T19:30:04+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "31f3981a9ce20ba00922",
+    "source": "TechCrunch AI",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+    "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "published": "2026-11-04T19:29:52+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "49f1fb08afba95ab5fc0",
+    "source": "MIT Technology Review AI",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput",
+    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+    "published": "2026-11-04T18:50:55+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "d6ec98dd6ed546d27638",
+    "source": "TechCrunch AI",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+    "published": "2026-11-04T18:44:57+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "0d8799f0fc9d29f0ac0a",
+    "source": "Hugging Face Blog",
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "summary": "",
+    "published": "2026-11-04T17:50:10+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "f2e291f9dec6a1280be0",
+    "source": "TechCrunch AI",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "published": "2026-11-04T16:51:35+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "16a7c877a75d0272ee71",
+    "source": "TechCrunch AI",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "published": "2026-11-04T16:17:22+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "151937b6999b2b9ab780",
+    "source": "MIT Technology Review AI",
+    "title": "Securing the agentic enterprise with data lineage",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage",
+    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "published": "2026-11-04T13:00:00+00:00",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
     "id": "ce0282832c1ae2b8e6a8",
     "source": "TechCrunch AI",
     "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -18385,6 +18520,51 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "89b287301a58771ab309",
+    "source": "Google Research Blog",
+    "title": "November 4, 2026 Agile Deliberation: How AI helps humans define the gray areas Data Mining & Modeling · Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence",
+    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-05T07:49:35+00:00"
+  },
+  {
+    "id": "b848cb9d5b08d98fa9b1",
+    "source": "OpenAI News",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc. Company Nov 4, 2026",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-05T07:49:34+00:00"
+  },
+  {
+    "id": "0aa79f6a1653cdb81a63",
+    "source": "OpenAI News",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East) Product Nov 4, 2026",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-05T07:49:34+00:00"
+  },
+  {
+    "id": "247ce8408d236a38158a",
+    "source": "OpenAI News",
+    "title": "A thousand fewer paths to root Security Nov 4, 2026",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-05T07:49:34+00:00"
+  },
+  {
+    "id": "38f3fad4919109dace0b",
+    "source": "OpenAI News",
+    "title": "Introducing Images 2.6 Product Nov 4, 2026",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-05T07:49:34+00:00"
   },
   {
     "id": "41fae14020e606c7ef5e",
