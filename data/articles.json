@@ -1,5 +1,158 @@
 [
   {
+    "id": "f0857ca881b0b4f91c87",
+    "source": "TechCrunch AI",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "published": "2026-11-10T07:00:00+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "a0e79ae3a6a8cee1ed08",
+    "source": "TechCrunch AI",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "published": "2026-11-10T01:27:12+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "91acdd2b45270163c57a",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+    "published": "2026-11-09T23:28:37+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "5ef631857df3762233c8",
+    "source": "TechCrunch AI",
+    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+    "published": "2026-11-09T22:46:09+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "780936c9d301bbdc4b8a",
+    "source": "TechCrunch AI",
+    "title": "The race is on to sue Nvidia",
+    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+    "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+    "published": "2026-11-09T22:23:42+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "7ce07c6ed941c8fa65ab",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "published": "2026-11-09T20:09:06+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "b099a927845a85a2633b",
+    "source": "MIT Technology Review AI",
+    "title": "The backlash about data centers might really just be about electricity",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
+    "published": "2026-11-09T19:35:33+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "7a743722a614606541ee",
+    "source": "TechCrunch AI",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+    "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "published": "2026-11-09T19:24:51+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "d8acd63b688f126fe6ad",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
+    "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "published": "2026-11-09T18:09:52+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "cb5f4a10ddf2823b1ef7",
+    "source": "TechCrunch AI",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "published": "2026-11-09T18:00:00+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "e97679378863261dd994",
+    "source": "MIT Technology Review AI",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with Wiener on Friday, only a&#8230;",
+    "published": "2026-11-09T17:05:43+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "712ced2ef362bc5c892a",
+    "source": "TechCrunch AI",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "published": "2026-11-09T16:56:54+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "78e8a48f6da24655e578",
+    "source": "TechCrunch AI",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "published": "2026-11-09T16:12:28+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "f79ee03306bacebf357a",
+    "source": "Hugging Face Blog",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "summary": "",
+    "published": "2026-11-09T15:05:57+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "5f7e90923533ccd90eb8",
+    "source": "TechCrunch AI",
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "published": "2026-11-09T14:00:00+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "67a7af660d7f595beadb",
+    "source": "MIT Technology Review AI",
+    "title": "Innovating with AI in the special chemicals industry",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed&#8230;",
+    "published": "2026-11-09T13:00:00+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
+    "id": "68e408028d1ffb76658a",
+    "source": "Hugging Face Blog",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "summary": "",
+    "published": "2026-11-09T12:34:29+00:00",
+    "fetched_at": "2026-11-10T08:10:11+00:00"
+  },
+  {
     "id": "aa01d37236b7838e88fe",
     "source": "TechCrunch AI",
     "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
@@ -18799,6 +18952,42 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "03aeb9f52cb7b15d9de9",
+    "source": "OpenAI News",
+    "title": "Closing the AI guidance gap in education Company Nov 10, 2026",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-10T08:10:10+00:00"
+  },
+  {
+    "id": "de9f191e899fbac5c11d",
+    "source": "OpenAI News",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace Product Nov 9, 2026",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-10T08:10:10+00:00"
+  },
+  {
+    "id": "561a19a13b45cbf06d59",
+    "source": "OpenAI News",
+    "title": "Control Room: A new way to track and stop AI workloads Safety Nov 9, 2026",
+    "url": "https://openai.com/index/control-room",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-10T08:10:10+00:00"
+  },
+  {
+    "id": "193f4b8b83e0b079529b",
+    "source": "Google Research Blog",
+    "title": "November 9, 2026 Exploring the world's languages with Language Explorer Natural Language Processing · Open Source Models & Datasets",
+    "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-10T08:10:10+00:00"
   },
   {
     "id": "42e3be51b462de52815d",
