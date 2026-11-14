@@ -1,5 +1,104 @@
 [
   {
+    "id": "649212af52da28552639",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "published": "2026-11-13T22:43:00+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "c599e04933a6a6d3f989",
+    "source": "TechCrunch AI",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "published": "2026-11-13T19:37:57+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "ef33aa9856867fa3f217",
+    "source": "TechCrunch AI",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "published": "2026-11-13T18:40:30+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "c8295b24f9beee98e005",
+    "source": "Hugging Face Blog",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "summary": "",
+    "published": "2026-11-13T18:00:39+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "31ea53a4492af85ff08d",
+    "source": "Hugging Face Blog",
+    "title": "XYBench: Helping with the problem behind the question",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "summary": "",
+    "published": "2026-11-13T17:02:35+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "861b07c34dbc30b7e856",
+    "source": "TechCrunch AI",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "published": "2026-11-13T16:00:12+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "3c3873290596960f59ed",
+    "source": "TechCrunch AI",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "published": "2026-11-13T15:58:00+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "f612cadc543045369aa7",
+    "source": "TechCrunch AI",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "published": "2026-11-13T14:44:48+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "075ca05fa35a66aec35e",
+    "source": "Hugging Face Blog",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "summary": "",
+    "published": "2026-11-13T14:05:22+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "e4191c26c000322670d2",
+    "source": "TechCrunch AI",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+    "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "published": "2026-11-13T12:52:19+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "83d21d6784a4f7691d77",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang didn’t show confidence in his successor, report says",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+    "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+    "published": "2026-11-13T12:28:23+00:00",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
     "id": "f29529e08aaadde9e692",
     "source": "TechCrunch AI",
     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -19339,6 +19438,33 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "4df55eea3e27f2204750",
+    "source": "Google Research Blog",
+    "title": "November 13, 2026 Advancing science & engineering with Antigravity’s /teamwork Education Innovation · General Science · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-14T07:29:35+00:00"
+  },
+  {
+    "id": "ffe257ed8bda4c5d5da3",
+    "source": "OpenAI News",
+    "title": "Introducing ChatGPT Wallet Product Nov 13, 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-14T07:29:34+00:00"
+  },
+  {
+    "id": "db6598811829e012476a",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-14T07:29:34+00:00"
   },
   {
     "id": "aed9068d8c0ff55120b5",
