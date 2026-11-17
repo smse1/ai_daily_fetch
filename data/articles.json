@@ -1,5 +1,140 @@
 [
   {
+    "id": "f495e338422837cfbc56",
+    "source": "TechCrunch AI",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "published": "2026-11-16T23:32:32+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "b32983b834e55afc86b1",
+    "source": "TechCrunch AI",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+    "published": "2026-11-16T22:03:02+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "064d758576af8051b334",
+    "source": "TechCrunch AI",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "published": "2026-11-16T20:07:13+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "470ad7b960f1e1fc21f0",
+    "source": "TechCrunch AI",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "published": "2026-11-16T19:12:02+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "3005ece8516cc5956180",
+    "source": "MIT Technology Review AI",
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
+    "published": "2026-11-16T18:38:47+00:00",
+    "fetched_at": "2026-11-17T08:57:30+00:00"
+  },
+  {
+    "id": "b2646b83f0b806aec108",
+    "source": "TechCrunch AI",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "published": "2026-11-16T18:11:10+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "2639cd3bf4de36b1bf2d",
+    "source": "TechCrunch AI",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+    "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "published": "2026-11-16T17:36:43+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "c1af7b72158c75985fc6",
+    "source": "TechCrunch AI",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+    "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "published": "2026-11-16T17:10:00+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "804f92f22aaf80a72fc0",
+    "source": "TechCrunch AI",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+    "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "published": "2026-11-16T17:02:43+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "c94414b303e8c8d61879",
+    "source": "TechCrunch AI",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "published": "2026-11-16T17:00:00+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "c9057509d838d6374500",
+    "source": "MIT Technology Review AI",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it",
+    "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do&#8230;",
+    "published": "2026-11-16T16:04:28+00:00",
+    "fetched_at": "2026-11-17T08:57:30+00:00"
+  },
+  {
+    "id": "8d54dd02c658a59afda0",
+    "source": "TechCrunch AI",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+    "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "published": "2026-11-16T15:52:19+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "b161b73bfa7aab9e0d1b",
+    "source": "TechCrunch AI",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
+    "summary": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "published": "2026-11-16T15:02:34+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "0f9e76948e74e3aaf072",
+    "source": "TechCrunch AI",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "published": "2026-11-16T14:48:13+00:00",
+    "fetched_at": "2026-11-17T08:57:31+00:00"
+  },
+  {
+    "id": "3e7f15d23d127a4839e7",
+    "source": "MIT Technology Review AI",
+    "title": "Building AI that can work across the enterprise",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,&#8230;",
+    "published": "2026-11-16T13:00:00+00:00",
+    "fetched_at": "2026-11-17T08:57:30+00:00"
+  },
+  {
     "id": "1361fc5285afe2b58a8f",
     "source": "TechCrunch AI",
     "title": "Apple launches new app to study how people use AI for health",
@@ -7,6 +142,15 @@
     "summary": "Apple's new app for a study will answer everyday medical questions",
     "published": "2026-11-16T01:30:00+00:00",
     "fetched_at": "2026-11-16T07:48:53+00:00"
+  },
+  {
+    "id": "3954f85abd7506ba12a0",
+    "source": "Hugging Face Blog",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "summary": "",
+    "published": "2026-11-16T00:00:00+00:00",
+    "fetched_at": "2026-11-17T08:57:30+00:00"
   },
   {
     "id": "5d9bfd0ea026fabb7a73",
@@ -19510,6 +19654,60 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "5b70149da1e97f1c5273",
+    "source": "OpenAI News",
+    "title": "Broadening access to AI for scientists Research Nov 16, 2026",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
+  },
+  {
+    "id": "93811be61b6328519b27",
+    "source": "OpenAI News",
+    "title": "Strengthening the fight against online child sexual abuse Safety Nov 16, 2026",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
+  },
+  {
+    "id": "b0cdf6e395b2a26846d2",
+    "source": "OpenAI News",
+    "title": "Science at the Frontier: How Scientists Use ChatGPT Research Nov 16, 2026",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
+  },
+  {
+    "id": "487aad7da70152010528",
+    "source": "OpenAI News",
+    "title": "LVMH’s Media Division announces partnership with OpenAI Company Nov 16, 2026",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
+  },
+  {
+    "id": "79982e5329f6c4f6c629",
+    "source": "OpenAI News",
+    "title": "Our first phase of embedded assessments Safety Nov 16, 2026",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
+  },
+  {
+    "id": "8b8a752bc3a37c1b08fd",
+    "source": "OpenAI News",
+    "title": "More ways to move care forward with ChatGPT for Healthcare Product Nov 16, 2026",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-17T08:57:29+00:00"
   },
   {
     "id": "4df55eea3e27f2204750",
