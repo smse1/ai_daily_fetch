@@ -1,5 +1,41 @@
 [
   {
+    "id": "eaa12679acce5b431a04",
+    "source": "TechCrunch AI",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "published": "2026-11-21T21:37:10+00:00",
+    "fetched_at": "2026-11-22T07:53:46+00:00"
+  },
+  {
+    "id": "18ec3e1894f71b4080da",
+    "source": "TechCrunch AI",
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "published": "2026-11-21T21:07:42+00:00",
+    "fetched_at": "2026-11-22T07:53:46+00:00"
+  },
+  {
+    "id": "653929a57c7e87f2ba99",
+    "source": "TechCrunch AI",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "published": "2026-11-21T17:00:00+00:00",
+    "fetched_at": "2026-11-22T07:53:46+00:00"
+  },
+  {
+    "id": "900e48f03f1038bd05d8",
+    "source": "TechCrunch AI",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "published": "2026-11-21T16:00:00+00:00",
+    "fetched_at": "2026-11-22T07:53:46+00:00"
+  },
+  {
     "id": "9877346bbc460f373251",
     "source": "TechCrunch AI",
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
