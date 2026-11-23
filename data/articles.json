@@ -1,5 +1,32 @@
 [
   {
+    "id": "91b7e474e00dcfc92759",
+    "source": "TechCrunch AI",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "published": "2026-11-23T01:25:53+00:00",
+    "fetched_at": "2026-11-23T08:48:41+00:00"
+  },
+  {
+    "id": "afee4b9cba62f1bdad37",
+    "source": "TechCrunch AI",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "published": "2026-11-22T21:14:07+00:00",
+    "fetched_at": "2026-11-23T08:48:41+00:00"
+  },
+  {
+    "id": "77c6eab387462a8c2a37",
+    "source": "TechCrunch AI",
+    "title": "Why data centers are at the center of the Big Tech backlash",
+    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+    "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+    "published": "2026-11-22T18:08:43+00:00",
+    "fetched_at": "2026-11-23T08:48:41+00:00"
+  },
+  {
     "id": "eaa12679acce5b431a04",
     "source": "TechCrunch AI",
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -20158,6 +20185,15 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "0a5fcefa100b64b0b8b8",
+    "source": "OpenAI News",
+    "title": "Perplexity and Intelligence Research Nov 22, 2026",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-23T08:48:39+00:00"
   },
   {
     "id": "0b56ee53dda269571c56",
