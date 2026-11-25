@@ -1,5 +1,122 @@
 [
   {
+    "id": "31b4b39396939fdd7e58",
+    "source": "TechCrunch AI",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion",
+    "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
+    "published": "2026-11-25T00:12:02+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "596cb559ff93e52a2fa9",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+    "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+    "published": "2026-11-24T22:27:52+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "5955fc741253370615c9",
+    "source": "TechCrunch AI",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+    "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "published": "2026-11-24T21:48:27+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "0e833ca853b08dbbc6aa",
+    "source": "TechCrunch AI",
+    "title": "Even the best AI agents struggle with everyday life",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+    "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "published": "2026-11-24T21:33:29+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "f5f6dacb6c9f70945cee",
+    "source": "TechCrunch AI",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "published": "2026-11-24T21:32:38+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "d525af540baae113a376",
+    "source": "TechCrunch AI",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+    "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "published": "2026-11-24T21:19:52+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "bd7fdcca3a3c90e2d312",
+    "source": "TechCrunch AI",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "published": "2026-11-24T18:30:42+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "ddfe8cbb74d438a344f6",
+    "source": "TechCrunch AI",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+    "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "published": "2026-11-24T18:02:59+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "fef33ad9acf295c81288",
+    "source": "TechCrunch AI",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "published": "2026-11-24T17:00:00+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "357d702fec9df1509f53",
+    "source": "TechCrunch AI",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "published": "2026-11-24T16:46:00+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "81d24046b491ea0fbf14",
+    "source": "Hugging Face Blog",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "summary": "",
+    "published": "2026-11-24T16:34:13+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "aa1139f3c4422176d2c9",
+    "source": "TechCrunch AI",
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "published": "2026-11-24T16:10:00+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "41ae3ed4cdb996b1e392",
+    "source": "TechCrunch AI",
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "published": "2026-11-24T16:02:37+00:00",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
     "id": "c225b84be98eeb4ea6f9",
     "source": "TechCrunch AI",
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -20320,6 +20437,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "7d97cbc5d9b0a89763c0",
+    "source": "OpenAI News",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "834e2da828e6cda8d680",
+    "source": "OpenAI News",
+    "title": "Searching for distant planets with Astra Science Nov 24, 2026",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-25T09:42:33+00:00"
   },
   {
     "id": "143c77871634d4125249",
