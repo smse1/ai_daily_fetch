@@ -1,5 +1,122 @@
 [
   {
+    "id": "14658bd97b2d4880fb48",
+    "source": "Hugging Face Blog",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "summary": "",
+    "published": "2026-11-26T05:05:36+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "bb03a43479d7010174cc",
+    "source": "TechCrunch AI",
+    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+    "published": "2026-11-25T22:44:32+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "8a966ac5594cf5ec1da6",
+    "source": "TechCrunch AI",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "published": "2026-11-25T20:03:27+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "882c7d3eadbc011a7729",
+    "source": "TechCrunch AI",
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+    "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+    "published": "2026-11-25T19:54:57+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "a19714f0b19807ec8528",
+    "source": "TechCrunch AI",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+    "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "published": "2026-11-25T19:44:24+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "3d6b81832c9ade1f6044",
+    "source": "Hugging Face Blog",
+    "title": "Where scientists draw the line on AI agents",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "summary": "",
+    "published": "2026-11-25T18:52:55+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "4541a8a17ff17561ebc0",
+    "source": "TechCrunch AI",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+    "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "published": "2026-11-25T18:11:46+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "98b22ade84efccf1989c",
+    "source": "TechCrunch AI",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+    "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "published": "2026-11-25T17:35:58+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "0e5d376885ebe94d7073",
+    "source": "TechCrunch AI",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+    "summary": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&#8230;]",
+    "published": "2026-11-25T15:41:43+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "17517eb6971d46f4b943",
+    "source": "TechCrunch AI",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+    "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "published": "2026-11-25T14:10:18+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "02bd23372b0f0e3a29b8",
+    "source": "TechCrunch AI",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+    "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+    "published": "2026-11-25T13:00:00+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "47e20e0040bb8e755b35",
+    "source": "Hugging Face Blog",
+    "title": "An Indic Voice Agent with CUGA",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "summary": "",
+    "published": "2026-11-25T10:22:09+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
+    "id": "be165e8acd3f307ef568",
+    "source": "MIT Technology Review AI",
+    "title": "AI is straining America’s open records systems",
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems",
+    "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he&#8230;",
+    "published": "2026-11-25T10:00:00+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
+  },
+  {
     "id": "31b4b39396939fdd7e58",
     "source": "TechCrunch AI",
     "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
@@ -7,6 +124,15 @@
     "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
     "published": "2026-11-25T00:12:02+00:00",
     "fetched_at": "2026-11-25T09:42:33+00:00"
+  },
+  {
+    "id": "cf58f91539588f345c21",
+    "source": "Hugging Face Blog",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "summary": "",
+    "published": "2026-11-25T00:00:00+00:00",
+    "fetched_at": "2026-11-26T09:18:53+00:00"
   },
   {
     "id": "596cb559ff93e52a2fa9",
@@ -20437,6 +20563,24 @@
     "summary": "",
     "published": "2026-03-10T00:00:00+00:00",
     "fetched_at": "2026-04-05T08:43:22+00:00"
+  },
+  {
+    "id": "6b5f17dffa207e6bedc8",
+    "source": "Google Research Blog",
+    "title": "November 25, 2026 Verifiable Social Reasoning for LLM Assistants Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence · Natural Language Processing",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-26T09:18:52+00:00"
+  },
+  {
+    "id": "256444a224746134e2a9",
+    "source": "Google DeepMind Blog",
+    "title": "Learn more",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+    "summary": "",
+    "published": "",
+    "fetched_at": "2026-11-26T09:18:52+00:00"
   },
   {
     "id": "7d97cbc5d9b0a89763c0",
