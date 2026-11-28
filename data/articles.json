@@ -1,5 +1,14 @@
 [
   {
+    "id": "55690d5e01f1432b4a92",
+    "source": "Hugging Face Blog",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "summary": "",
+    "published": "2026-11-27T00:00:00+00:00",
+    "fetched_at": "2026-11-28T08:47:01+00:00"
+  },
+  {
     "id": "a197b3c196e1af92b48f",
     "source": "TechCrunch AI",
     "title": "Nvidia hits pause on chip shipments to Southeast Asia",
